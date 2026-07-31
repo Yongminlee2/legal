@@ -1,0 +1,94 @@
+/* 앱 문서 공용 스타일. 왁뿌볼 앱 화면과 같은 파스텔 색을 쓴다. */
+:root {
+  color-scheme: light dark;
+  --bg: #fffdfa;
+  --card: #ffffff;
+  --ink: #2a2429;
+  --muted: #8a7f86;
+  --line: #ece4e7;
+  --accent: #f2a9c0;
+  --accent-ink: #57303c;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #17151b;
+    --card: #1e1b23;
+    --ink: #e9e5eb;
+    --muted: #9a9099;
+    --line: #2f2a35;
+    --accent: #f2a9c0;
+    --accent-ink: #2a1b21;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0 auto;
+  max-width: 46rem;
+  padding: 2.5rem 1.25rem 5rem;
+  font-family: -apple-system, "Segoe UI", "Malgun Gothic", system-ui, sans-serif;
+  line-height: 1.75;
+  color: var(--ink);
+  background: var(--bg);
+}
+
+header { margin-bottom: 2.5rem; }
+
+h1 { font-size: 1.75rem; margin: 0 0 .35rem; letter-spacing: -.01em; }
+h2 {
+  font-size: 1.15rem;
+  margin: 2.4rem 0 .6rem;
+  padding-bottom: .35rem;
+  border-bottom: 1px solid var(--line);
+}
+h3 { font-size: 1rem; margin: 1.6rem 0 .4rem; }
+
+.sub { color: var(--muted); margin: 0; font-size: .95rem; }
+
+a { color: #c96f92; }
+@media (prefers-color-scheme: dark) { a { color: #f0a8c2; } }
+
+.callout {
+  background: linear-gradient(135deg, #fdf1f5, #eef3fb);
+  border-left: 4px solid var(--accent);
+  border-radius: 0 10px 10px 0;
+  padding: 1rem 1.15rem;
+  margin: 1.5rem 0;
+}
+@media (prefers-color-scheme: dark) {
+  .callout { background: linear-gradient(135deg, #241d24, #1b1f2a); }
+}
+
+table { border-collapse: collapse; width: 100%; margin: .9rem 0; font-size: .95rem; }
+th, td { border: 1px solid var(--line); padding: .55rem .75rem; text-align: left; vertical-align: top; }
+th { background: color-mix(in srgb, var(--accent) 14%, transparent); font-weight: 600; }
+
+code {
+  background: color-mix(in srgb, var(--ink) 8%, transparent);
+  padding: .12rem .38rem;
+  border-radius: 5px;
+  font-size: .9em;
+}
+
+ul { padding-left: 1.2rem; }
+li { margin: .25rem 0; }
+
+.cards { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); margin-top: 1.5rem; }
+.card {
+  display: block;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 1.15rem 1.25rem;
+  text-decoration: none;
+  color: inherit;
+  transition: transform .12s ease, border-color .12s ease;
+}
+.card:hover { transform: translateY(-2px); border-color: var(--accent); }
+.card strong { display: block; font-size: 1.05rem; margin-bottom: .2rem; }
+.card span { color: var(--muted); font-size: .9rem; }
+
+hr { border: none; border-top: 1px solid var(--line); margin: 3rem 0; }
+
+footer { margin-top: 3.5rem; color: var(--muted); font-size: .88rem; }
