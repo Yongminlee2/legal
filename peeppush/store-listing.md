@@ -190,9 +190,33 @@ adb exec-out screencap -p > shot1.png
 
 ## 6. 출시 전 확인
 
-- [ ] **서명 키**를 만들어 `android/key.properties`로 연결 (지금은 디버그 키로 서명됨 — 이대로는 업로드 불가)
-- [ ] `flutter build appbundle --release` 로 **AAB** 생성 (APK 아님)
-- [ ] `versionCode` / `versionName` 확인
+### 코드 쪽 — 확인 끝난 것
+
+| 항목 | 상태 |
+|---|---|
+| 정적 분석 (`flutter analyze`) | 경고 0 |
+| 테스트 179개 | 전부 통과 |
+| 12개 언어 번역 누락 | 0건 (`i18n_completeness_test.dart`가 매번 검사) |
+| 자리표시자(`{n}`) 유실 | 0건 |
+| 글꼴 깨짐 | 없음 — 한글전용 폰트는 ko·en·id에만 적용 |
+| 날짜·요일 현지화 | 완료 (8월 4일 · 8/4 · 4.8. 등 언어별) |
+| 권한 | **0개** (인터넷 권한조차 없음) |
+| targetSdk / minSdk | 36 / 24 — 스토어 요건 충족 |
+| 확인용 "모든 챕터 열기" | 배포판에서 숨김 (`kDebugMode`) |
+| 300스테이지 풀이 가능 | 생성 시 솔버 검증 + `verify_hard.dart` 재검증 |
+
+### 남은 것 — 사람이 해야 함
+
+- [ ] **서명 키 생성** (지금은 디버그 키라 업로드가 거부된다)
+  ```
+  keytool -genkey -v -keystore peeppush.jks -keyalg RSA -keysize 2048 -validity 10000 -alias peeppush
+  ```
+  만든 뒤 `android/key.properties`에 연결하고 `build.gradle.kts`의
+  `signingConfigs.getByName("debug")`를 릴리즈 설정으로 바꾼다.
+  **키 파일과 비밀번호는 잃어버리면 앱을 영원히 갱신할 수 없다** — 따로 백업할 것.
+- [ ] `flutter build appbundle --release` 로 **AAB** 생성 (스토어는 APK를 안 받는다)
+- [ ] 그래픽 자산 제작 (아이콘은 `store/icon_512.png` 에 있음, 스크린샷·그래픽 이미지는 아직)
 - [ ] 위 링크 두 개가 실제로 열리는지 확인
 - [ ] 내부 테스트 트랙에 먼저 올려 설치·실행 확인
-- [ ] 12개 언어 각각에서 글자가 잘리지 않는지 확인 (독일어·러시아어가 가장 김)
+- [ ] 실기기에서 12개 언어를 눌러 보며 글자가 잘리지 않는지 확인
+      (독일어·러시아어가 가장 길다)
