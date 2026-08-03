@@ -16,6 +16,9 @@ GitHub Pages로 서비스한다 (`main` 브랜치 루트).
 | 왁뿌볼 ASMR | https://yongminlee2.github.io/legal/waxball/ |
 | — 개인정보처리방침 | https://yongminlee2.github.io/legal/waxball/privacy.html |
 | — 지원 안내 | https://yongminlee2.github.io/legal/waxball/support.html |
+| 삐약푸쉬 / Peep Push | https://yongminlee2.github.io/legal/peeppush/ |
+| — 개인정보처리방침 | https://yongminlee2.github.io/legal/peeppush/privacy.html |
+| — 지원 안내 | https://yongminlee2.github.io/legal/peeppush/support.html |
 
 ## 구조
 
@@ -26,6 +29,11 @@ waxball/
   index.html        앱 소개 — 스토어의 "웹사이트" 칸에 넣는 주소
   privacy.html      개인정보처리방침 (한국어·영어)
   support.html      지원 안내와 자주 묻는 것 (한국어·영어)
+peeppush/
+  index.html
+  privacy.html
+  support.html
+  store-listing.md  플레이 콘솔에 그대로 붙여 넣을 등록정보 (스토어에 안 뜸)
 ```
 
 ## 앱을 추가할 때
