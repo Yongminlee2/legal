@@ -6,120 +6,26 @@
 |---|---|
 | 패키지 | `com.peep.puzzle` |
 | 카테고리 | 게임 → 퍼즐 |
-| 유료 여부 | 무료 (인앱 구매 없음, 광고 없음) |
+| 유료 여부 | 무료 |
 
 ---
 
 ## 1. 스토어 등록정보
 
-> **13개 언어 전부**는 게임 저장소의 `store/등록정보-13개국어.md` 에 있다.
-> 여기에는 한국어·영어만 둔다 (콘솔 기본 언어는 **영어**로 지정한다).
->
-> 언어마다 이름이 조금씩 다르다 — 일본어는 `ピヨプッシュ - 倉庫番パズル`,
-> 중국어는 `Peep Push - 推箱子谜题` 처럼 뒷말을 그 나라 말로 붙였다.
+**여기에 옮겨 적지 않는다.** 13개 언어의 앱 이름·간단한 설명·자세한 설명은
+게임 저장소의 `store/등록정보-13개국어.md` 한 곳에만 둔다.
+두 군데에 두면 한쪽만 고치게 되고, 실제로 그런 일이 있었다.
 
-### 앱 이름 (30자 제한)
+기억할 것만 적어 둔다.
 
-| 언어 | 값 |
-|---|---|
-| 한국어 | `삐약푸쉬 - 소코반퍼즐` |
-| 영어 (기본) | `Peep Push - Sokoban Puzzle` |
-
-### 간단한 설명 (80자 제한)
-
-**한국어**
-```
-알을 밀어 둥지에 넣는 병아리 소코반 퍼즐. 300스테이지, 광고 없음.
-```
-
-**English**
-```
-A chick pushes eggs into nests. 300 hand-verified Sokoban levels. No ads.
-```
-
-### 자세한 설명 (4000자 제한)
-
-**한국어**
-```
-병아리가 알을 밀어 둥지에 넣는 소코반 퍼즐입니다.
-
-알은 밀 수만 있고 당길 수 없습니다. 그래서 한 칸 밀기 전에 생각해야 합니다.
-구석으로 밀어 넣은 알은 되돌리기 전까지 영영 나오지 않습니다.
-
-■ 300스테이지
-20챕터 × 15판. 모든 판을 컴퓨터가 직접 풀어 보고, 확실히 풀 수 있는 것만 넣었습니다.
-막힌 판은 하나도 없습니다.
-
-■ 챕터마다 도전 5판
-그냥 길기만 한 판이 아닙니다. 잘못 밀면 되돌릴 수 없게 되는 함정이 촘촘한,
-밀기 전에 생각해야 하는 판들만 골랐습니다.
-
-■ 기믹 4종
-· 얼음 — 알을 밀면 벽에 닿을 때까지 미끄러집니다
-· 굴 — 짝지어진 굴로 알과 병아리가 순간이동합니다
-· 단추와 문 — 단추 위에 뭔가 올라가 있는 동안만 문이 열립니다
-· 금 간 바닥 — 밟고 지나가면 무너져 구멍이 됩니다
-
-■ 매일 새 퍼즐
-날짜마다 새 퍼즐이 만들어집니다. 연속으로 며칠 풀었는지 기록됩니다.
-
-■ 편한 조작
-화면 아무 데나 누르면 그 자리에 조이스틱이 나타납니다.
-십자 방향키가 편하면 설정에서 바꿀 수 있습니다.
-
-■ 되돌리기는 무제한
-실수해도 괜찮습니다. 몇 번이든 되돌릴 수 있습니다.
-막혔을 때 쓰는 힌트는 개수가 정해져 있고, 스테이지를 깨면서 모읍니다.
-
-■ 13개 언어
-한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français ·
-Deutsch · Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
-■ 광고도 결제도 없습니다
-인터넷 연결조차 쓰지 않습니다. 비행기 모드에서 전부 됩니다.
-개인정보를 일절 수집하지 않습니다.
-```
-
-**English**
-```
-A Sokoban puzzle where a chick pushes eggs into their nests.
-
-Eggs can only be pushed, never pulled. So you have to think before each move —
-an egg shoved into a corner stays there until you undo.
-
-■ 300 levels
-20 chapters x 15 stages. Every single one was solved by computer before shipping,
-so there are no impossible levels.
-
-■ 5 challenge stages per chapter
-Not just longer levels. These were picked for trap density — boards where a careless
-push makes the level unwinnable, so you have to plan.
-
-■ 4 mechanics
-· Ice — pushed eggs slide until something stops them
-· Burrows — paired tunnels teleport eggs and the chick
-· Buttons and doors — a door stays open only while something rests on its button
-· Cracked floor — step off it and it collapses into a hole
-
-■ A new puzzle every day
-Freshly generated for each date, with a streak counter.
-
-■ Comfortable controls
-Touch anywhere and a joystick appears right under your thumb.
-Prefer a D-pad? Switch in settings.
-
-■ Unlimited undo
-Mistakes are fine — undo as often as you like. Hints are limited and earned
-by clearing stages, for when you are truly stuck.
-
-■ 13 languages
-English · 한국어 · 日本語 · 简体中文 · 繁體中文 · Español · Français ·
-Deutsch · Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
-■ No ads, no purchases
-The app does not even use an internet connection — it works fully in airplane mode,
-and collects no personal data whatsoever.
-```
+- 콘솔 **기본 언어는 영어(en)** 로 지정한다 (앱 자체도 영어가 기본이다)
+- 한국어만 우리말 이름 `삐약푸쉬 - 소코반퍼즐`
+- 나머지는 `Peep Push` 로 시작하되 뒷말은 그 나라 말 —
+  일본어 `ピヨプッシュ - 倉庫番パズル`, 중국어 `Peep Push - 推箱子谜题`
+- **설명 글에 광고·인앱결제·무료 이야기는 한 줄도 넣지 않았다.**
+  나중에 붙일 계획이라 지금 "없음"이라고 써 두면 그때 거짓말이 된다.
+  아래 3·4번은 다르다 — 그건 마케팅 문구가 아니라 **신고 사항**이라
+  올리는 빌드의 실제 모습대로 적어야 한다
 
 ---
 
@@ -166,6 +72,20 @@ and collects no personal data whatsoever.
 **어린이 대상 앱(Families) 프로그램**: 그림체가 유아 친화적이라 "어린이와 성인 모두"
 (Mixed audience)로 신고하는 편이 안전하다. "주로 어린이 대상"으로 신고하면
 Families 정책 심사가 추가로 붙는다.
+
+> **광고나 인앱결제를 붙이는 날 같이 고쳐야 하는 것** — 문구만 고치면 되는 게 아니다.
+> 신고 내용과 앱이 달라지면 앱이 내려간다.
+>
+> | 고칠 곳 | 무엇으로 |
+> |---|---|
+> | `AndroidManifest.xml` | `INTERNET` 권한 추가 (지금은 권한이 0개다) |
+> | 위 **3. 데이터 보안** | 광고 SDK는 광고 식별자(AAID)·기기 정보를 읽는다 → "수집함" |
+> | 위 **4. 광고·콘텐츠 등급** | 광고 포함 **예** / 인앱 구매 **예** |
+> | `privacy.html` | 광고 제공자가 무엇을 읽는지 명시 |
+> | `index.html` · `support.html` | 남아 있는 "인터넷을 쓰지 않는다" 류 문구 |
+> | 등록정보 13개 언어 | **손댈 것 없다** — 애초에 그런 말을 안 썼다 |
+>
+> 순서: 개인정보처리방침을 **먼저** 갱신하고, 그다음 광고가 든 빌드를 올린다.
 
 ---
 
