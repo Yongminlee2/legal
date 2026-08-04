@@ -65,9 +65,9 @@ A chick pushes eggs into nests. 300 hand-verified Sokoban levels. No ads.
 실수해도 괜찮습니다. 몇 번이든 되돌릴 수 있습니다.
 막혔을 때 쓰는 힌트는 개수가 정해져 있고, 스테이지를 깨면서 모읍니다.
 
-■ 12개 언어
-한국어 · English · 日本語 · 中文 · Español · Français · Deutsch ·
-Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
+■ 13개 언어
+한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français ·
+Deutsch · Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 
 ■ 광고도 결제도 없습니다
 인터넷 연결조차 쓰지 않습니다. 비행기 모드에서 전부 됩니다.
@@ -106,9 +106,9 @@ Prefer a D-pad? Switch in settings.
 Mistakes are fine — undo as often as you like. Hints are limited and earned
 by clearing stages, for when you are truly stuck.
 
-■ 12 languages
-English · 한국어 · 日本語 · 中文 · Español · Français · Deutsch ·
-Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
+■ 13 languages
+English · 한국어 · 日本語 · 简体中文 · 繁體中文 · Español · Français ·
+Deutsch · Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 
 ■ No ads, no purchases
 The app does not even use an internet connection — it works fully in airplane mode,
@@ -195,15 +195,19 @@ adb exec-out screencap -p > shot1.png
 | 항목 | 상태 |
 |---|---|
 | 정적 분석 (`flutter analyze`) | 경고 0 |
-| 테스트 179개 | 전부 통과 |
-| 12개 언어 번역 누락 | 0건 (`i18n_completeness_test.dart`가 매번 검사) |
+| 테스트 203개 | 전부 통과 |
+| 13개 언어 번역 누락 | 0건 (`i18n_completeness_test.dart`가 매번 검사) |
 | 자리표시자(`{n}`) 유실 | 0건 |
-| 글꼴 깨짐 | 없음 — 한글전용 폰트는 ko·en·id에만 적용 |
+| 글꼴 깨짐 | 없음 — 한글전용 폰트는 ko·en·id에만 적용, 나머지는 기기 폰트 |
 | 날짜·요일 현지화 | 완료 (8월 4일 · 8/4 · 4.8. 등 언어별) |
 | 권한 | **0개** (인터넷 권한조차 없음) |
 | targetSdk / minSdk | 36 / 24 — 스토어 요건 충족 |
 | 확인용 "모든 챕터 열기" | 배포판에서 숨김 (`kDebugMode`) |
 | 300스테이지 풀이 가능 | 생성 시 솔버 검증 + `verify_hard.dart` 재검증 |
+| 한글 유출 (외국어 화면) | 0건 (`no_korean_leak_test.dart`) |
+| 긴 번역 화면 깨짐 | 0건 (`long_text_overflow_test.dart`) |
+| 기기 다양성 | 0건 — 320dp~태블릿·글씨 2배·가로화면 |
+| 진행 규칙 숫자 정합성 | 0건 (`progression_consistency_test.dart`) |
 
 ### 남은 것 — 사람이 해야 함
 
@@ -218,5 +222,5 @@ adb exec-out screencap -p > shot1.png
 - [ ] 그래픽 자산 제작 (아이콘은 `store/icon_512.png` 에 있음, 스크린샷·그래픽 이미지는 아직)
 - [ ] 위 링크 두 개가 실제로 열리는지 확인
 - [ ] 내부 테스트 트랙에 먼저 올려 설치·실행 확인
-- [ ] 실기기에서 12개 언어를 눌러 보며 글자가 잘리지 않는지 확인
+- [ ] 실기기에서 13개 언어를 눌러 보며 글자가 잘리지 않는지 확인
       (독일어·러시아어가 가장 길다)
