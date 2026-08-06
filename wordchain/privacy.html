@@ -30,7 +30,7 @@
     <td>마이크</td>
     <td>단어를 말로 입력할 때</td>
     <td>안드로이드에 내장된 음성 인식에 넘겨 <strong>글자만</strong> 돌려받습니다.
-        녹음 파일을 만들지 않고, 저장하지 않으며, 어디로도 보내지 않습니다.</td>
+        이 앱은 녹음 파일을 만들지 않고, 저장하지 않으며, 직접 전송하지도 않습니다.</td>
   </tr>
   <tr>
     <td>진동</td>
@@ -40,6 +40,14 @@
 </table>
 <p>마이크 권한을 허용하지 않아도 앱은 그대로 실행되며, 키보드로 단어를 입력하면 됩니다.
 권한은 안드로이드 설정에서 언제든 취소할 수 있습니다.</p>
+
+<div class="callout">
+  <strong>음성 인식에 관해.</strong> 음성을 문자로 바꾸는 처리는 이 앱이 아니라
+  <strong>기기에 설치된 안드로이드 음성 인식 서비스</strong>가 합니다. 그 서비스가
+  기기 안에서 처리할지 제공자의 서버로 보낼지는 기기 제조사와 사용자의 설정에 따르며,
+  그 부분에는 이 앱이 아닌 <strong>해당 서비스 제공자의 개인정보처리방침</strong>이
+  적용됩니다. 이 앱은 인터넷 권한이 없어 어떤 데이터도 직접 전송하지 않습니다.
+</div>
 
 <h2>3. 기기에 저장되는 것</h2>
 <p>다음 값이 기기 내부 저장소에만 보관됩니다. 외부로 나가지 않습니다.</p>
@@ -93,7 +101,8 @@ network and no analytics SDK.</p>
     <td>Microphone</td>
     <td>To let you say a word instead of typing it</td>
     <td>Audio is passed to Android's built-in speech recogniser, which returns
-        <strong>text only</strong>. No recording is created, stored or transmitted.</td>
+        <strong>text only</strong>. This app creates no recording, stores nothing
+        and transmits nothing itself.</td>
   </tr>
   <tr>
     <td>Vibration</td>
@@ -103,6 +112,15 @@ network and no analytics SDK.</p>
 </table>
 <p>The app runs fine if you deny microphone access; just type your words instead.
 You can revoke the permission at any time in Android settings.</p>
+
+<div class="callout">
+  <strong>About speech recognition.</strong> Converting speech to text is performed by
+  the <strong>Android speech recognition service installed on your device</strong>, not
+  by this app. Whether that service processes audio on the device or sends it to its
+  provider's servers depends on your device and settings, and is governed by
+  <strong>that provider's privacy policy</strong> rather than ours. This app holds no
+  internet permission and transmits no data itself.
+</div>
 
 <h2>3. Stored on your device</h2>
 <p>The following stays in the app's private storage and never leaves the device:</p>
