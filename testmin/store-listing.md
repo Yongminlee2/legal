@@ -5,7 +5,7 @@
 | 패키지 | `com.testmin.app` |
 | 개인정보처리방침 URL | `https://yongminlee2.github.io/legal/testmin/privacy.html` |
 | 이용 안내 | `https://yongminlee2.github.io/legal/testmin/terms.html` |
-| 웹사이트 | `https://yongminlee2.github.io/legal/testmin/` |
+| 웹사이트 | `https://yongminlee2.github.io/testmin/` |
 | 지원 페이지 | `https://yongminlee2.github.io/legal/testmin/support.html` |
 | 오픈소스 라이선스 | `https://yongminlee2.github.io/legal/testmin/licenses.html` |
 | 이메일 | `dydals5678@gmail.com` |
@@ -14,5 +14,7 @@
 | 계정 | 없음 |
 | 데이터 수집·공유 | 없음 |
 
-스토어 설명, 데이터 보안·콘텐츠 등급 신고 초안과 그래픽 자료는 앱 저장소의
-`store/` 폴더에 있다. 앱 저장소가 비공개가 되어도 이 폴더의 공개 URL은 유지한다.
+스토어 설명, 데이터 보안·콘텐츠 등급 신고 초안과 그래픽 원본은 비공개로 전환할 수
+있는 앱 저장소의 `store/` 폴더에서 관리한다. Play Console에 입력하는 홈페이지,
+개인정보처리방침, 이용 안내, 지원 페이지와 라이선스 URL은 모두 이 공개 `legal`
+저장소에 있으므로 앱 저장소 공개 여부에 의존하지 않는다.
