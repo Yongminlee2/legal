@@ -13,6 +13,11 @@ GitHub Pages로 서비스한다 (`main` 브랜치 루트).
 | 문서 | 주소 |
 |---|---|
 | 앱 목록 | https://yongminlee2.github.io/legal/ |
+| 테스트의 민족 | https://yongminlee2.github.io/legal/testmin/ |
+| — 개인정보처리방침 | https://yongminlee2.github.io/legal/testmin/privacy.html |
+| — 이용 안내 | https://yongminlee2.github.io/legal/testmin/terms.html |
+| — 지원 안내 | https://yongminlee2.github.io/legal/testmin/support.html |
+| — 오픈소스 라이선스 | https://yongminlee2.github.io/legal/testmin/licenses.html |
 | 왁뿌볼 ASMR | https://yongminlee2.github.io/legal/waxball/ |
 | — 개인정보처리방침 | https://yongminlee2.github.io/legal/waxball/privacy.html |
 | — 지원 안내 | https://yongminlee2.github.io/legal/waxball/support.html |
@@ -34,6 +39,15 @@ peeppush/
   privacy.html
   support.html
   store-listing.md  플레이 콘솔에 그대로 붙여 넣을 등록정보 (스토어에 안 뜸)
+testmin/
+  index.html
+  privacy.html
+  terms.html
+  support.html
+  licenses.html
+  store-listing.md
+  feature-graphic-1024x500.png
+  social-preview-1200x630.png
 ```
 
 ## 앱을 추가할 때
