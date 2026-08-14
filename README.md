@@ -24,6 +24,9 @@ GitHub Pages로 서비스한다 (`main` 브랜치 루트).
 | 삐약푸쉬 / Peep Push | https://yongminlee2.github.io/legal/peeppush/ |
 | — 개인정보처리방침 | https://yongminlee2.github.io/legal/peeppush/privacy.html |
 | — 지원 안내 | https://yongminlee2.github.io/legal/peeppush/support.html |
+| 삐약과학 / Peep Science | https://yongminlee2.github.io/legal/peepscience/ |
+| — 개인정보처리방침 | https://yongminlee2.github.io/legal/peepscience/privacy.html |
+| — 지원 안내 | https://yongminlee2.github.io/legal/peepscience/support.html |
 
 ## 구조
 
