@@ -40,21 +40,21 @@ Português (Brasil) / Русский / Tiếng Việt / Bahasa Indonesia / ไ�
 ```
 **짧은 설명**
 ```
-검을 두드려 올립니다. 부서지면 되살릴지 조각을 챙길지 그 자리에서 고릅니다.
+검을 강화해서 올립니다. 부서지면 되살릴지 조각을 챙길지 그 자리에서 고릅니다.
 ```
 **자세한 설명**
 ```
-검 한 자루를 두드려 올리는 게임입니다.
+검 한 자루를 계속 강화하는 게임입니다.
 
 ■ 강화 — 올리거나, 내려가거나, 부서지거나
 성공하면 +1. +5까지는 실패해도 검이 그대로지만, 그 위부터는 한 단계 내려갑니다.
 +10부터는 부서질 수 있습니다.
 부서진 그 순간 고릅니다 — 검을 되살릴지, 조각을 챙길지. 시간이 지나면 둘 다 놓칩니다.
 
-■ 일곱 계열 — 벼려서 넘어간다
+■ 일곱 계열 — 강화해서 넘어간다
 직검·곡도·대검·세검으로 시작합니다. 곡도는 +10을 찍으면, 대검은 검을 세 자루 부숴 보면,
 세검은 +15를 찍으면 열립니다.
-+20짜리 두 자루를 태우면 새 계열 +1이 됩니다.
++20짜리 두 자루를 합치면 새 계열 +1이 됩니다.
 직검+곡도는 마검, 대검+세검은 성검, 마검+성검은 용검.
 용검부터는 전설 구간이 열려 +50까지 올라갑니다.
 
@@ -92,7 +92,7 @@ Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 **출시 노트**
 ```
 첫 출시입니다.
-검을 +50까지 올리고, 일곱 계열을 벼리고, 힌트만 보고 고유검을 찾아냅니다.
+검을 +50까지 강화하고, 일곱 계열을 모으고, 힌트만 보고 고유검을 찾아냅니다.
 사냥터 24구역 144종과 무한 회랑, 펫 24종, 도감 174칸.
 13개 언어로 즐길 수 있습니다.
 ```
@@ -107,11 +107,11 @@ Sword Forge — Enhance & Break
 ```
 **짧은 설명**
 ```
-Hammer one sword higher. When it shatters: restore it, or salvage shards.
+Enhance one sword higher. When it shatters: restore it, or salvage shards.
 ```
 **자세한 설명**
 ```
-A game about hammering one sword higher.
+A game about enhancing one sword, over and over.
 
 ■ Enhancing — climb, drop, or shatter
 A success adds +1. Up to +5 a failure leaves the sword untouched; above that it drops a level.
@@ -119,10 +119,10 @@ From +10 it can shatter.
 The moment it shatters you choose: restore the sword, or salvage shards. Let the timer run out
 and you get neither.
 
-■ Seven families — forge your way across
+■ Seven families — enhance your way across
 You start with the Straight Sword, Curved Sword, Greatsword and Rapier. The Curved Sword opens
 at +10, the Greatsword after you survive three shatters, the Rapier at +15.
-Burn two swords at +20 and a new family begins at +1.
+Combine two swords at +20 and a new family begins at +1.
 Straight + Curved makes the Demon Sword, Greatsword + Rapier the Holy Sword,
 Demon + Holy the Dragon Sword.
 From the Dragon Sword the legendary range opens and runs to +50.
@@ -162,7 +162,7 @@ Music (CC0): "On The Offensive" — Ted Kerr / "Battle Theme A" — cynicmusic
 **출시 노트**
 ```
 First release.
-Take a sword to +50, forge your way through seven families, and work out the Unique Swords
+Take a sword to +50, work through seven families, and figure out the Unique Swords
 from hints alone.
 24 hunting zones with 144 monsters, the Infinite Corridor, 24 pets, a 174-slot collection.
 Playable in 13 languages.
@@ -174,25 +174,25 @@ Playable in 13 languages.
 
 **앱 이름**
 ```
-剣強化 — 一本を鍛え上げる
+剣強化 — 一本を強くする
 ```
 **짧은 설명**
 ```
-剣を叩いて上げる。砕けた瞬間、直すかシャードを拾うかをその場で選ぶ。
+剣を強化して上げる。砕けた瞬間、直すかシャードを拾うかをその場で選ぶ。
 ```
 **자세한 설명**
 ```
-剣を一本、叩いて上げていくゲームです。
+剣を一本、ひたすら強化していくゲームです。
 
 ■ 強化 — 上がるか、下がるか、砕けるか
 成功すれば +1。+5 までは失敗しても剣はそのままですが、その上は一段階下がります。
 +10 からは砕けることがあります。
 砕けたその瞬間に選びます — 剣を直すか、シャードを拾うか。時間が過ぎれば両方逃します。
 
-■ 七つの系統 — 鍛えて渡っていく
+■ 七つの系統 — 強化して渡っていく
 直剣・曲刀・大剣・レイピアから始まります。曲刀は +10 で、大剣は剣を三本砕くと、
 レイピアは +15 で開きます。
-+20 の二本を焼べると新しい系統が +1 で生まれます。
++20 の二本を合成すると新しい系統が +1 で生まれます。
 直剣+曲刀で魔剣、大剣+レイピアで聖剣、魔剣+聖剣でドラゴンソード。
 ドラゴンソードからは伝説の区間が開き、+50 まで上がります。
 
@@ -230,7 +230,7 @@ Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 **출시 노트**
 ```
 初回リリースです。
-剣を +50 まで上げ、七つの系統を鍛え、ヒントだけを頼りにユニークソードを解き明かします。
+剣を +50 まで強化し、七つの系統を集め、ヒントだけを頼りにユニークソードを解き明かします。
 狩猟場24区域144種、無限回廊、ペット24種、図鑑174枠。
 13言語で遊べます。
 ```
@@ -241,24 +241,24 @@ Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 
 **앱 이름**
 ```
-锻剑 — 把一把剑打到底
+锻剑 — 一把剑强化到底
 ```
 **짧은 설명**
 ```
-把剑一锤一锤打上去。碎裂的瞬间，是修好还是捡碎片，你当场决定。
+把一把剑一路强化上去。碎裂的瞬间，是修好还是捡碎片，你当场决定。
 ```
 **자세한 설명**
 ```
-一把剑，一锤一锤打上去。
+一把剑，一路强化上去。
 
 ■ 强化 — 上升、掉级，或者碎裂
 成功加 +1。到 +5 为止，失败也不会动这把剑；再往上会掉一级。
 从 +10 起可能碎裂。
 碎裂的那一刻你要选：修好这把剑，还是捡走碎片。时间过了两样都拿不到。
 
-■ 七个系列 — 一路锻过去
+■ 七个系列 — 一路强化过去
 从直剑、弯剑、巨剑、细剑开始。弯剑到 +10 开启，巨剑要先碎三把剑，细剑到 +15 开启。
-把两把 +20 烧掉，新系列从 +1 开始。
+把两把 +20 合成，新系列从 +1 开始。
 直剑+弯剑成魔剑，巨剑+细剑成圣剑，魔剑+圣剑成龙剑。
 从龙剑起开启传说区间，一路到 +50。
 
@@ -296,7 +296,7 @@ Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 **출시 노트**
 ```
 首次发布。
-把剑打到 +50，锻穿七个系列，只凭线索解开独有之剑。
+把剑强化到 +50，集齐七个系列，只凭线索解开独有之剑。
 狩猎场 24 个区域 144 种怪、无限回廊、24 种宠物、174 格图鉴。
 支持 13 种语言。
 ```
@@ -307,24 +307,24 @@ Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 
 **앱 이름**
 ```
-鍛劍 — 把一把劍打到底
+鍛劍 — 一把劍強化到底
 ```
 **짧은 설명**
 ```
-把劍一錘一錘打上去。碎裂的瞬間，是修好還是撿碎片，你當場決定。
+把一把劍一路強化上去。碎裂的瞬間，是修好還是撿碎片，你當場決定。
 ```
 **자세한 설명**
 ```
-一把劍，一錘一錘打上去。
+一把劍，一路強化上去。
 
 ■ 強化 — 上升、掉級，或者碎裂
 成功加 +1。到 +5 為止，失敗也不會動這把劍；再往上會掉一級。
 從 +10 起可能碎裂。
 碎裂的那一刻你要選：修好這把劍，還是撿走碎片。時間過了兩樣都拿不到。
 
-■ 七個系列 — 一路鍛過去
+■ 七個系列 — 一路強化過去
 從直劍、彎劍、大劍、細劍開始。彎劍到 +10 開啟，大劍要先碎三把劍，細劍到 +15 開啟。
-把兩把 +20 燒掉，新系列從 +1 開始。
+把兩把 +20 合成，新系列從 +1 開始。
 直劍+彎劍成魔劍，大劍+細劍成聖劍，魔劍+聖劍成龍劍。
 從龍劍起開啟傳說區間，一路到 +50。
 
@@ -362,7 +362,7 @@ Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 **출시 노트**
 ```
 首次發布。
-把劍打到 +50，鍛穿七個系列，只憑線索解開獨有之劍。
+把劍強化到 +50，集齊七個系列，只憑線索解開獨有之劍。
 狩獵場 24 個區域 144 種怪、無限迴廊、24 種寵物、174 格圖鑑。
 支援 13 種語言。
 ```
@@ -373,24 +373,24 @@ Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 
 **앱 이름**
 ```
-鍛劍 — 把一把劍打到底
+鍛劍 — 一把劍強化到底
 ```
 **짧은 설명**
 ```
-把劍一錘一錘打上去。碎裂嗰一刻，係修好定係執碎片，你當場決定。
+把一把劍一路強化上去。碎裂嗰一刻，係修好定係執碎片，你當場決定。
 ```
 **자세한 설명**
 ```
-一把劍，一錘一錘打上去。
+一把劍，一路強化上去。
 
 ■ 強化 — 上升、掉級，或者碎裂
 成功加 +1。到 +5 為止，失敗都唔會郁到把劍；再上去就會跌一級。
 由 +10 起有機會碎裂。
 碎裂嗰一刻你要揀：修好把劍，定係執走碎片。過咗時間兩樣都冇。
 
-■ 七個系列 — 一路鍛過去
+■ 七個系列 — 一路強化過去
 由直劍、彎劍、大劍、細劍開始。彎劍到 +10 開啟，大劍要先碎三把劍，細劍到 +15 開啟。
-燒掉兩把 +20，新系列由 +1 開始。
+合成兩把 +20，新系列由 +1 開始。
 直劍+彎劍成魔劍，大劍+細劍成聖劍，魔劍+聖劍成龍劍。
 由龍劍起開啟傳說區間，一路去到 +50。
 
@@ -428,7 +428,7 @@ Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 **출시 노트**
 ```
 首次發布。
-把劍打到 +50，鍛穿七個系列，凈係靠線索解開獨有之劍。
+把劍強化到 +50，集齊七個系列，凈係靠線索解開獨有之劍。
 狩獵場 24 個區域 144 種怪、無限迴廊、24 種寵物、174 格圖鑑。
 支援 13 種語言。
 ```
@@ -443,11 +443,11 @@ Forja de Espadas: sube o rompe
 ```
 **짧은 설명**
 ```
-Golpea una espada para subirla. Si se rompe: repárala o salva fragmentos.
+Mejora una espada para subirla. Si se rompe: repárala o salva fragmentos.
 ```
 **자세한 설명**
 ```
-Un juego sobre golpear una sola espada hasta lo más alto.
+Un juego sobre mejorar una sola espada, una y otra vez.
 
 ■ Mejora: sube, baja o se rompe
 Un acierto suma +1. Hasta +5 un fallo deja la espada intacta; por encima baja un nivel.
@@ -455,10 +455,10 @@ Desde +10 puede romperse.
 En el instante en que se rompe eliges: recuperar la espada o salvar fragmentos.
 Si se acaba el tiempo, pierdes las dos cosas.
 
-■ Siete familias: forja tu camino
+■ Siete familias: mejora hasta la siguiente
 Empiezas con la espada recta, la curva, la gran espada y el estoque. La curva se abre al +10,
 la gran espada tras sobrevivir a tres roturas, el estoque al +15.
-Quema dos espadas a +20 y nace una familia nueva en +1.
+Combina dos espadas a +20 y nace una familia nueva en +1.
 Recta + curva da la espada demoníaca; gran espada + estoque, la sagrada;
 demoníaca + sagrada, la espada del dragón.
 Desde la espada del dragón se abre el tramo legendario, que llega hasta +50.
@@ -498,7 +498,7 @@ Música (CC0): «On The Offensive» — Ted Kerr / «Battle Theme A» — cynicm
 **출시 노트**
 ```
 Primera versión.
-Sube una espada hasta +50, forja las siete familias y descubre las espadas únicas
+Sube una espada hasta +50, reúne las siete familias y descubre las espadas únicas
 solo con pistas.
 24 zonas de caza con 144 monstruos, el corredor infinito, 24 mascotas y 174 casillas de colección.
 Disponible en 13 idiomas.
@@ -514,11 +514,11 @@ Forge d'Épées — Monte ou casse
 ```
 **짧은 설명**
 ```
-Martèle une épée pour la monter. Si elle se brise : répare ou récupère.
+Améliore une épée pour la monter. Si elle se brise : répare ou récupère.
 ```
 **자세한 설명**
 ```
-Un jeu où l'on martèle une seule épée toujours plus haut.
+Un jeu où l'on améliore une seule épée, encore et encore.
 
 ■ Amélioration : monter, redescendre ou se briser
 Une réussite ajoute +1. Jusqu'à +5, un échec laisse l'épée intacte ; au-dessus, elle perd un niveau.
@@ -526,10 +526,10 @@ Une réussite ajoute +1. Jusqu'à +5, un échec laisse l'épée intacte ; au-des
 À l'instant où elle se brise, tu choisis : réparer l'épée ou récupérer des éclats.
 Si le temps s'écoule, tu perds les deux.
 
-■ Sept familles : forge ton chemin
+■ Sept familles : améliore jusqu'à la suivante
 Tu commences avec l'épée droite, l'épée courbe, la grande épée et la rapière. L'épée courbe
 s'ouvre à +10, la grande épée après trois bris survécus, la rapière à +15.
-Brûle deux épées à +20 et une nouvelle famille naît à +1.
+Combine deux épées à +20 et une nouvelle famille naît à +1.
 Droite + courbe donne l'épée démoniaque ; grande épée + rapière, l'épée sacrée ;
 démoniaque + sacrée, l'épée du dragon.
 À partir de l'épée du dragon, la plage légendaire s'ouvre et grimpe jusqu'à +50.
@@ -571,7 +571,7 @@ Musique (CC0) : « On The Offensive » — Ted Kerr / « Battle Theme A » — c
 **출시 노트**
 ```
 Première version.
-Monte une épée jusqu'à +50, forge les sept familles et devine les épées uniques
+Monte une épée jusqu'à +50, réunis les sept familles et devine les épées uniques
 avec les seuls indices.
 24 zones de chasse et 144 monstres, le couloir infini, 24 familiers, 174 cases de collection.
 Jouable en 13 langues.
@@ -583,15 +583,15 @@ Jouable en 13 langues.
 
 **앱 이름**
 ```
-Schwertschmiede — Schmieden
+Schwertschmiede — Verstärken
 ```
 **짧은 설명**
 ```
-Hämmere ein Schwert höher. Zerbricht es, wählst du: retten oder Scherben bergen.
+Verstärke ein Schwert höher. Zerbricht es: retten oder Scherben bergen.
 ```
 **자세한 설명**
 ```
-Ein Spiel darüber, ein einziges Schwert immer höher zu hämmern.
+Ein Spiel darüber, ein einziges Schwert immer weiter zu verstärken.
 
 ■ Verstärken: steigen, sinken oder zerbrechen
 Ein Erfolg gibt +1. Bis +5 bleibt das Schwert bei einem Fehlschlag unberührt; darüber verliert
@@ -599,10 +599,10 @@ es eine Stufe. Ab +10 kann es zerbrechen.
 Im Moment des Bruchs wählst du: das Schwert wiederherstellen oder Scherben bergen.
 Läuft die Zeit ab, ist beides weg.
 
-■ Sieben Familien: schmiede dich hinüber
+■ Sieben Familien: verstärke dich hinüber
 Du beginnst mit Geradem Schwert, Gebogenem Schwert, Großschwert und Rapier. Das Gebogene
 öffnet bei +10, das Großschwert nach drei überstandenen Brüchen, das Rapier bei +15.
-Verbrenne zwei Schwerter auf +20, und eine neue Familie beginnt bei +1.
+Kombiniere zwei Schwerter auf +20, und eine neue Familie beginnt bei +1.
 Gerade + Gebogen ergibt das Dämonenschwert, Großschwert + Rapier das Heilige Schwert,
 Dämonen + Heilig das Drachenschwert.
 Ab dem Drachenschwert öffnet sich der legendäre Bereich und läuft bis +50.
@@ -644,7 +644,7 @@ Musik (CC0): „On The Offensive" — Ted Kerr / „Battle Theme A" — cynicmus
 **출시 노트**
 ```
 Erste Veröffentlichung.
-Bring ein Schwert auf +50, schmiede dich durch sieben Familien und finde die einzigartigen
+Bring ein Schwert auf +50, sammle die sieben Familien und finde die einzigartigen
 Schwerter allein aus Hinweisen.
 24 Jagdzonen mit 144 Monstern, der unendliche Korridor, 24 Haustiere, 174 Sammlungsfelder.
 In 13 Sprachen spielbar.
@@ -660,11 +660,11 @@ Forja de Espadas: sobe ou cai
 ```
 **짧은 설명**
 ```
-Martele uma espada para subir. Se quebrar: restaure ou salve fragmentos.
+Aprimore uma espada para subir. Se quebrar: restaure ou salve fragmentos.
 ```
 **자세한 설명**
 ```
-Um jogo sobre martelar uma única espada cada vez mais alto.
+Um jogo sobre aprimorar uma única espada, vez após vez.
 
 ■ Aprimoramento: sobe, cai ou quebra
 Um acerto soma +1. Até +5 uma falha deixa a espada intacta; acima disso ela cai um nível.
@@ -672,10 +672,10 @@ A partir de +10 ela pode quebrar.
 No instante em que quebra você escolhe: restaurar a espada ou salvar fragmentos.
 Se o tempo acabar, você perde os dois.
 
-■ Sete famílias: forje o seu caminho
+■ Sete famílias: aprimore até a seguinte
 Você começa com a espada reta, a curva, a espada grande e o florete. A curva abre em +10,
 a espada grande depois de sobreviver a três quebras, o florete em +15.
-Queime duas espadas em +20 e uma família nova nasce em +1.
+Combine duas espadas em +20 e uma família nova nasce em +1.
 Reta + curva dá a espada demoníaca; espada grande + florete, a sagrada;
 demoníaca + sagrada, a espada do dragão.
 A partir da espada do dragão abre-se a faixa lendária, que vai até +50.
@@ -717,7 +717,7 @@ Música (CC0): "On The Offensive" — Ted Kerr / "Battle Theme A" — cynicmusic
 **출시 노트**
 ```
 Primeira versão.
-Leve uma espada até +50, forje as sete famílias e descubra as espadas únicas
+Leve uma espada até +50, reúna as sete famílias e descubra as espadas únicas
 só pelas dicas.
 24 zonas de caça com 144 monstros, o corredor infinito, 24 mascotes, 174 espaços de coleção.
 Jogável em 13 idiomas.
@@ -729,15 +729,15 @@ Jogável em 13 idiomas.
 
 **앱 이름**
 ```
-Кузница Мечей: ковать до конца
+Кузница Мечей: до +50
 ```
 **짧은 설명**
 ```
-Куй один меч всё выше. Разбился — выбирай: вернуть его или забрать осколки.
+Улучшай один меч всё выше. Разбился — выбирай: вернуть его или забрать осколки.
 ```
 **자세한 설명**
 ```
-Игра о том, как ковать один-единственный меч всё выше.
+Игра о том, как улучшать один-единственный меч снова и снова.
 
 ■ Улучшение: вверх, вниз или вдребезги
 Успех даёт +1. До +5 неудача не трогает меч; выше — он теряет уровень.
@@ -745,10 +745,10 @@ Jogável em 13 idiomas.
 В тот миг, когда меч разбился, ты выбираешь: вернуть его или забрать осколки.
 Время выйдет — не будет ни того, ни другого.
 
-■ Семь семейств: прокуй себе дорогу
+■ Семь семейств: улучшай до следующего
 Начинаешь с прямого меча, изогнутого, большого и рапиры. Изогнутый открывается на +10,
 большой — после трёх пережитых разрушений, рапира — на +15.
-Сожги два меча на +20, и новое семейство начнётся с +1.
+Соедини два меча на +20, и новое семейство начнётся с +1.
 Прямой + изогнутый дают демонический меч, большой + рапира — святой,
 демонический + святой — меч дракона.
 С меча дракона открывается легендарный отрезок, он идёт до +50.
@@ -789,7 +789,7 @@ Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 **출시 노트**
 ```
 Первый выпуск.
-Доведи меч до +50, прокуй семь семейств и разгадай уникальные мечи по одним подсказкам.
+Доведи меч до +50, собери семь семейств и разгадай уникальные мечи по одним подсказкам.
 24 охотничьи зоны со 144 монстрами, бесконечный коридор, 24 питомца, коллекция на 174 ячейки.
 Играется на 13 языках.
 ```
@@ -804,11 +804,11 @@ Rèn Kiếm — Lên hoặc vỡ
 ```
 **짧은 설명**
 ```
-Rèn một thanh kiếm lên cao. Kiếm vỡ thì bạn chọn: cứu nó hay nhặt mảnh vỡ.
+Cường hóa một thanh kiếm lên cao. Kiếm vỡ thì bạn chọn: cứu nó hay nhặt mảnh vỡ.
 ```
 **자세한 설명**
 ```
-Một trò chơi về việc rèn một thanh kiếm lên mãi.
+Một trò chơi về việc cường hóa một thanh kiếm mãi không thôi.
 
 ■ Cường hóa: lên, tụt, hoặc vỡ
 Thành công cộng +1. Đến +5 thất bại không đụng tới kiếm; trên nữa thì tụt một cấp.
@@ -816,10 +816,10 @@ Từ +10 kiếm có thể vỡ.
 Đúng lúc kiếm vỡ bạn phải chọn: phục hồi kiếm hay nhặt mảnh vỡ.
 Hết giờ thì mất cả hai.
 
-■ Bảy hệ: rèn để đi tiếp
+■ Bảy hệ: cường hóa để đi tiếp
 Bạn bắt đầu với kiếm thẳng, đao cong, đại kiếm và rapier. Đao cong mở ở +10,
 đại kiếm sau khi chịu ba lần vỡ, rapier ở +15.
-Đốt hai thanh +20 thì một hệ mới ra đời ở +1.
+Ghép hai thanh +20 thì một hệ mới ra đời ở +1.
 Kiếm thẳng + đao cong thành quỷ kiếm; đại kiếm + rapier thành thánh kiếm;
 quỷ kiếm + thánh kiếm thành kiếm rồng.
 Từ kiếm rồng mở ra đoạn truyền thuyết, đi tới +50.
@@ -858,7 +858,7 @@ Nhạc (CC0): "On The Offensive" — Ted Kerr / "Battle Theme A" — cynicmusic
 **출시 노트**
 ```
 Bản phát hành đầu tiên.
-Đưa một thanh kiếm lên +50, rèn qua bảy hệ, và giải ra kiếm độc đáo chỉ bằng gợi ý.
+Đưa một thanh kiếm lên +50, gom đủ bảy hệ, và giải ra kiếm độc đáo chỉ bằng gợi ý.
 24 vùng săn với 144 loại quái, hành lang vô tận, 24 thú cưng, bộ sưu tập 174 ô.
 Chơi được bằng 13 ngôn ngữ.
 ```
@@ -873,11 +873,11 @@ Tempa Pedang — Naik atau pecah
 ```
 **짧은 설명**
 ```
-Tempa satu pedang makin tinggi. Kalau pecah: pulihkan atau ambil pecahan.
+Tingkatkan satu pedang makin tinggi. Kalau pecah: pulihkan atau ambil pecahan.
 ```
 **자세한 설명**
 ```
-Permainan tentang menempa satu pedang setinggi mungkin.
+Permainan tentang meningkatkan satu pedang, terus-menerus.
 
 ■ Peningkatan: naik, turun, atau pecah
 Berhasil menambah +1. Sampai +5 kegagalan tidak mengubah pedang; di atasnya turun satu tingkat.
@@ -885,10 +885,10 @@ Mulai dari +10 pedang bisa pecah.
 Begitu pecah kamu memilih: pulihkan pedangnya, atau selamatkan pecahannya.
 Kalau waktunya habis, dua-duanya hilang.
 
-■ Tujuh keluarga: tempa jalanmu
+■ Tujuh keluarga: tingkatkan sampai berikutnya
 Kamu mulai dengan pedang lurus, pedang melengkung, pedang hebat, dan rapier. Pedang melengkung
 terbuka di +10, pedang hebat setelah tiga kali pecah, rapier di +15.
-Bakar dua pedang di +20 dan keluarga baru lahir di +1.
+Gabungkan dua pedang di +20 dan keluarga baru lahir di +1.
 Lurus + melengkung jadi pedang setan; pedang hebat + rapier jadi pedang suci;
 setan + suci jadi pedang naga.
 Dari pedang naga terbuka rentang legenda, sampai +50.
@@ -930,7 +930,7 @@ Musik (CC0): "On The Offensive" — Ted Kerr / "Battle Theme A" — cynicmusic
 **출시 노트**
 ```
 Rilis pertama.
-Bawa satu pedang ke +50, tempa tujuh keluarga, dan pecahkan pedang unik hanya dari petunjuk.
+Bawa satu pedang ke +50, kumpulkan tujuh keluarga, dan pecahkan pedang unik hanya dari petunjuk.
 24 zona berburu dengan 144 monster, koridor tanpa batas, 24 hewan peliharaan,
 koleksi 174 petak.
 Bisa dimainkan dalam 13 bahasa.
@@ -946,21 +946,21 @@ Bisa dimainkan dalam 13 bahasa.
 ```
 **짧은 설명**
 ```
-ตีดาบเล่มเดียวให้สูงขึ้น ถ้าแตก คุณเลือกเอง จะซ่อมหรือจะเก็บเศษ
+เสริมพลังดาบเล่มเดียวให้สูงขึ้น ถ้าแตก คุณเลือกเอง จะซ่อมหรือจะเก็บเศษ
 ```
 **자세한 설명**
 ```
-เกมที่คุณตีดาบเล่มเดียวให้สูงขึ้นเรื่อย ๆ
+เกมที่คุณเสริมพลังดาบเล่มเดียวไปเรื่อย ๆ
 
 ■ เสริมพลัง — ขึ้น ลง หรือแตก
 สำเร็จได้ +1 ถึง +5 ถ้าล้มเหลวดาบยังคงเดิม เหนือจากนั้นจะลดลงหนึ่งขั้น
 ตั้งแต่ +10 ดาบอาจแตกได้
 ทันทีที่แตก คุณต้องเลือก จะซ่อมดาบหรือจะเก็บเศษ ถ้าหมดเวลาจะไม่ได้ทั้งสองอย่าง
 
-■ เจ็ดสาย — ตีเพื่อข้ามไป
+■ เจ็ดสาย — เสริมพลังเพื่อข้ามไป
 เริ่มจากดาบตรง ดาบโค้ง ดาบใหญ่ และเรเปียร์ ดาบโค้งเปิดที่ +10
 ดาบใหญ่เปิดเมื่อทำดาบแตกครบสามครั้ง เรเปียร์เปิดที่ +15
-เผาดาบ +20 สองเล่ม แล้วสายใหม่จะเกิดที่ +1
+รวมดาบ +20 สองเล่ม แล้วสายใหม่จะเกิดที่ +1
 ดาบตรง+ดาบโค้งได้ดาบปีศาจ ดาบใหญ่+เรเปียร์ได้ดาบศักดิ์สิทธิ์
 ดาบปีศาจ+ดาบศักดิ์สิทธิ์ได้ดาบมังกร
 ตั้งแต่ดาบมังกรจะเปิดช่วงตำนาน ไปได้ถึง +50
@@ -999,7 +999,7 @@ Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 **출시 노트**
 ```
 เปิดตัวครั้งแรก
-ตีดาบให้ถึง +50 ตีผ่านทั้งเจ็ดสาย และไขดาบเฉพาะตัวจากเบาะแสเพียงอย่างเดียว
+เสริมพลังดาบให้ถึง +50 เก็บครบทั้งเจ็ดสาย และไขดาบเฉพาะตัวจากเบาะแสเพียงอย่างเดียว
 พื้นที่ล่าสัตว์ 24 โซน 144 ชนิด โถงอนันต์ สัตว์เลี้ยง 24 ชนิด สมุดภาพ 174 ช่อง
 เล่นได้ 13 ภาษา
 ```
