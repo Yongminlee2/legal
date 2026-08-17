@@ -40,12 +40,20 @@ Português (Brasil) / Русский / Tiếng Việt / Bahasa Indonesia / ไ�
 ```
 **짧은 설명**
 ```
-큐브가 없어도 폰으로 돌립니다. 단계별로 배우고, 막히면 다음 수를 알려줍니다.
+실물 큐브를 카메라로 찍으면 다음 수를 알려줍니다. 처음부터 배울 수도 있어요.
 ```
 **자세한 설명**
 ```
-실물 큐브가 없어도 폰에서 큐브를 돌릴 수 있습니다.
-손가락으로 밀면 그 줄이 돌아가고, 두 손가락으로 끌면 큐브 전체가 굴러갑니다.
+맞추다 만 실물 큐브가 어딘가에 있나요?
+여섯 면을 카메라로 비추면 색을 읽어, 지금 상태에서 무엇을 돌려야 하는지 한 수씩 알려줍니다.
+
+■ 실물 큐브 맞추기 — 카메라로 찍어서
+손에 든 큐브의 여섯 면을 차례로 비추면 색을 읽어 화면으로 옮깁니다.
+그다음 힌트를 누르면, 그 큐브를 풀려면 지금 무엇을 돌려야 하는지 알려줍니다.
+화면에 뜬 대로 손에 든 큐브를 돌리고 다시 힌트를 누르면 됩니다. 이렇게 끝까지 맞출 수 있습니다.
+색을 잘못 읽었으면 직접 골라 고칠 수 있고,
+애초에 맞출 수 없는 배치는 이유를 알려주며 막아 줍니다.
+(스티커가 뒤집혀 끼워진 경우처럼 눈으로는 알기 어려운 것도 잡아냅니다.)
 
 ■ 배우기 — 한 번도 못 맞춰 봤다면
 7단계 코스를 따라가면 3×3을 끝까지 맞출 수 있습니다.
@@ -61,12 +69,6 @@ Português (Brasil) / Русский / Tiếng Việt / Bahasa Indonesia / ไ�
 2×2, 3×3, 4×4를 섞고 시간을 잽니다.
 15초 인스펙션, 최고 기록, ao5와 ao12를 볼 수 있습니다.
 
-■ 실물 큐브 가져오기
-카메라로 여섯 면을 비추면 색을 읽어 화면으로 옮깁니다.
-직접 색을 골라 칠할 수도 있습니다.
-맞출 수 없는 배치는 이유를 알려주며 막아 줍니다.
-(스티커가 뒤집혀 끼워진 경우처럼 눈으로는 알기 어려운 것도 잡아냅니다.)
-
 ■ 큐브 꾸미기
 색감 스킨과 그림 스킨 중에서 고릅니다.
 그림 스킨은 한 면에 그림 한 장을 펼치거나 칸마다 반복할 수 있습니다.
@@ -77,6 +79,14 @@ Português (Brasil) / Русский / Tiếng Việt / Bahasa Indonesia / ไ�
 · 어두운 화면과 밝은 화면 중에 고를 수 있습니다.
 · 14개 언어를 지원합니다.
 · 인터넷 연결이 필요 없습니다.
+```
+**출시 노트**
+```
+첫 출시입니다.
+· 실물 큐브를 카메라로 찍어 다음에 돌릴 수를 확인할 수 있습니다.
+· 7단계 코스로 3×3 맞추는 법을 처음부터 배웁니다.
+· 2×2 · 3×3 · 4×4 연습과 타이머, 최고 기록과 ao5 · ao12.
+· 14개 언어를 지원하고, 인터넷 연결이 필요 없습니다.
 ```
 
 ---
@@ -89,12 +99,20 @@ Português (Brasil) / Русский / Tiếng Việt / Bahasa Indonesia / ไ�
 ```
 **짧은 설명**
 ```
-Turn a cube on your phone. Learn step by step, with a hint when you get stuck.
+Scan your real cube and get the next move. Or learn to solve it from scratch.
 ```
 **자세한 설명**
 ```
-You don't need a real cube to start turning one.
-Swipe a row to turn it, or drag with two fingers to roll the whole cube.
+Is there a real cube somewhere that you gave up on?
+Show its six faces to the camera and the app reads the colors, then tells you the very next move.
+
+■ Solve your real cube — just scan it
+Show each of the six faces to the camera and the colors are read into the app.
+Press Hint and it tells you what to turn right now to solve that exact cube.
+Turn it in your hand, press Hint again, and keep going until it is solved.
+If a color is read wrong you can fix it by hand,
+and a cube that cannot be solved is refused with the reason why.
+(It catches what the eye misses, like a sticker put back the wrong way round.)
 
 ■ Learn — if you've never solved one
 A 7-stage course takes you all the way through a 3×3.
@@ -111,12 +129,6 @@ The net view highlights the piece you should be looking at.
 Scramble and time 2×2, 3×3 and 4×4.
 15-second inspection, personal best, ao5 and ao12.
 
-■ Bring in your real cube
-Point the camera at all six faces and the colors are read onto the screen.
-You can also pick colors and paint them in by hand.
-Arrangements that cannot be solved are rejected with the reason why
-(it even catches a corner twisted in place, which is hard to spot by eye).
-
 ■ Make it yours
 Choose a color scheme or a picture skin.
 Picture skins can spread one image across a whole face or repeat it per sticker.
@@ -127,6 +139,14 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 · Dark and light themes.
 · Available in 14 languages.
 · No internet connection required.
+```
+**출시 노트**
+```
+First release.
+· Scan a real cube with the camera and see the next move to make.
+· A 7-stage course teaches the 3x3 from the very beginning.
+· Practice 2x2, 3x3 and 4x4 with a timer, best time, ao5 and ao12.
+· 14 languages. No internet connection needed.
 ```
 
 ---
@@ -139,12 +159,20 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 ```
 **짧은 설명**
 ```
-実物がなくてもスマホで回せます。段階的に学び、詰まったら次の一手を教えます。
+実物のキューブをカメラで撮ると次の一手がわかります。最初から学ぶこともできます。
 ```
 **자세한 설명**
 ```
-実物のキューブがなくても、スマホで回せます。
-列をなぞるとその段が回り、2本指でドラッグするとキューブ全体が転がります。
+途中で諦めた実物のキューブはありませんか。
+六面をカメラに写せば色を読み取り、今の状態から次に回す一手を教えます。
+
+■ 実物のキューブを揃える — カメラで撮るだけ
+手元のキューブの六面を順にカメラへ向けると、色を読み取って画面に取り込みます。
+そのままヒントを押せば、そのキューブを揃えるために今どこを回すかがわかります。
+画面のとおりに手で回し、またヒントを押す。これを繰り返せば最後まで揃います。
+色を読み違えたら自分で直せますし、
+そもそも揃わない配置は理由を示して止めます。
+（ステッカーが裏返しに入っているような、目では気づきにくいものも見つけます。）
 
 ■ 学ぶ — 一度も揃えたことがない方へ
 7ステップのコースで3×3を最後まで揃えられます。
@@ -160,12 +188,6 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 2×2・3×3・4×4をスクランブルしてタイムを計ります。
 15秒インスペクション、ベスト記録、ao5とao12に対応。
 
-■ 実物のキューブを取り込む
-カメラで6面を写すと色を読み取って画面に移します。
-色を選んで手で塗ることもできます。
-揃えられない配置は理由を示して止めます
-（角がねじれて入っているような、見た目では気づきにくいものも見つけます）。
-
 ■ 見た目を変える
 色のスキンと絵柄のスキンから選べます。
 絵柄は1面に1枚を広げるか、マスごとに繰り返すかを選べます。
@@ -176,6 +198,14 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 ・ダークとライトを選べます。
 ・14言語に対応しています。
 ・インターネット接続は不要です。
+```
+**출시 노트**
+```
+初回リリースです。
+・実物のキューブをカメラで撮り、次に回す一手を確認できます。
+・7段階のコースで3×3の揃え方を最初から学べます。
+・2×2・3×3・4×4の練習とタイマー、自己ベストとao5・ao12。
+・14言語に対応し、インターネット接続は不要です。
 ```
 
 ---
@@ -188,12 +218,20 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 ```
 **짧은 설명**
 ```
-没有实体魔方也能在手机上转动。分步学习，卡住时告诉你下一步。
+用相机拍下实体魔方，就告诉你下一步。也能从零学起。
 ```
 **자세한 설명**
 ```
-没有实体魔方，也能在手机上转起来。
-滑动一行即可转动那一层，双指拖动可以翻转整个魔方。
+有没有一个中途放弃的实体魔方？
+把六个面对准相机，应用读出颜色，然后告诉你现在该转哪一步。
+
+■ 还原你的实体魔方 — 拍一下就行
+把手中魔方的六个面依次对准相机，颜色就被读进应用里。
+接着点提示，它会告诉你要还原这个魔方，现在该转什么。
+照着屏幕转动手中的魔方，再点提示，一直到还原为止。
+颜色读错了可以自己改，
+根本无法还原的排列会被拦下并说明原因。
+（连贴纸装反这种肉眼难以发现的问题也能查出。）
 
 ■ 学习 — 如果你从没还原过
 7 步课程带你完整还原 3×3。
@@ -209,12 +247,6 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 打乱并计时 2×2、3×3、4×4。
 支持 15 秒观察、最佳成绩、ao5 与 ao12。
 
-■ 导入你的实体魔方
-用相机拍摄六个面，颜色会被识别并搬到屏幕上。
-也可以自己选颜色手动涂。
-无法还原的配色会说明原因并拦下
-（连角块被拧转这种肉眼难以发现的情况也能查出）。
-
 ■ 自定义外观
 可以选择配色皮肤或图案皮肤。
 图案可以整面铺一张图，也可以每格重复。
@@ -225,6 +257,14 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 · 可选深色与浅色。
 · 支持 14 种语言。
 · 无需联网。
+```
+**출시 노트**
+```
+首次发布。
+· 用相机拍下实体魔方，查看下一步该转什么。
+· 7 个阶段的课程，从零学会还原 3×3。
+· 2×2、3×3、4×4 练习与计时，最佳成绩和 ao5、ao12。
+· 支持 14 种语言，无需联网。
 ```
 
 ---
@@ -237,12 +277,20 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 ```
 **짧은 설명**
 ```
-沒有實體魔方也能在手機上轉動。分步學習，卡住時告訴你下一步。
+用相機拍下實體魔方，就告訴你下一步。也能從零學起。
 ```
 **자세한 설명**
 ```
-沒有實體魔方，也能在手機上轉起來。
-滑動一行即可轉動那一層，雙指拖曳可以翻轉整個魔方。
+有沒有一個中途放棄的實體魔方？
+把六個面對準相機，應用程式讀出顏色，然後告訴你現在該轉哪一步。
+
+■ 還原你的實體魔方 — 拍一下就行
+把手中魔方的六個面依序對準相機，顏色就會讀進應用程式裡。
+接著點提示，它會告訴你要還原這個魔方，現在該轉什麼。
+照著螢幕轉動手中的魔方，再點提示，一直到還原為止。
+顏色讀錯了可以自己修改，
+根本無法還原的排列會被擋下並說明原因。
+（連貼紙裝反這種肉眼難以發現的問題也能查出。）
 
 ■ 學習 — 如果你從沒還原過
 7 步課程帶你完整還原 3×3。
@@ -258,12 +306,6 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 打亂並計時 2×2、3×3、4×4。
 支援 15 秒觀察、最佳成績、ao5 與 ao12。
 
-■ 匯入你的實體魔方
-用相機拍攝六個面，顏色會被辨識並搬到螢幕上。
-也可以自己選顏色手動塗。
-無法還原的配色會說明原因並攔下
-（連角塊被扭轉這種肉眼難以發現的情況也能查出）。
-
 ■ 自訂外觀
 可以選擇配色外觀或圖案外觀。
 圖案可以整面鋪一張圖，也可以每格重複。
@@ -274,6 +316,14 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 · 可選深色與淺色。
 · 支援 14 種語言。
 · 無需連網。
+```
+**출시 노트**
+```
+首次發布。
+· 用相機拍下實體魔方，查看下一步該轉什麼。
+· 7 個階段的課程，從零學會還原 3×3。
+· 2×2、3×3、4×4 練習與計時，最佳成績和 ao5、ao12。
+· 支援 14 種語言，無需連網。
 ```
 
 ---
@@ -286,12 +336,20 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 ```
 **짧은 설명**
 ```
-沒有實體魔方也能在手機上轉動。分步學習，卡住時告訴你下一步。
+用相機拍下實體魔方，就告訴你下一步。也能從零學起。
 ```
 **자세한 설명**
 ```
-沒有實體魔方，也能在手機上轉起來。
-滑動一行即可轉動那一層，雙指拖曳可以翻轉整個魔方。
+有沒有一個中途放棄的實體魔方？
+把六個面對準相機，應用程式讀出顏色，然後告訴你現在該轉哪一步。
+
+■ 還原你的實體魔方 — 拍一下就行
+把手中魔方的六個面依序對準相機，顏色就會讀進應用程式裡。
+接著點提示，它會告訴你要還原這個魔方，現在該轉什麼。
+照著螢幕轉動手中的魔方，再點提示，一直到還原為止。
+顏色讀錯了可以自己修改，
+根本無法還原的排列會被擋下並說明原因。
+（連貼紙裝反這種肉眼難以發現的問題也能查出。）
 
 ■ 學習 — 如果你從沒還原過
 7 步課程帶你完整還原 3×3。
@@ -307,12 +365,6 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 打亂並計時 2×2、3×3、4×4。
 支援 15 秒觀察、最佳成績、ao5 與 ao12。
 
-■ 匯入你的實體魔方
-用相機拍攝六個面，顏色會被辨識並搬到螢幕上。
-也可以自己選顏色手動塗。
-無法還原的配色會說明原因並攔下
-（連角塊被扭轉這種肉眼難以發現的情況也能查出）。
-
 ■ 自訂外觀
 可以選擇配色外觀或圖案外觀。
 圖案可以整面鋪一張圖，也可以每格重複。
@@ -323,6 +375,14 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 · 可選深色與淺色。
 · 支援 14 種語言。
 · 無需連網。
+```
+**출시 노트**
+```
+首次發布。
+· 用相機拍下實體魔方，查看下一步該轉什麼。
+· 7 個階段的課程，從零學會還原 3×3。
+· 2×2、3×3、4×4 練習與計時，最佳成績和 ao5、ao12。
+· 支援 14 種語言，無需連網。
 ```
 
 ---
@@ -335,12 +395,20 @@ Cubo 3D — Aprende y practica
 ```
 **짧은 설명**
 ```
-Gira un cubo en el móvil. Aprende paso a paso y recibe una pista si te atascas.
+Escanea tu cubo real y te decimos el siguiente giro. O aprende desde cero.
 ```
 **자세한 설명**
 ```
-No hace falta un cubo real para empezar a girar uno.
-Desliza una fila para girarla o arrastra con dos dedos para voltear el cubo entero.
+¿Tienes por ahí un cubo real que dejaste a medias?
+Enfoca sus seis caras con la cámara: la app lee los colores y te dice el siguiente giro.
+
+■ Resuelve tu cubo real — solo escanéalo
+Muestra a la cámara las seis caras y los colores entran en la app.
+Pulsa Pista y te dirá qué girar ahora mismo para resolver ese cubo.
+Gíralo en la mano, pulsa Pista otra vez y sigue así hasta terminarlo.
+Si algún color se lee mal, puedes corregirlo a mano,
+y un cubo imposible de resolver se rechaza explicando por qué.
+(Detecta lo que no se ve, como una pegatina colocada al revés.)
 
 ■ Aprende — si nunca has resuelto uno
 Un curso de 7 etapas te lleva de principio a fin con el 3×3.
@@ -357,12 +425,6 @@ La vista desplegada resalta la pieza en la que debes fijarte.
 Mezcla y cronometra 2×2, 3×3 y 4×4.
 Inspección de 15 segundos, mejor marca, ao5 y ao12.
 
-■ Trae tu cubo real
-Apunta la cámara a las seis caras y los colores pasan a la pantalla.
-También puedes elegir los colores y pintarlos a mano.
-Las combinaciones imposibles se rechazan explicando el motivo
-(detecta incluso una esquina girada, algo difícil de ver a simple vista).
-
 ■ Personalízalo
 Elige entre diseños de color o diseños con imagen.
 Las imágenes pueden ocupar una cara entera o repetirse en cada casilla.
@@ -373,6 +435,14 @@ Las imágenes pueden ocupar una cara entera o repetirse en cada casilla.
 · Temas oscuro y claro.
 · Disponible en 14 idiomas.
 · No necesita conexión a internet.
+```
+**출시 노트**
+```
+Primera versión.
+· Escanea un cubo real con la cámara y mira el siguiente giro.
+· Un curso de 7 etapas enseña el 3x3 desde el principio.
+· Practica 2x2, 3x3 y 4x4 con cronómetro, mejor tiempo, ao5 y ao12.
+· 14 idiomas. No necesita conexión a internet.
 ```
 
 ---
@@ -385,13 +455,20 @@ Cube 3D — Apprendre & Timer
 ```
 **짧은 설명**
 ```
-Tournez un cube sur votre téléphone. Apprenez pas à pas, avec des indices.
+Scannez votre vrai cube : on vous donne le coup suivant. Ou apprenez à zéro.
 ```
 **자세한 설명**
 ```
-Pas besoin d'un vrai cube pour commencer à en tourner un.
-Balayez une rangée pour la tourner, ou faites glisser à deux doigts pour
-faire rouler le cube entier.
+Vous avez un vrai cube abandonné en cours de route ?
+Montrez ses six faces à la caméra : l'app lit les couleurs et vous donne le coup suivant.
+
+■ Résolvez votre vrai cube — il suffit de le scanner
+Présentez les six faces à la caméra, les couleurs sont importées dans l'app.
+Appuyez sur Indice : elle vous dit quoi tourner maintenant pour résoudre ce cube précis.
+Tournez-le dans votre main, appuyez de nouveau sur Indice, et continuez jusqu'au bout.
+Si une couleur est mal lue, vous pouvez la corriger vous-même,
+et un cube impossible à résoudre est refusé avec l'explication.
+(Elle repère ce qui ne se voit pas, comme un autocollant remis à l'envers.)
 
 ■ Apprendre — si vous n'avez jamais réussi
 Un cours en 7 étapes vous mène au bout du 3×3.
@@ -409,12 +486,6 @@ La vue dépliée met en évidence la pièce à observer.
 Mélangez et chronométrez le 2×2, le 3×3 et le 4×4.
 Inspection de 15 secondes, record personnel, ao5 et ao12.
 
-■ Importez votre vrai cube
-Filmez les six faces et les couleurs sont lues puis reportées à l'écran.
-Vous pouvez aussi choisir les couleurs et les peindre à la main.
-Les configurations impossibles sont refusées avec l'explication
-(même un coin vrillé, difficile à repérer à l'œil, est détecté).
-
 ■ Personnalisez
 Choisissez un jeu de couleurs ou un skin illustré.
 Une image peut couvrir une face entière ou se répéter sur chaque case.
@@ -425,6 +496,14 @@ Une image peut couvrir une face entière ou se répéter sur chaque case.
 · Thèmes sombre et clair.
 · Disponible en 14 langues.
 · Aucune connexion internet requise.
+```
+**출시 노트**
+```
+Première version.
+· Scannez un vrai cube avec la caméra et voyez le coup suivant.
+· Un cours en 7 étapes enseigne le 3x3 depuis le début.
+· Entraînement 2x2, 3x3 et 4x4 avec chrono, meilleur temps, ao5 et ao12.
+· 14 langues. Aucune connexion internet nécessaire.
 ```
 
 ---
@@ -437,13 +516,20 @@ Une image peut couvrir une face entière ou se répéter sur chaque case.
 ```
 **짧은 설명**
 ```
-Dreh einen Würfel am Handy. Lerne Schritt für Schritt, mit Hinweis bei Bedarf.
+Scanne deinen echten Würfel — wir zeigen den nächsten Zug. Oder lerne es neu.
 ```
 **자세한 설명**
 ```
-Du brauchst keinen echten Würfel, um mit dem Drehen anzufangen.
-Wische über eine Reihe, um sie zu drehen, oder ziehe mit zwei Fingern,
-um den ganzen Würfel zu rollen.
+Liegt bei dir ein echter Würfel herum, den du aufgegeben hast?
+Halte seine sechs Seiten vor die Kamera: Die App liest die Farben und nennt den nächsten Zug.
+
+■ Löse deinen echten Würfel — einfach abscannen
+Halte der Kamera die sechs Seiten nacheinander hin, die Farben landen in der App.
+Tippe auf Hinweis, und sie sagt dir, was du jetzt drehen musst, um genau diesen Würfel zu lösen.
+Dreh ihn in der Hand, tippe wieder auf Hinweis, und mach so weiter bis zum Schluss.
+Wurde eine Farbe falsch gelesen, kannst du sie von Hand korrigieren,
+und ein unlösbarer Würfel wird mit Begründung abgelehnt.
+(Sie erkennt auch, was man nicht sieht — etwa einen verkehrt herum eingesetzten Aufkleber.)
 
 ■ Lernen — wenn du noch nie einen gelöst hast
 Ein Kurs in 7 Stufen bringt dich beim 3×3 bis zum Ende.
@@ -461,12 +547,6 @@ Die Netzansicht hebt das Teil hervor, auf das du achten sollst.
 Mische und stoppe die Zeit bei 2×2, 3×3 und 4×4.
 15-Sekunden-Inspektion, Bestzeit, ao5 und ao12.
 
-■ Deinen echten Würfel übernehmen
-Richte die Kamera auf alle sechs Seiten — die Farben landen auf dem Bildschirm.
-Du kannst die Farben auch selbst auswählen und eintragen.
-Unlösbare Stellungen werden mit Begründung abgelehnt
-(auch eine verdrehte Ecke, die man mit bloßem Auge kaum sieht).
-
 ■ Nach deinem Geschmack
 Wähle ein Farbschema oder einen Bild-Skin.
 Bilder können eine ganze Seite füllen oder sich pro Feld wiederholen.
@@ -477,6 +557,14 @@ Bilder können eine ganze Seite füllen oder sich pro Feld wiederholen.
 · Dunkles und helles Design.
 · In 14 Sprachen verfügbar.
 · Keine Internetverbindung nötig.
+```
+**출시 노트**
+```
+Erste Version.
+· Scanne einen echten Würfel mit der Kamera und sieh den nächsten Zug.
+· Ein Kurs in 7 Stufen bringt dir den 3x3 von Grund auf bei.
+· Übe 2x2, 3x3 und 4x4 mit Timer, Bestzeit, ao5 und ao12.
+· 14 Sprachen. Keine Internetverbindung nötig.
 ```
 
 ---
@@ -489,12 +577,20 @@ Cubo 3D — Aprenda e treine
 ```
 **짧은 설명**
 ```
-Gire um cubo no celular. Aprenda passo a passo e receba dicas quando travar.
+Escaneie seu cubo real e receba o próximo giro. Ou aprenda do zero.
 ```
 **자세한 설명**
 ```
-Você não precisa de um cubo de verdade para começar a girar um.
-Deslize uma fileira para girá-la ou arraste com dois dedos para rolar o cubo inteiro.
+Tem um cubo real por aí que você deixou pela metade?
+Mostre as seis faces para a câmera: o app lê as cores e diz o próximo giro.
+
+■ Resolva seu cubo real — é só escanear
+Mostre as seis faces à câmera e as cores entram no app.
+Toque em Dica e ele diz o que girar agora para resolver aquele cubo.
+Gire na mão, toque em Dica de novo e siga assim até o fim.
+Se alguma cor for lida errada, você corrige na mão,
+e um cubo impossível de resolver é recusado com o motivo.
+(Ele pega até o que não dá para ver, como um adesivo colocado ao contrário.)
 
 ■ Aprender — se você nunca resolveu
 Um curso de 7 etapas leva você até o fim do 3×3.
@@ -511,12 +607,6 @@ A vista planificada destaca a peça que você deve observar.
 Embaralhe e cronometre 2×2, 3×3 e 4×4.
 Inspeção de 15 segundos, melhor marca, ao5 e ao12.
 
-■ Traga seu cubo real
-Aponte a câmera para as seis faces e as cores vão para a tela.
-Você também pode escolher as cores e pintá-las manualmente.
-Combinações impossíveis são recusadas com o motivo
-(detecta até um canto torcido, difícil de perceber a olho nu).
-
 ■ Deixe do seu jeito
 Escolha um esquema de cores ou um skin com imagem.
 As imagens podem cobrir uma face inteira ou se repetir em cada adesivo.
@@ -527,6 +617,14 @@ As imagens podem cobrir uma face inteira ou se repetir em cada adesivo.
 · Temas escuro e claro.
 · Disponível em 14 idiomas.
 · Não precisa de internet.
+```
+**출시 노트**
+```
+Primeira versão.
+· Escaneie um cubo real com a câmera e veja o próximo giro.
+· Um curso de 7 etapas ensina o 3x3 desde o começo.
+· Treine 2x2, 3x3 e 4x4 com cronômetro, melhor tempo, ao5 e ao12.
+· 14 idiomas. Não precisa de internet.
 ```
 
 ---
@@ -539,13 +637,20 @@ As imagens podem cobrir uma face inteira ou se repetir em cada adesivo.
 ```
 **짧은 설명**
 ```
-Крутите кубик на телефоне. Учитесь по шагам и получайте подсказки.
+Снимите настоящий кубик — подскажем следующий ход. Или научитесь с нуля.
 ```
 **자세한 설명**
 ```
-Чтобы начать крутить кубик, настоящий не нужен.
-Проведите по ряду, чтобы повернуть его, или тяните двумя пальцами,
-чтобы прокрутить весь кубик.
+Есть настоящий кубик, который вы бросили на полпути?
+Покажите камере шесть граней — приложение прочитает цвета и подскажет следующий ход.
+
+■ Соберите настоящий кубик — просто снимите его
+Покажите камере шесть граней по очереди, и цвета попадут в приложение.
+Нажмите «Подсказка» — и увидите, что повернуть прямо сейчас, чтобы собрать именно этот кубик.
+Поверните его в руках, нажмите подсказку снова и так до самого конца.
+Если цвет распознан неверно, его можно поправить вручную,
+а неразрешимую раскладку приложение отклонит и объяснит причину.
+(Оно замечает и то, чего не видно глазом, — например, наклейку, вставленную наоборот.)
 
 ■ Обучение — если вы ни разу не собирали
 Курс из 7 этапов проведёт вас через 3×3 от начала до конца.
@@ -562,12 +667,6 @@ As imagens podem cobrir uma face inteira ou se repetir em cada adesivo.
 Перемешивайте и засекайте время на 2×2, 3×3 и 4×4.
 15 секунд на осмотр, личный рекорд, ao5 и ao12.
 
-■ Перенесите свой настоящий кубик
-Наведите камеру на все шесть граней — цвета попадут на экран.
-Цвета можно выбрать и расставить и вручную.
-Невозможные расстановки отклоняются с объяснением причины
-(находит даже повёрнутый угол, который на глаз почти не заметен).
-
 ■ Оформление
 Выберите цветовую схему или скин с рисунком.
 Рисунок можно растянуть на всю грань или повторить на каждой клетке.
@@ -578,6 +677,14 @@ As imagens podem cobrir uma face inteira ou se repetir em cada adesivo.
 · Тёмная и светлая темы.
 · Доступно на 14 языках.
 · Интернет не требуется.
+```
+**출시 노트**
+```
+Первый выпуск.
+· Снимите настоящий кубик камерой и увидите следующий ход.
+· Курс из 7 этапов учит собирать 3x3 с самого начала.
+· Тренировка 2x2, 3x3 и 4x4 с таймером, лучшим временем, ao5 и ao12.
+· 14 языков. Интернет не нужен.
 ```
 
 ---
@@ -590,12 +697,20 @@ Khối 3D — Học và bấm giờ
 ```
 **짧은 설명**
 ```
-Xoay khối ngay trên điện thoại. Học từng bước, bí thì đã có gợi ý.
+Quét khối thật bằng camera, ứng dụng chỉ nước tiếp theo. Hoặc học từ đầu.
 ```
 **자세한 설명**
 ```
-Không cần khối thật bạn vẫn có thể bắt đầu xoay.
-Vuốt một hàng để xoay hàng đó, hoặc kéo bằng hai ngón để lăn cả khối.
+Bạn có khối lập phương thật nào đang bỏ dở không?
+Đưa sáu mặt vào camera: ứng dụng đọc màu rồi chỉ cho bạn nước tiếp theo.
+
+■ Giải khối thật của bạn — chỉ cần quét
+Lần lượt đưa sáu mặt của khối trong tay vào camera, màu sẽ được đọc vào ứng dụng.
+Nhấn Gợi ý, ứng dụng cho biết ngay phải xoay gì để giải đúng khối đó.
+Xoay khối trong tay theo màn hình, nhấn Gợi ý lần nữa, cứ thế cho đến khi xong.
+Nếu màu bị đọc sai, bạn có thể tự sửa,
+còn cách sắp xếp vốn không thể giải được sẽ bị chặn kèm lý do.
+(Nó phát hiện cả lỗi mắt thường khó thấy, như miếng dán bị lắp ngược.)
 
 ■ Học — nếu bạn chưa từng giải được
 Khóa 7 bước đưa bạn đi hết khối 3×3.
@@ -612,12 +727,6 @@ Hình khai triển sẽ làm nổi bật mảnh bạn cần nhìn.
 Trộn và bấm giờ cho 2×2, 3×3 và 4×4.
 Quan sát 15 giây, thành tích tốt nhất, ao5 và ao12.
 
-■ Đưa khối thật của bạn vào
-Đưa camera qua sáu mặt, màu sẽ được đọc và chuyển lên màn hình.
-Bạn cũng có thể tự chọn màu rồi tô bằng tay.
-Những cách xếp không thể giải sẽ bị chặn kèm lý do
-(phát hiện cả góc bị xoay lệch, thứ rất khó thấy bằng mắt).
-
 ■ Trang trí theo ý bạn
 Chọn bộ màu hoặc giao diện có hình.
 Hình có thể trải kín một mặt hoặc lặp lại trên từng ô.
@@ -628,6 +737,14 @@ Hình có thể trải kín một mặt hoặc lặp lại trên từng ô.
 · Có giao diện tối và sáng.
 · Hỗ trợ 14 ngôn ngữ.
 · Không cần kết nối internet.
+```
+**출시 노트**
+```
+Phiên bản đầu tiên.
+· Quét khối thật bằng camera và xem nước xoay tiếp theo.
+· Khóa học 7 bước dạy giải 3x3 từ đầu.
+· Luyện 2x2, 3x3 và 4x4 với đồng hồ, kỷ lục, ao5 và ao12.
+· 14 ngôn ngữ. Không cần kết nối internet.
 ```
 
 ---
@@ -640,13 +757,20 @@ Kubus 3D — Belajar & Timer
 ```
 **짧은 설명**
 ```
-Putar kubus di ponsel. Belajar bertahap, dan ada petunjuk saat kamu buntu.
+Pindai kubus asli dengan kamera, lalu lihat langkah berikutnya. Atau belajar.
 ```
 **자세한 설명**
 ```
-Kamu tidak butuh kubus asli untuk mulai memutarnya.
-Geser satu baris untuk memutarnya, atau seret dengan dua jari
-untuk menggulingkan seluruh kubus.
+Punya kubus asli yang terlanjur kamu tinggalkan?
+Arahkan keenam sisinya ke kamera: aplikasi membaca warnanya lalu memberi langkah berikutnya.
+
+■ Selesaikan kubus aslimu — cukup dipindai
+Tunjukkan keenam sisi kubus di tanganmu ke kamera, warnanya masuk ke aplikasi.
+Tekan Petunjuk, lalu muncul apa yang harus diputar sekarang untuk menyelesaikan kubus itu.
+Putar di tanganmu sesuai layar, tekan Petunjuk lagi, begitu terus sampai selesai.
+Kalau ada warna yang salah dibaca, kamu bisa memperbaikinya sendiri,
+dan susunan yang memang mustahil diselesaikan akan ditolak beserta alasannya.
+(Hal yang sulit dilihat mata pun terdeteksi, seperti stiker yang terpasang terbalik.)
 
 ■ Belajar — kalau kamu belum pernah menyelesaikannya
 Kursus 7 tahap membawamu menuntaskan kubus 3×3.
@@ -663,12 +787,6 @@ Tampilan jaring menyorot bagian yang perlu kamu perhatikan.
 Acak dan hitung waktu untuk 2×2, 3×3, dan 4×4.
 Inspeksi 15 detik, rekor terbaik, ao5 dan ao12.
 
-■ Bawa masuk kubus aslimu
-Arahkan kamera ke keenam sisi, warnanya dibaca dan dipindahkan ke layar.
-Kamu juga bisa memilih warna dan mewarnainya sendiri.
-Susunan yang mustahil diselesaikan akan ditolak beserta alasannya
-(bahkan sudut yang terpuntir pun terdeteksi, padahal sulit dilihat mata).
-
 ■ Sesuaikan tampilannya
 Pilih skema warna atau skin bergambar.
 Gambar bisa memenuhi satu sisi penuh atau diulang di tiap kotak.
@@ -679,6 +797,14 @@ Gambar bisa memenuhi satu sisi penuh atau diulang di tiap kotak.
 · Tema gelap dan terang.
 · Tersedia dalam 14 bahasa.
 · Tidak perlu koneksi internet.
+```
+**출시 노트**
+```
+Versi pertama.
+· Pindai kubus asli dengan kamera dan lihat langkah berikutnya.
+· Kursus 7 tahap mengajarkan 3x3 dari awal.
+· Latihan 2x2, 3x3, dan 4x4 dengan timer, rekor terbaik, ao5 dan ao12.
+· 14 bahasa. Tidak perlu koneksi internet.
 ```
 
 ---
@@ -691,12 +817,20 @@ Gambar bisa memenuhi satu sisi penuh atau diulang di tiap kotak.
 ```
 **짧은 설명**
 ```
-หมุนลูกบาศก์บนมือถือ เรียนทีละขั้น และมีคำใบ้เมื่อคุณติด
+สแกนลูกบาศก์จริงด้วยกล้อง แล้วดูว่าต้องหมุนอะไรต่อ หรือเรียนตั้งแต่ต้น
 ```
 **자세한 설명**
 ```
-ไม่ต้องมีลูกบาศก์จริงก็เริ่มหมุนได้
-ปัดแถวเพื่อหมุนแถวนั้น หรือลากด้วยสองนิ้วเพื่อกลิ้งลูกบาศก์ทั้งลูก
+มีลูกบาศก์จริงที่คุณเลิกแก้กลางคันอยู่ไหม
+หันทั้งหกด้านเข้ากล้อง แอปจะอ่านสีแล้วบอกว่าต้องหมุนอะไรต่อ
+
+■ แก้ลูกบาศก์จริงของคุณ — แค่สแกน
+หันทั้งหกด้านของลูกบาศก์ในมือเข้ากล้องทีละด้าน สีจะถูกอ่านเข้าแอป
+แล้วกดคำใบ้ แอปจะบอกว่าต้องหมุนอะไรตอนนี้เพื่อแก้ลูกบาศก์นั้น
+หมุนในมือตามที่เห็นบนจอ กดคำใบ้อีกครั้ง ทำแบบนี้ไปจนแก้เสร็จ
+ถ้าอ่านสีผิด คุณแก้เองได้
+ส่วนการจัดเรียงที่แก้ไม่ได้จริง ๆ จะถูกปฏิเสธพร้อมบอกเหตุผล
+(ตรวจจับสิ่งที่ตามองไม่เห็นได้ด้วย เช่น สติกเกอร์ที่ติดกลับด้าน)
 
 ■ เรียนรู้ — ถ้าคุณยังไม่เคยแก้ได้
 คอร์ส 7 ขั้นพาคุณแก้ลูกบาศก์ 3×3 จนจบ
@@ -713,12 +847,6 @@ Gambar bisa memenuhi satu sisi penuh atau diulang di tiap kotak.
 สับและจับเวลา 2×2, 3×3 และ 4×4
 มีเวลาตรวจสอบ 15 วินาที สถิติที่ดีที่สุด ao5 และ ao12
 
-■ นำลูกบาศก์จริงของคุณเข้ามา
-ส่องกล้องให้ครบหกด้าน แล้วสีจะถูกอ่านและย้ายขึ้นหน้าจอ
-หรือจะเลือกสีแล้วระบายเองก็ได้
-การจัดเรียงที่แก้ไม่ได้จะถูกปฏิเสธพร้อมบอกเหตุผล
-(ตรวจพบแม้แต่มุมที่ถูกบิด ซึ่งสังเกตด้วยตาได้ยาก)
-
 ■ แต่งให้เป็นแบบคุณ
 เลือกชุดสีหรือสกินแบบภาพ
 ภาพจะปูเต็มหนึ่งด้าน หรือทำซ้ำในทุกช่องก็ได้
@@ -729,6 +857,14 @@ Gambar bisa memenuhi satu sisi penuh atau diulang di tiap kotak.
 · มีธีมมืดและสว่าง
 · รองรับ 14 ภาษา
 · ไม่ต้องเชื่อมต่ออินเทอร์เน็ต
+```
+**출시 노트**
+```
+เวอร์ชันแรก
+· สแกนลูกบาศก์จริงด้วยกล้องแล้วดูว่าต้องหมุนอะไรต่อ
+· คอร์ส 7 ขั้นสอนแก้ 3x3 ตั้งแต่เริ่มต้น
+· ฝึก 2x2, 3x3 และ 4x4 พร้อมจับเวลา สถิติดีที่สุด ao5 และ ao12
+· รองรับ 14 ภาษา ไม่ต้องต่ออินเทอร์เน็ต
 ```
 
 ---
@@ -768,15 +904,33 @@ Gambar bisa memenuhi satu sisi penuh atau diulang di tiap kotak.
 코드상 이미지를 파일로 쓰거나 네트워크로 보내는 경로 자체가 없다.
 데이터 보안 신고에서 이 점을 그대로 답하면 된다.
 
-## 스크린샷 (준비 필요)
+## 스크린샷 (14개 언어 준비 완료)
 
-폰에서 찍는다. 최소 2장, 권장 4~8장.
+갤럭시 S20 울트라로 찍어 **1080 × 2160** 으로 잘라 두었다.
+플레이스토어 휴대전화 스크린샷은 긴 변이 짧은 변의 2배를 넘으면 반려되는데,
+원본 1080 × 2400 은 2.22배라 상태 표시줄과 내비게이션 바를 잘라 정확히 2:1 로 맞춘 것이다.
 
-1. 연습 화면 — 섞인 큐브와 전개도
-2. 배우기 목록 — 7단계
-3. 단계 화면 — 설명과 공식 카드
-4. 힌트가 뜬 연습 화면
-5. 실물 큐브 넣기
+파일 위치 — `C:\workAndroid\3Dcube\Build\store\<언어코드>\`
+
+| 파일 | 화면 |
+|---|---|
+| `1_home.png` | 첫 화면 — 큐브 크기 고르기와 메뉴 |
+| `2_practice.png` | 연습 — 섞인 큐브와 힌트가 뜬 상태 |
+| `3_learn.png` | 배우기 — 1단계 흰 십자 |
+| `4_skin.png` | 큐브 스킨 고르기 |
+| `5_camera.png` | 실물 큐브 촬영 — 색 기준과 인식 격자 |
+
+언어코드 폴더: `ko en ja zhCN zhTW zhHK es fr de pt ru vi id th`
+
+콘솔에서 언어를 추가할 때마다 그 언어 폴더의 다섯 장을 순서대로 올린다.
+`2_practice.png` 를 첫 장으로 올리면 힌트 기능이 바로 보이므로 그쪽을 권한다.
+
+## 서명
+
+다른 앱과 같은 키를 쓴다. 원본은 `C:\workAndroid\_서명키_백업\` 에 있고,
+앱 저장소에는 `upload.jks` 와 `keystore.properties` 로 복사해 두었다
+(둘 다 .gitignore 에 있어 저장소에는 올라가지 않는다).
+릴리스 AAB 는 `Build/cube.aab` 로 나온다.
 
 ## 오픈소스 고지 (자세한 설명 맨 아래에 붙인다)
 
