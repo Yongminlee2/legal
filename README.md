@@ -27,6 +27,9 @@ GitHub Pages로 서비스한다 (`main` 브랜치 루트).
 | 삐약과학 / Peep Science | https://yongminlee2.github.io/legal/peepscience/ |
 | — 개인정보처리방침 | https://yongminlee2.github.io/legal/peepscience/privacy.html |
 | — 지원 안내 | https://yongminlee2.github.io/legal/peepscience/support.html |
+| 3D 큐브 / 3D Cube | https://yongminlee2.github.io/legal/cube3d/ |
+| — 개인정보처리방침 | https://yongminlee2.github.io/legal/cube3d/privacy.html |
+| — 지원 안내 | https://yongminlee2.github.io/legal/cube3d/support.html |
 
 ## 구조
 
@@ -65,3 +68,8 @@ testmin/
 분석 도구를 넣으면 방침 내용도 같이 고쳐야 하고, 플레이 콘솔의
 "광고 포함 여부"와 "데이터 보안" 신고도 다시 해야 한다.
 고친 날짜(최종 수정일)도 함께 갱신한다.
+
+**다른 앱 방침을 복사할 때 특히 조심할 것.** 여기 있는 앱은 대부분 요청하는
+권한이 아예 없어서 방침에도 그렇게 적혀 있는데, `cube3d`는 **카메라를 쓴다.**
+권한을 하나라도 쓰는 앱에 "요청하는 권한 없음" 문장이 딸려 들어가면 사실과
+달라지고, 그대로 심사에 올리면 반려 사유가 된다.
