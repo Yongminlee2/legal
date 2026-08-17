@@ -1,0 +1,98 @@
+<en-US>
+First release.
+· Scan a real cube with the camera and see the next move to make.
+· A 7-stage course teaches the 3x3 from the very beginning.
+· Practice 2x2, 3x3 and 4x4 with a timer, best time, ao5 and ao12.
+· 14 languages. No internet connection needed.
+</en-US>
+<de-DE>
+Erste Version.
+· Scanne einen echten Würfel mit der Kamera und sieh den nächsten Zug.
+· Ein Kurs in 7 Stufen bringt dir den 3x3 von Grund auf bei.
+· Übe 2x2, 3x3 und 4x4 mit Timer, Bestzeit, ao5 und ao12.
+· 14 Sprachen. Keine Internetverbindung nötig.
+</de-DE>
+<es-ES>
+Primera versión.
+· Escanea un cubo real con la cámara y mira el siguiente giro.
+· Un curso de 7 etapas enseña el 3x3 desde el principio.
+· Practica 2x2, 3x3 y 4x4 con cronómetro, mejor tiempo, ao5 y ao12.
+· 14 idiomas. No necesita conexión a internet.
+</es-ES>
+<fr-FR>
+Première version.
+· Scannez un vrai cube avec la caméra et voyez le coup suivant.
+· Un cours en 7 étapes enseigne le 3x3 depuis le début.
+· Entraînement 2x2, 3x3 et 4x4 avec chrono, meilleur temps, ao5 et ao12.
+· 14 langues. Aucune connexion internet nécessaire.
+</fr-FR>
+<id>
+Versi pertama.
+· Pindai kubus asli dengan kamera dan lihat langkah berikutnya.
+· Kursus 7 tahap mengajarkan 3x3 dari awal.
+· Latihan 2x2, 3x3, dan 4x4 dengan timer, rekor terbaik, ao5 dan ao12.
+· 14 bahasa. Tidak perlu koneksi internet.
+</id>
+<ja-JP>
+初回リリースです。
+・実物のキューブをカメラで撮り、次に回す一手を確認できます。
+・7段階のコースで3×3の揃え方を最初から学べます。
+・2×2・3×3・4×4の練習とタイマー、自己ベストとao5・ao12。
+・14言語に対応し、インターネット接続は不要です。
+</ja-JP>
+<ko-KR>
+첫 출시입니다.
+· 실물 큐브를 카메라로 찍어 다음에 돌릴 수를 확인할 수 있습니다.
+· 7단계 코스로 3×3 맞추는 법을 처음부터 배웁니다.
+· 2×2 · 3×3 · 4×4 연습과 타이머, 최고 기록과 ao5 · ao12.
+· 14개 언어를 지원하고, 인터넷 연결이 필요 없습니다.
+</ko-KR>
+<pt-BR>
+Primeira versão.
+· Escaneie um cubo real com a câmera e veja o próximo giro.
+· Um curso de 7 etapas ensina o 3x3 desde o começo.
+· Treine 2x2, 3x3 e 4x4 com cronômetro, melhor tempo, ao5 e ao12.
+· 14 idiomas. Não precisa de internet.
+</pt-BR>
+<ru-RU>
+Первый выпуск.
+· Снимите настоящий кубик камерой и увидите следующий ход.
+· Курс из 7 этапов учит собирать 3x3 с самого начала.
+· Тренировка 2x2, 3x3 и 4x4 с таймером, лучшим временем, ao5 и ao12.
+· 14 языков. Интернет не нужен.
+</ru-RU>
+<th>
+เวอร์ชันแรก
+· สแกนลูกบาศก์จริงด้วยกล้องแล้วดูว่าต้องหมุนอะไรต่อ
+· คอร์ส 7 ขั้นสอนแก้ 3x3 ตั้งแต่เริ่มต้น
+· ฝึก 2x2, 3x3 และ 4x4 พร้อมจับเวลา สถิติดีที่สุด ao5 และ ao12
+· รองรับ 14 ภาษา ไม่ต้องต่ออินเทอร์เน็ต
+</th>
+<vi>
+Phiên bản đầu tiên.
+· Quét khối thật bằng camera và xem nước xoay tiếp theo.
+· Khóa học 7 bước dạy giải 3x3 từ đầu.
+· Luyện 2x2, 3x3 và 4x4 với đồng hồ, kỷ lục, ao5 và ao12.
+· 14 ngôn ngữ. Không cần kết nối internet.
+</vi>
+<zh-CN>
+首次发布。
+· 用相机拍下实体魔方，查看下一步该转什么。
+· 7 个阶段的课程，从零学会还原 3×3。
+· 2×2、3×3、4×4 练习与计时，最佳成绩和 ao5、ao12。
+· 支持 14 种语言，无需联网。
+</zh-CN>
+<zh-HK>
+首次發布。
+· 用相機拍下實體魔方，查看下一步該轉什麼。
+· 7 個階段的課程，從零學會還原 3×3。
+· 2×2、3×3、4×4 練習與計時，最佳成績和 ao5、ao12。
+· 支援 14 種語言，無需連網。
+</zh-HK>
+<zh-TW>
+首次發布。
+· 用相機拍下實體魔方，查看下一步該轉什麼。
+· 7 個階段的課程，從零學會還原 3×3。
+· 2×2、3×3、4×4 練習與計時，最佳成績和 ao5、ao12。
+· 支援 14 種語言，無需連網。
+</zh-TW>
