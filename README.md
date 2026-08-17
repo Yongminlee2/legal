@@ -30,6 +30,9 @@ GitHub Pages로 서비스한다 (`main` 브랜치 루트).
 | 3D 큐브 / 3D Cube | https://yongminlee2.github.io/legal/cube3d/ |
 | — 개인정보처리방침 | https://yongminlee2.github.io/legal/cube3d/privacy.html |
 | — 지원 안내 | https://yongminlee2.github.io/legal/cube3d/support.html |
+| 검 강화 / Sword Forge | https://yongminlee2.github.io/legal/swordforge/ |
+| — 개인정보처리방침 | https://yongminlee2.github.io/legal/swordforge/privacy.html |
+| — 지원 안내 | https://yongminlee2.github.io/legal/swordforge/support.html |
 
 ## 구조
 
