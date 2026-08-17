@@ -16,7 +16,6 @@
 
 ## 잊지 말 것
 
-- 설명란 맨 아래에 오픈소스 고지를 넣는다 (아래 「오픈소스 고지」 절 그대로).
 - 데이터 보안 신고에서 **수집·공유 항목을 하나도 체크하지 않는다.**
   인터넷 권한이 없어 기기 밖으로 보낼 방법 자체가 없다.
 - 진동 권한(`VIBRATE`) 하나만 쓴다. 권한 목록에 그것만 뜬다.
@@ -84,10 +83,6 @@ Português (Brasil) / Русский / Tiếng Việt / Bahasa Indonesia / ไ�
 ■ 13개 언어
 한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français · Deutsch ·
 Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
----
-보조 스프라이트: Dungeon Crawl 32x32 tiles (CC0) — Dungeon Crawl Stone Soup 팀 외 다수
-배경음 (CC0): "On The Offensive" — Ted Kerr / "Battle Theme A" — cynicmusic
 ```
 **출시 노트**
 ```
@@ -154,10 +149,6 @@ Rewards are banked every five floors; fall before banking and you keep only part
 ■ 13 languages
 한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français · Deutsch ·
 Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
----
-Support sprites: Dungeon Crawl 32x32 tiles (CC0) — Dungeon Crawl Stone Soup team and others
-Music (CC0): "On The Offensive" — Ted Kerr / "Battle Theme A" — cynicmusic
 ```
 **출시 노트**
 ```
@@ -222,10 +213,6 @@ Playable in 13 languages.
 ■ 13言語
 한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français · Deutsch ·
 Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
----
-補助スプライト: Dungeon Crawl 32x32 tiles (CC0) — Dungeon Crawl Stone Soup チームほか
-音楽 (CC0): "On The Offensive" — Ted Kerr / "Battle Theme A" — cynicmusic
 ```
 **출시 노트**
 ```
@@ -288,10 +275,6 @@ Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 ■ 13 种语言
 한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français · Deutsch ·
 Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
----
-辅助素材：Dungeon Crawl 32x32 tiles (CC0) — Dungeon Crawl Stone Soup 团队等
-音乐 (CC0)："On The Offensive" — Ted Kerr /「Battle Theme A」— cynicmusic
 ```
 **출시 노트**
 ```
@@ -354,10 +337,6 @@ Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 ■ 13 種語言
 한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français · Deutsch ·
 Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
----
-輔助素材：Dungeon Crawl 32x32 tiles (CC0) — Dungeon Crawl Stone Soup 團隊等
-音樂 (CC0)：「On The Offensive」— Ted Kerr /「Battle Theme A」— cynicmusic
 ```
 **출시 노트**
 ```
@@ -420,10 +399,6 @@ Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 ■ 13 種語言
 한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français · Deutsch ·
 Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
----
-輔助素材：Dungeon Crawl 32x32 tiles (CC0) — Dungeon Crawl Stone Soup 團隊等
-音樂 (CC0)：「On The Offensive」— Ted Kerr /「Battle Theme A」— cynicmusic
 ```
 **출시 노트**
 ```
@@ -490,10 +465,6 @@ La recompensa se asegura cada cinco pisos; si caes antes, solo conservas una par
 ■ 13 idiomas
 한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français · Deutsch ·
 Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
----
-Sprites auxiliares: Dungeon Crawl 32x32 tiles (CC0) — equipo de Dungeon Crawl Stone Soup y otros
-Música (CC0): «On The Offensive» — Ted Kerr / «Battle Theme A» — cynicmusic
 ```
 **출시 노트**
 ```
@@ -563,10 +534,6 @@ La récompense est acquise tous les cinq étages ; si tu tombes avant, tu n'en g
 ■ 13 langues
 한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français · Deutsch ·
 Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
----
-Sprites secondaires : Dungeon Crawl 32x32 tiles (CC0) — équipe Dungeon Crawl Stone Soup et autres
-Musique (CC0) : « On The Offensive » — Ted Kerr / « Battle Theme A » — cynicmusic
 ```
 **출시 노트**
 ```
@@ -636,10 +603,6 @@ Alle fünf Etagen wird die Belohnung gesichert; fällst du davor, bleibt nur ein
 ■ 13 Sprachen
 한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français · Deutsch ·
 Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
----
-Hilfs-Sprites: Dungeon Crawl 32x32 tiles (CC0) — Dungeon Crawl Stone Soup Team und andere
-Musik (CC0): „On The Offensive" — Ted Kerr / „Battle Theme A" — cynicmusic
 ```
 **출시 노트**
 ```
@@ -709,10 +672,6 @@ A recompensa é garantida a cada cinco andares; se você cair antes, fica só co
 ■ 13 idiomas
 한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français · Deutsch ·
 Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
----
-Sprites auxiliares: Dungeon Crawl 32x32 tiles (CC0) — equipe Dungeon Crawl Stone Soup e outros
-Música (CC0): "On The Offensive" — Ted Kerr / "Battle Theme A" — cynicmusic
 ```
 **출시 노트**
 ```
@@ -781,10 +740,6 @@ Jogável em 13 idiomas.
 ■ 13 языков
 한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français · Deutsch ·
 Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
----
-Вспомогательные спрайты: Dungeon Crawl 32x32 tiles (CC0) — команда Dungeon Crawl Stone Soup и другие
-Музыка (CC0): «On The Offensive» — Ted Kerr / «Battle Theme A» — cynicmusic
 ```
 **출시 노트**
 ```
@@ -850,10 +805,6 @@ Cứ năm tầng thì thưởng được chốt; ngã trước đó chỉ giữ 
 ■ 13 ngôn ngữ
 한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français · Deutsch ·
 Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
----
-Sprite phụ: Dungeon Crawl 32x32 tiles (CC0) — nhóm Dungeon Crawl Stone Soup và những người khác
-Nhạc (CC0): "On The Offensive" — Ted Kerr / "Battle Theme A" — cynicmusic
 ```
 **출시 노트**
 ```
@@ -922,10 +873,6 @@ Hadiah diamankan tiap lima lantai; jatuh sebelum itu, hanya sebagian yang tersis
 ■ 13 bahasa
 한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français · Deutsch ·
 Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
----
-Sprite pendukung: Dungeon Crawl 32x32 tiles (CC0) — tim Dungeon Crawl Stone Soup dan lainnya
-Musik (CC0): "On The Offensive" — Ted Kerr / "Battle Theme A" — cynicmusic
 ```
 **출시 노트**
 ```
@@ -991,10 +938,6 @@ Bisa dimainkan dalam 13 bahasa.
 ■ 13 ภาษา
 한국어 · English · 日本語 · 简体中文 · 繁體中文 · Español · Français · Deutsch ·
 Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
-
----
-สไปรต์เสริม: Dungeon Crawl 32x32 tiles (CC0) — ทีม Dungeon Crawl Stone Soup และคนอื่น ๆ
-เพลง (CC0): "On The Offensive" — Ted Kerr / "Battle Theme A" — cynicmusic
 ```
 **출시 노트**
 ```
@@ -1040,14 +983,6 @@ Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 (강화 · 사냥터 · 무한 회랑 · 조합소 · 도감 · 펫). 1080×2340, 세로.
 플레이 콘솔은 언어마다 최소 두 장, 최대 여덟 장을 받는다.
 
-## 오픈소스 고지 (자세한 설명 맨 아래에 붙인다)
-
-```
-보조 스프라이트: Dungeon Crawl 32x32 tiles (CC0) — Dungeon Crawl Stone Soup 팀 외 다수
-배경음 (CC0): "On The Offensive" — Ted Kerr / "Battle Theme A" — cynicmusic
-```
-
-효과음은 앱에서 실시간으로 합성한다. 타사 상용 게임의 그래픽·사운드는 쓰지 않았다.
 
 ## 쓰지 않을 표현
 
@@ -1059,3 +994,103 @@ Português · Русский · ไทย · Tiếng Việt · Bahasa Indonesia
 
 단 **데이터 보안 설문과 콘텐츠 등급의 「광고 포함」·「인앱 구매」 항목은 반대다.**
 그건 마케팅 문구가 아니라 신고 사항이라, 올리는 빌드의 실제 모습대로 적어야 한다.
+
+---
+
+## 출시 노트 — 콘솔에 한 번에 붙여 넣기
+
+콘솔의 출시 노트 칸은 언어를 묶음표로 나눈다. 아래를 통째로 복사해
+붙여 넣으면 열네 언어가 한 번에 들어간다.
+
+```
+<en-US>
+First release.
+Take a sword to +50, work through seven families, and figure out the Unique Swords
+from hints alone.
+24 hunting zones with 144 monsters, the Infinite Corridor, 24 pets, a 174-slot collection.
+Playable in 13 languages.
+</en-US>
+<de-DE>
+Erste Veröffentlichung.
+Bring ein Schwert auf +50, sammle die sieben Familien und finde die einzigartigen
+Schwerter allein aus Hinweisen.
+24 Jagdzonen mit 144 Monstern, der unendliche Korridor, 24 Haustiere, 174 Sammlungsfelder.
+In 13 Sprachen spielbar.
+</de-DE>
+<es-ES>
+Primera versión.
+Sube una espada hasta +50, reúne las siete familias y descubre las espadas únicas
+solo con pistas.
+24 zonas de caza con 144 monstruos, el corredor infinito, 24 mascotas y 174 casillas de colección.
+Disponible en 13 idiomas.
+</es-ES>
+<fr-FR>
+Première version.
+Monte une épée jusqu'à +50, réunis les sept familles et devine les épées uniques
+avec les seuls indices.
+24 zones de chasse et 144 monstres, le couloir infini, 24 familiers, 174 cases de collection.
+Jouable en 13 langues.
+</fr-FR>
+<id>
+Rilis pertama.
+Bawa satu pedang ke +50, kumpulkan tujuh keluarga, dan pecahkan pedang unik hanya dari petunjuk.
+24 zona berburu dengan 144 monster, koridor tanpa batas, 24 hewan peliharaan,
+koleksi 174 petak.
+Bisa dimainkan dalam 13 bahasa.
+</id>
+<ja-JP>
+初回リリースです。
+剣を +50 まで強化し、七つの系統を集め、ヒントだけを頼りにユニークソードを解き明かします。
+狩猟場24区域144種、無限回廊、ペット24種、図鑑174枠。
+13言語で遊べます。
+</ja-JP>
+<ko-KR>
+첫 출시입니다.
+검을 +50까지 강화하고, 일곱 계열을 모으고, 힌트만 보고 고유검을 찾아냅니다.
+사냥터 24구역 144종과 무한 회랑, 펫 24종, 도감 174칸.
+13개 언어로 즐길 수 있습니다.
+</ko-KR>
+<pt-BR>
+Primeira versão.
+Leve uma espada até +50, reúna as sete famílias e descubra as espadas únicas
+só pelas dicas.
+24 zonas de caça com 144 monstros, o corredor infinito, 24 mascotes, 174 espaços de coleção.
+Jogável em 13 idiomas.
+</pt-BR>
+<ru-RU>
+Первый выпуск.
+Доведи меч до +50, собери семь семейств и разгадай уникальные мечи по одним подсказкам.
+24 охотничьи зоны со 144 монстрами, бесконечный коридор, 24 питомца, коллекция на 174 ячейки.
+Играется на 13 языках.
+</ru-RU>
+<th>
+เปิดตัวครั้งแรก
+เสริมพลังดาบให้ถึง +50 เก็บครบทั้งเจ็ดสาย และไขดาบเฉพาะตัวจากเบาะแสเพียงอย่างเดียว
+พื้นที่ล่าสัตว์ 24 โซน 144 ชนิด โถงอนันต์ สัตว์เลี้ยง 24 ชนิด สมุดภาพ 174 ช่อง
+เล่นได้ 13 ภาษา
+</th>
+<vi>
+Bản phát hành đầu tiên.
+Đưa một thanh kiếm lên +50, gom đủ bảy hệ, và giải ra kiếm độc đáo chỉ bằng gợi ý.
+24 vùng săn với 144 loại quái, hành lang vô tận, 24 thú cưng, bộ sưu tập 174 ô.
+Chơi được bằng 13 ngôn ngữ.
+</vi>
+<zh-CN>
+首次发布。
+把剑强化到 +50，集齐七个系列，只凭线索解开独有之剑。
+狩猎场 24 个区域 144 种怪、无限回廊、24 种宠物、174 格图鉴。
+支持 13 种语言。
+</zh-CN>
+<zh-HK>
+首次發布。
+把劍強化到 +50，集齊七個系列，凈係靠線索解開獨有之劍。
+狩獵場 24 個區域 144 種怪、無限迴廊、24 種寵物、174 格圖鑑。
+支援 13 種語言。
+</zh-HK>
+<zh-TW>
+首次發布。
+把劍強化到 +50，集齊七個系列，只憑線索解開獨有之劍。
+狩獵場 24 個區域 144 種怪、無限迴廊、24 種寵物、174 格圖鑑。
+支援 13 種語言。
+</zh-TW>
+```
