@@ -8,7 +8,7 @@
 <en-US>
 First release.
 · Combine 12 parts, press play, and let real physics run your machine.
-· 100 stages across 5 worlds - bedroom, backyard, toy factory, space, the Peep Lab.
+· 100 stages across 5 worlds - Bedroom, Backyard, Toy Factory, Space and the Peep Lab.
 · A miss leaves your parts in place, so you can adjust and try again.
 · Available in 14 languages.
 </en-US>

@@ -83,13 +83,13 @@ Prop a plank, mesh two gears, place your contraption - then hit play and let rea
 WHAT MAKES IT FUN
 - Real physics, not scripted animation. Every ball roll, seesaw tilt, and gear mesh follows an actual simulation, so the same stage can be solved with a different machine every time.
 - 12 parts to combine: planks, rubber and metal balls, balloons, dominoes, a seesaw, motor and plain gears, a paddle gear, a fan, a trampoline, and a tack. Weight, bounce, and wind each behave differently, opening up multiple solutions to the same puzzle.
-- 100 stages across 5 themed worlds, 20 stages each. Start in a kid's bedroom, move through the backyard, a toy factory and space, and graduate in the Peep Lab. Each world unlocks a new part.
+- 100 stages across 5 themed worlds, 20 stages each. Start in a kid's bedroom, move through the backyard, a toy factory and space, and graduate from the Peep Lab. Each world unlocks a new part.
 - Fail and your layout stays put. Stop, nudge a few pieces, and try again - it's about understanding how things move, not memorizing an answer.
 
 PARTS AND WORLDS
 Roll a ball, launch it off a seesaw, mesh gears to pass along motion, or let a fan push only the lightest pieces - 12 parts each behave differently, so combining them keeps revealing new tricks. Four goal types keep things varied: land a ball in the basket, press the button, pop every balloon, or topple every domino.
 
-The art has a warm, rounded picture-book style, and the whole game reads through icons, so no reading is required. The screen stays in landscape, so it sits comfortably in two hands.
+The art has a warm, rounded picture-book style, and the whole game reads through icons, so young players can follow it before they can read. The screen stays in landscape, so it sits comfortably in two hands.
 
 Play it solo or side-by-side with your kids - see the machine you built actually work, in Peep Science.
 ```
@@ -117,7 +117,7 @@ LO MÁS DIVERTIDO
 - Si sale mal, tu montaje se queda tal cual. Paras, mueves un par de piezas y lo intentas otra vez: aquí se trata de entender cómo se mueven las cosas, no de memorizar la respuesta.
 
 PIEZAS Y MUNDOS
-Haz rodar una pelota, lánzala con el balancín, encaja engranajes para transmitir el movimiento o deja que el ventilador empuje solo lo más ligero. Las 12 piezas se comportan de manera diferente, así que combinarlas siempre revela trucos nuevos. Y hay cuatro metas distintas: meter la pelota en la cesta, pulsar el botón, explotar los globos o tirar todos los dominós.
+Haz rodar una pelota, lánzala con el balancín, encaja engranajes para transmitir el movimiento o deja que el ventilador empuje solo lo más ligero. Las 12 piezas se comportan de manera diferente, así que combinarlas siempre revela trucos nuevos. Y hay cuatro metas distintas: meter la pelota en la cesta, pulsar el botón, explotar todos los globos o tirar todos los dominós.
 
 Los dibujos son cálidos y redondeados, como los de un cuento infantil, y todo el juego se entiende con iconos: no hace falta saber leer. La pantalla se queda en horizontal, así que el móvil se sujeta cómodamente con las dos manos.
 
@@ -383,7 +383,7 @@ Ein Brett anlegen, zwei Zahnräder ineinandergreifen lassen, deine Maschine hins
 DARUM MACHT ES SPASS
 - Echte Physik statt fester Animation. Jeder rollende Ball, jede kippende Wippe, jedes greifende Zahnrad folgt einer echten Simulation. Dieselbe Stufe lässt sich deshalb mit ganz unterschiedlichen Maschinen lösen.
 - 12 Teile zum Kombinieren: Bretter, Bälle aus Gummi und Metall, Ballons, Dominosteine, eine Wippe, ein Motor-Zahnrad und ein normales Zahnrad, ein Schaufelrad, ein Ventilator, ein Trampolin und eine Reißzwecke. Gewicht, Sprungkraft und Wind wirken jeweils anders, und so hat jede Aufgabe mehrere Lösungswege.
-- 100 Stufen in 5 Themenwelten, je 20 Stufen. Los geht es im Zimmer, dann durch Garten, Fabrik und Weltraum bis ins Peep-Labor. Jede Welt schaltet ein neues Teil frei.
+- 100 Stufen in 5 Themenwelten, je 20 Stufen. Los geht es im Kinderzimmer, dann durch Garten, Fabrik und Weltraum bis ins Peep-Labor. Jede Welt schaltet ein neues Teil frei.
 - Ein Fehlversuch räumt nichts weg. Deine Teile bleiben liegen: kurz nachbessern, noch einmal starten. Es geht ums Verstehen, nicht ums Auswendiglernen.
 
 TEILE UND WELTEN
@@ -443,7 +443,7 @@ Sandarkan papan, rapatkan dua gir, susun mesinmu - lalu tekan ▶ dan biarkan fi
 SERUNYA DI SINI
 - Fisika sungguhan, bukan animasi yang sudah diatur. Bola menggelinding, jungkat-jungkit miring, gir berputar - semuanya dihitung simulasi sungguhan, jadi satu level bisa diselesaikan dengan mesin yang berbeda-beda.
 - 12 bagian untuk dipadukan: papan, bola karet dan bola besi, balon, domino, jungkat-jungkit, gir bermotor dan gir biasa, gir berdayung, kipas, trampolin, dan paku payung. Berat, pantulan, dan angin bereaksi berbeda-beda sehingga satu soal punya banyak jalan keluar.
-- 100 level di 5 dunia bertema, masing-masing 20 level. Mulai dari Kamar Anak, lanjut ke Halaman, Pabrik, Angkasa, sampai Lab Peep di ujung. Tiap dunia membuka satu bagian baru.
+- 100 level di 5 dunia bertema, masing-masing 20 level. Mulai dari Kamar Anak, lanjut ke Halaman Belakang, Pabrik, Angkasa, sampai Lab Peep di ujung. Tiap dunia membuka satu bagian baru.
 - Gagal pun susunanmu tetap di tempat. Berhenti sebentar, geser satu dua bagian, lalu coba lagi - yang penting paham cara benda bergerak, bukan menghafal jawaban.
 
 BAGIAN DAN DUNIA
