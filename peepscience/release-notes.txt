@@ -82,24 +82,24 @@ Prima versione.
 · Не получилось - детали остаются на месте: поправь пару штук и запусти снова.
 · Доступно на 14 языках.
 </ru-RU>
-<id-ID>
+<id>
 Versi pertama.
 · Padukan 12 bagian, tekan tombol play, dan biarkan fisika sungguhan menjalankan mesinmu.
 · 100 level di 5 dunia: Kamar Anak, Halaman, Pabrik, Angkasa, dan Lab Peep.
 · Gagal pun susunanmu tetap di tempat - geser sedikit, lalu coba lagi.
 · Tersedia dalam 14 bahasa.
-</id-ID>
-<vi-VN>
+</id>
+<vi>
 Phiên bản đầu tiên.
 · Lắp 12 mảnh ghép, nhấn nút chạy và để vật lý thật vận hành cỗ máy.
 · 100 màn chơi trong 5 thế giới: Phòng bé, Sân sau, Nhà máy, Vũ trụ và Lab Peep.
 · Thua thì các mảnh ghép vẫn nằm nguyên, chỉnh vài chỗ rồi chạy lại.
 · Hỗ trợ 14 ngôn ngữ.
-</vi-VN>
-<th-TH>
+</vi>
+<th>
 เวอร์ชันแรก
 · ประกอบชิ้นส่วน 12 แบบ กดปุ่มเล่น แล้วปล่อยให้ฟิสิกส์จริงขับเคลื่อนเครื่องกล
 · 100 ด่านใน 5 โลก — ห้องเด็ก หลังบ้าน โรงงาน อวกาศ และห้องแล็บพีป
 · พลาดแล้วชิ้นส่วนที่วางไว้ยังอยู่ที่เดิม ขยับทีละนิดแล้วลองใหม่ได้
 · รองรับ 14 ภาษา
-</th-TH>
+</th>
