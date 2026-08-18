@@ -1,0 +1,105 @@
+<ko-KR>
+첫 출시입니다.
+· 부품 12종을 조립하고 재생 버튼을 누르면 진짜 물리로 움직입니다.
+· 5개 월드 100스테이지 — 아이 방, 뒷마당, 장난감 공장, 우주, 삐약 연구소.
+· 실패해도 배치는 그대로 남아, 고쳐가며 다시 해볼 수 있습니다.
+· 14개 언어를 지원합니다.
+</ko-KR>
+<en-US>
+First release.
+· Combine 12 parts, press play, and let real physics run your machine.
+· 100 stages across 5 worlds - bedroom, backyard, toy factory, space, the Peep Lab.
+· A miss leaves your parts in place, so you can adjust and try again.
+· Available in 14 languages.
+</en-US>
+<ja-JP>
+初回リリースです。
+· パーツ12種を組み立てて再生ボタンを押すと、本物の物理で動きだします。
+· 5つの世界に100ステージ — こども部屋、うらにわ、おもちゃ工場、うちゅう、ピープ研究所。
+· 失敗しても置いたパーツはそのまま。直してもう一度ためせます。
+· 14言語に対応しています。
+</ja-JP>
+<zh-CN>
+首次发布。
+· 12 种零件组装好，按下播放键，就交给真实的物理。
+· 5 个世界共 100 关 —— 儿童房、后院、玩具工厂、太空、皮普实验室。
+· 失败了摆好的零件也不会消失，挪一挪就能再试一次。
+· 支持 14 种语言。
+</zh-CN>
+<zh-TW>
+首次發布。
+· 12 種零件組裝好，按下播放鍵，就交給真實的物理。
+· 5 個世界共 100 關 —— 兒童房、後院、玩具工廠、太空、皮普實驗室。
+· 失敗了擺好的零件也不會消失，挪一挪就能再試一次。
+· 支援 14 種語言。
+</zh-TW>
+<zh-HK>
+首次發布。
+· 12 種零件砌埋一齊，撳播放鍵，就交畀真實嘅物理。
+· 5 個世界共 100 關 —— 兒童房、後院、玩具工廠、太空、皮普實驗室。
+· 失敗咗擺好嘅零件都唔會消失，郁一郁就可以再試多次。
+· 支援 14 種語言。
+</zh-HK>
+<es-ES>
+Primera versión.
+· Combina 12 piezas, pulsa el botón de play y deja que la física real mueva tu máquina.
+· 100 niveles en 5 mundos: Dormitorio, Patio, Fábrica, Espacio y Lab Peep.
+· Si sale mal, tus piezas se quedan donde están: ajusta y vuelve a intentarlo.
+· Disponible en 14 idiomas.
+</es-ES>
+<pt-BR>
+Primeira versão.
+· Combine 12 peças, aperte o botão de play e deixe a física de verdade mover a sua máquina.
+· 100 fases em 5 mundos: Quarto, Quintal, Fábrica, Espaço e Lab Peep.
+· Se der errado, as peças continuam no lugar: ajuste e tente de novo.
+· Disponível em 14 idiomas.
+</pt-BR>
+<de-DE>
+Erste Version.
+· 12 Teile zusammenbauen, auf den Play-Knopf drücken und echte Physik übernehmen lassen.
+· 100 Stufen in 5 Welten: Zimmer, Garten, Fabrik, Weltraum und Peep-Labor.
+· Ein Fehlversuch räumt nichts weg - kurz nachbessern und noch einmal starten.
+· In 14 Sprachen verfügbar.
+</de-DE>
+<fr-FR>
+Première version.
+· Assemble 12 pièces, appuie sur le bouton lecture et laisse la vraie physique faire tourner ta machine.
+· 100 niveaux dans 5 mondes : Chambre, Jardin, Usine, Espace et Labo Peep.
+· Si ça rate, ton montage reste en place : tu corriges et tu recommences.
+· Disponible en 14 langues.
+</fr-FR>
+<it-IT>
+Prima versione.
+· Combina 12 pezzi, premi il tasto play e lascia che sia la fisica vera a muovere la macchina.
+· 100 livelli in 5 mondi: Cameretta, Giardino, Fabbrica, Spazio e Lab Peep.
+· Se va male, i pezzi restano dove sono: sistemi qualcosa e riprovi.
+· Disponibile in 14 lingue.
+</it-IT>
+<ru-RU>
+Первый выпуск.
+· Собери машину из 12 деталей, нажми кнопку запуска - дальше всё сделает настоящая физика.
+· 100 уровней в 5 мирах: Детская, Двор, Фабрика, Космос и Peep-лаб.
+· Не получилось - детали остаются на месте: поправь пару штук и запусти снова.
+· Доступно на 14 языках.
+</ru-RU>
+<id-ID>
+Versi pertama.
+· Padukan 12 bagian, tekan tombol play, dan biarkan fisika sungguhan menjalankan mesinmu.
+· 100 level di 5 dunia: Kamar Anak, Halaman, Pabrik, Angkasa, dan Lab Peep.
+· Gagal pun susunanmu tetap di tempat - geser sedikit, lalu coba lagi.
+· Tersedia dalam 14 bahasa.
+</id-ID>
+<vi-VN>
+Phiên bản đầu tiên.
+· Lắp 12 mảnh ghép, nhấn nút chạy và để vật lý thật vận hành cỗ máy.
+· 100 màn chơi trong 5 thế giới: Phòng bé, Sân sau, Nhà máy, Vũ trụ và Lab Peep.
+· Thua thì các mảnh ghép vẫn nằm nguyên, chỉnh vài chỗ rồi chạy lại.
+· Hỗ trợ 14 ngôn ngữ.
+</vi-VN>
+<th-TH>
+เวอร์ชันแรก
+· ประกอบชิ้นส่วน 12 แบบ กดปุ่มเล่น แล้วปล่อยให้ฟิสิกส์จริงขับเคลื่อนเครื่องกล
+· 100 ด่านใน 5 โลก — ห้องเด็ก หลังบ้าน โรงงาน อวกาศ และห้องแล็บพีป
+· พลาดแล้วชิ้นส่วนที่วางไว้ยังอยู่ที่เดิม ขยับทีละนิดแล้วลองใหม่ได้
+· รองรับ 14 ภาษา
+</th-TH>
