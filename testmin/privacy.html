@@ -26,9 +26,16 @@
 계정도 없습니다. 광고 표시 과정에서 구글이 수집하는 값은 5항을 보십시오.</p>
 
 <h2>2. Android 권한</h2>
-<p>Android 앱은 광고 표시에 필요한 <strong>인터넷 접근</strong>, <strong>네트워크 상태 확인</strong>,
-<strong>광고 ID 접근</strong> 세 가지만 사용합니다. 사진·동영상, 파일, 위치, 카메라, 마이크,
-연락처 권한은 요청하지 않습니다.</p>
+<p>Android 앱은 실행 중 사용자에게 묻는 권한을 하나도 쓰지 않습니다. 사진·동영상, 파일,
+위치, 카메라, 마이크, 연락처 권한은 요청하지 않습니다.</p>
+<p>다만 광고 SDK가 매니페스트에 다음 권한을 자동으로 추가합니다. 모두 normal 보호수준이라
+설치 시나 실행 중에 별도 동의를 요구하지 않지만, 스토어의 권한 목록에는 표시됩니다.</p>
+<ul>
+  <li><strong>인터넷 접근</strong>, <strong>네트워크 상태 확인</strong> — 광고를 불러오기 위해</li>
+  <li><strong>광고 ID 접근</strong> — Android 13 이상에서 광고 식별자를 읽기 위해</li>
+  <li><strong>절전 방지</strong>, <strong>포그라운드 서비스</strong> — 광고 로딩과 측정 중 구글 플레이 서비스가 사용</li>
+  <li><strong>프라이버시 샌드박스 3종</strong> — 안드로이드의 광고 ID·기여도·관심주제 API</li>
+</ul>
 
 <h2>3. 기기에 저장되는 정보</h2>
 <p>다음 정보는 앱의 비공개 로컬 저장소에만 보관됩니다.</p>
@@ -132,9 +139,16 @@ phone numbers, precise location, contacts, or photos to our servers. We have no 
 and no accounts. For values Google collects while serving ads, see section 5.</p>
 
 <h2>2. Android permissions</h2>
-<p>The Android app uses only the three permissions ads require: <strong>internet access</strong>,
-<strong>network state</strong>, and <strong>advertising ID</strong>. It requests no media, file,
-location, camera, microphone, or contacts permission.</p>
+<p>The Android app uses no runtime permissions. It requests no media, file, location,
+camera, microphone, or contacts permission.</p>
+<p>The ads SDK does add the following to the manifest. All are normal-level permissions,
+so they prompt neither at install nor at runtime, but they appear in the store listing.</p>
+<ul>
+  <li><strong>Internet</strong>, <strong>network state</strong> — to fetch ads</li>
+  <li><strong>Advertising ID</strong> — to read the ad identifier on Android 13+</li>
+  <li><strong>Wake lock</strong>, <strong>foreground service</strong> — used by Google Play services while loading and measuring ads</li>
+  <li><strong>Three Privacy Sandbox permissions</strong> — Android's ad ID, attribution, and topics APIs</li>
+</ul>
 
 <h2>3. Data stored on your device</h2>
 <p>The following stays only in the app's private local storage:</p>
