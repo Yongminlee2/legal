@@ -10,9 +10,9 @@
 | 오픈소스 라이선스 | `https://yongminlee2.github.io/legal/testmin/licenses.html` |
 | 이메일 | `dydals5678@gmail.com` |
 | 카테고리 | 엔터테인먼트 (Entertainment) |
-| 광고 | 없음 |
+| 광고 | 있음 (1.1.0부터, Google AdMob) |
 | 계정 | 없음 |
-| 데이터 수집·공유 | 없음 |
+| 데이터 수집·공유 | 광고 ID — 광고 목적으로 Google에 전달 |
 
 스토어 설명, 데이터 보안·콘텐츠 등급 신고 초안과 그래픽 원본은 비공개로 전환할 수
 있는 앱 저장소의 `store/` 폴더에서 관리한다. Play Console에 입력하는 홈페이지,
