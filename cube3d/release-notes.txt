@@ -4,7 +4,7 @@ First release.
 · A 7-stage course teaches the 3x3 from the very beginning.
 · Practice 2x2, 3x3 and 4x4 with a timer, best time, ao5 and ao12.
 · Four character cube skins. Watch one ad to unlock a skin; once unlocked it stays yours.
-· 14 languages. Learn and practise without an internet connection.
+· 14 languages. No internet connection needed.
 </en-US>
 <de-DE>
 Erste Version.
@@ -12,7 +12,7 @@ Erste Version.
 · Ein Kurs in 7 Stufen bringt dir den 3x3 von Grund auf bei.
 · Übe 2x2, 3x3 und 4x4 mit Timer, Bestzeit, ao5 und ao12.
 · Vier Charakter-Skins. Sieh eine Werbung an, um einen freizuschalten – einmal frei, bleibt er dir.
-· 14 Sprachen. Lernen und üben ohne Internetverbindung.
+· 14 Sprachen. Keine Internetverbindung nötig.
 </de-DE>
 <es-ES>
 Primera versión.
@@ -20,7 +20,7 @@ Primera versión.
 · Un curso de 7 etapas enseña el 3x3 desde el principio.
 · Practica 2x2, 3x3 y 4x4 con cronómetro, mejor tiempo, ao5 y ao12.
 · Cuatro diseños de personajes. Mira un anuncio para desbloquear uno; una vez desbloqueado, se queda contigo.
-· 14 idiomas. Aprende y practica sin conexión a internet.
+· 14 idiomas. No necesita conexión a internet.
 </es-ES>
 <fr-FR>
 Première version.
@@ -28,7 +28,7 @@ Première version.
 · Un cours en 7 étapes enseigne le 3x3 depuis le début.
 · Entraînement 2x2, 3x3 et 4x4 avec chrono, meilleur temps, ao5 et ao12.
 · Quatre skins de personnages. Regardez une publicité pour en débloquer un ; une fois débloqué, il reste à vous.
-· 14 langues. Apprenez et entraînez-vous sans connexion internet.
+· 14 langues. Aucune connexion internet nécessaire.
 </fr-FR>
 <id>
 Versi pertama.
@@ -36,7 +36,7 @@ Versi pertama.
 · Kursus 7 tahap mengajarkan 3x3 dari awal.
 · Latihan 2x2, 3x3, dan 4x4 dengan timer, rekor terbaik, ao5 dan ao12.
 · Empat skin karakter. Tonton satu iklan untuk membukanya; setelah terbuka, bisa dipakai selamanya.
-· 14 bahasa. Belajar dan berlatih tanpa koneksi internet.
+· 14 bahasa. Tidak perlu koneksi internet.
 </id>
 <ja-JP>
 初回リリースです。
@@ -44,7 +44,7 @@ Versi pertama.
 ・7段階のコースで3×3の揃え方を最初から学べます。
 ・2×2・3×3・4×4の練習とタイマー、自己ベストとao5・ao12。
 ・キャラクタースキン4種。広告を1回見ると解放され、一度解放すればずっと使えます。
-・14言語に対応。インターネットがなくても学習と練習ができます。
+・14言語に対応し、インターネット接続は不要です。
 </ja-JP>
 <ko-KR>
 첫 출시입니다.
@@ -52,7 +52,7 @@ Versi pertama.
 · 7단계 코스로 3×3 맞추는 법을 처음부터 배웁니다.
 · 2×2 · 3×3 · 4×4 연습과 타이머, 최고 기록과 ao5 · ao12.
 · 캐릭터 큐브 스킨 4종. 광고를 한 번 보면 열리고, 한 번 열면 계속 쓸 수 있습니다.
-· 14개 언어를 지원하고, 인터넷 없이도 배우고 연습할 수 있습니다.
+· 14개 언어를 지원하고, 인터넷 연결이 필요 없습니다.
 </ko-KR>
 <pt-BR>
 Primeira versão.
@@ -60,7 +60,7 @@ Primeira versão.
 · Um curso de 7 etapas ensina o 3x3 desde o começo.
 · Treine 2x2, 3x3 e 4x4 com cronômetro, melhor tempo, ao5 e ao12.
 · Quatro skins de personagem. Assista a um anúncio para desbloquear um; depois de desbloqueado, ele fica com você.
-· 14 idiomas. Aprenda e treine sem internet.
+· 14 idiomas. Não precisa de internet.
 </pt-BR>
 <ru-RU>
 Первый выпуск.
@@ -68,7 +68,7 @@ Primeira versão.
 · Курс из 7 этапов учит собирать 3x3 с самого начала.
 · Тренировка 2x2, 3x3 и 4x4 с таймером, лучшим временем, ao5 и ao12.
 · Четыре скина с персонажами. Посмотрите одну рекламу, чтобы открыть скин — открытый останется у вас.
-· 14 языков. Учитесь и тренируйтесь без интернета.
+· 14 языков. Интернет не нужен.
 </ru-RU>
 <th>
 เวอร์ชันแรก
@@ -76,7 +76,7 @@ Primeira versão.
 · คอร์ส 7 ขั้นสอนแก้ 3x3 ตั้งแต่เริ่มต้น
 · ฝึก 2x2, 3x3 และ 4x4 พร้อมจับเวลา สถิติดีที่สุด ao5 และ ao12
 · สกินตัวละคร 4 แบบ ดูโฆษณา 1 ครั้งเพื่อปลดล็อก ปลดล็อกแล้วใช้ได้ตลอด
-· รองรับ 14 ภาษา เรียนและฝึกได้โดยไม่ต้องต่ออินเทอร์เน็ต
+· รองรับ 14 ภาษา ไม่ต้องต่ออินเทอร์เน็ต
 </th>
 <vi>
 Phiên bản đầu tiên.
@@ -84,7 +84,7 @@ Phiên bản đầu tiên.
 · Khóa học 7 bước dạy giải 3x3 từ đầu.
 · Luyện 2x2, 3x3 và 4x4 với đồng hồ, kỷ lục, ao5 và ao12.
 · Bốn giao diện nhân vật. Xem một quảng cáo để mở; mở rồi thì dùng được mãi.
-· 14 ngôn ngữ. Học và luyện tập không cần internet.
+· 14 ngôn ngữ. Không cần kết nối internet.
 </vi>
 <zh-CN>
 首次发布。
@@ -92,7 +92,7 @@ Phiên bản đầu tiên.
 · 7 个阶段的课程，从零学会还原 3×3。
 · 2×2、3×3、4×4 练习与计时，最佳成绩和 ao5、ao12。
 · 四款角色皮肤。看一次广告即可解锁，解锁后可一直使用。
-· 支持 14 种语言，没有网络也能学习和练习。
+· 支持 14 种语言，无需联网。
 </zh-CN>
 <zh-HK>
 首次發布。
@@ -100,7 +100,7 @@ Phiên bản đầu tiên.
 · 7 個階段的課程，從零學會還原 3×3。
 · 2×2、3×3、4×4 練習與計時，最佳成績和 ao5、ao12。
 · 四款角色外觀。睇一次廣告就可以解鎖，解鎖後可一直使用。
-· 支援 14 種語言，沒有網路也能學習和練習。
+· 支援 14 種語言，無需連網。
 </zh-HK>
 <zh-TW>
 首次發布。
@@ -108,5 +108,5 @@ Phiên bản đầu tiên.
 · 7 個階段的課程，從零學會還原 3×3。
 · 2×2、3×3、4×4 練習與計時，最佳成績和 ao5、ao12。
 · 四款角色外觀。看一次廣告即可解鎖，解鎖後可一直使用。
-· 支援 14 種語言，沒有網路也能學習和練習。
+· 支援 14 種語言，無需連網。
 </zh-TW>
