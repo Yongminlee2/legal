@@ -14,6 +14,13 @@
 | 웹사이트 | `https://yongminlee2.github.io/legal/cube3d/` |
 | 지원 | `https://yongminlee2.github.io/legal/cube3d/support.html` |
 
+## 출시 노트
+
+버전마다 바뀌므로 이 파일에 두지 않는다. 같은 폴더의 **`release-notes.txt`**에
+14개 언어가 `<언어코드>` 묶음으로 들어 있고, 콘솔의 [출시 노트] 칸에 그대로
+붙여 넣으면 된다. 예전에는 이 파일에도 같은 내용을 적어 두었는데, 버전이
+올라갈 때 한쪽만 고쳐져 서로 어긋났다.
+
 ## 잊지 말 것
 
 - 설명란 맨 아래에 오픈소스 고지를 넣는다 —
@@ -78,17 +85,7 @@ Português (Brasil) / Русский / Tiếng Việt / Bahasa Indonesia / ไ�
 · 손가락 조작과 노테이션 버튼 둘 다 씁니다.
 · 어두운 화면과 밝은 화면 중에 고를 수 있습니다.
 · 14개 언어를 지원합니다.
-· 인터넷 연결이 필요 없습니다.
 ```
-**출시 노트**
-```
-첫 출시입니다.
-· 실물 큐브를 카메라로 찍어 다음에 돌릴 수를 확인할 수 있습니다.
-· 7단계 코스로 3×3 맞추는 법을 처음부터 배웁니다.
-· 2×2 · 3×3 · 4×4 연습과 타이머, 최고 기록과 ao5 · ao12.
-· 14개 언어를 지원하고, 인터넷 연결이 필요 없습니다.
-```
-
 ---
 
 ## English (en-US)
@@ -138,17 +135,7 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 · Swipe controls and notation buttons both work.
 · Dark and light themes.
 · Available in 14 languages.
-· No internet connection required.
 ```
-**출시 노트**
-```
-First release.
-· Scan a real cube with the camera and see the next move to make.
-· A 7-stage course teaches the 3x3 from the very beginning.
-· Practice 2x2, 3x3 and 4x4 with a timer, best time, ao5 and ao12.
-· 14 languages. No internet connection needed.
-```
-
 ---
 
 ## 日本語 (ja)
@@ -197,17 +184,7 @@ First release.
 ・指の操作と手順ボタンの両方が使えます。
 ・ダークとライトを選べます。
 ・14言語に対応しています。
-・インターネット接続は不要です。
 ```
-**출시 노트**
-```
-初回リリースです。
-・実物のキューブをカメラで撮り、次に回す一手を確認できます。
-・7段階のコースで3×3の揃え方を最初から学べます。
-・2×2・3×3・4×4の練習とタイマー、自己ベストとao5・ao12。
-・14言語に対応し、インターネット接続は不要です。
-```
-
 ---
 
 ## 中文（简体）(zh-CN)
@@ -256,17 +233,7 @@ First release.
 · 手势操作和转动按钮都支持。
 · 可选深色与浅色。
 · 支持 14 种语言。
-· 无需联网。
 ```
-**출시 노트**
-```
-首次发布。
-· 用相机拍下实体魔方，查看下一步该转什么。
-· 7 个阶段的课程，从零学会还原 3×3。
-· 2×2、3×3、4×4 练习与计时，最佳成绩和 ao5、ao12。
-· 支持 14 种语言，无需联网。
-```
-
 ---
 
 ## 中文（繁體）(zh-TW)
@@ -315,17 +282,7 @@ First release.
 · 手勢操作和轉動按鈕都支援。
 · 可選深色與淺色。
 · 支援 14 種語言。
-· 無需連網。
 ```
-**출시 노트**
-```
-首次發布。
-· 用相機拍下實體魔方，查看下一步該轉什麼。
-· 7 個階段的課程，從零學會還原 3×3。
-· 2×2、3×3、4×4 練習與計時，最佳成績和 ao5、ao12。
-· 支援 14 種語言，無需連網。
-```
-
 ---
 
 ## 中文（香港）(zh-HK)
@@ -374,17 +331,7 @@ First release.
 · 手勢操作和轉動按鈕都支援。
 · 可選深色與淺色。
 · 支援 14 種語言。
-· 無需連網。
 ```
-**출시 노트**
-```
-首次發布。
-· 用相機拍下實體魔方，查看下一步該轉什麼。
-· 7 個階段的課程，從零學會還原 3×3。
-· 2×2、3×3、4×4 練習與計時，最佳成績和 ao5、ao12。
-· 支援 14 種語言，無需連網。
-```
-
 ---
 
 ## Español (es)
@@ -434,17 +381,7 @@ Las imágenes pueden ocupar una cara entera o repetirse en cada casilla.
 · Funcionan tanto los gestos como los botones de notación.
 · Temas oscuro y claro.
 · Disponible en 14 idiomas.
-· No necesita conexión a internet.
 ```
-**출시 노트**
-```
-Primera versión.
-· Escanea un cubo real con la cámara y mira el siguiente giro.
-· Un curso de 7 etapas enseña el 3x3 desde el principio.
-· Practica 2x2, 3x3 y 4x4 con cronómetro, mejor tiempo, ao5 y ao12.
-· 14 idiomas. No necesita conexión a internet.
-```
-
 ---
 
 ## Français (fr)
@@ -495,17 +432,7 @@ Une image peut couvrir une face entière ou se répéter sur chaque case.
 · Les gestes et les boutons de notation fonctionnent tous les deux.
 · Thèmes sombre et clair.
 · Disponible en 14 langues.
-· Aucune connexion internet requise.
 ```
-**출시 노트**
-```
-Première version.
-· Scannez un vrai cube avec la caméra et voyez le coup suivant.
-· Un cours en 7 étapes enseigne le 3x3 depuis le début.
-· Entraînement 2x2, 3x3 et 4x4 avec chrono, meilleur temps, ao5 et ao12.
-· 14 langues. Aucune connexion internet nécessaire.
-```
-
 ---
 
 ## Deutsch (de)
@@ -556,17 +483,7 @@ Bilder können eine ganze Seite füllen oder sich pro Feld wiederholen.
 · Wischgesten und Zugschaltflächen funktionieren beide.
 · Dunkles und helles Design.
 · In 14 Sprachen verfügbar.
-· Keine Internetverbindung nötig.
 ```
-**출시 노트**
-```
-Erste Version.
-· Scanne einen echten Würfel mit der Kamera und sieh den nächsten Zug.
-· Ein Kurs in 7 Stufen bringt dir den 3x3 von Grund auf bei.
-· Übe 2x2, 3x3 und 4x4 mit Timer, Bestzeit, ao5 und ao12.
-· 14 Sprachen. Keine Internetverbindung nötig.
-```
-
 ---
 
 ## Português (pt-BR)
@@ -616,17 +533,7 @@ As imagens podem cobrir uma face inteira ou se repetir em cada adesivo.
 · Gestos e botões de movimento funcionam juntos.
 · Temas escuro e claro.
 · Disponível em 14 idiomas.
-· Não precisa de internet.
 ```
-**출시 노트**
-```
-Primeira versão.
-· Escaneie um cubo real com a câmera e veja o próximo giro.
-· Um curso de 7 etapas ensina o 3x3 desde o começo.
-· Treine 2x2, 3x3 e 4x4 com cronômetro, melhor tempo, ao5 e ao12.
-· 14 idiomas. Não precisa de internet.
-```
-
 ---
 
 ## Русский (ru)
@@ -676,17 +583,7 @@ Primeira versão.
 · Работают и жесты, и кнопки ходов.
 · Тёмная и светлая темы.
 · Доступно на 14 языках.
-· Интернет не требуется.
 ```
-**출시 노트**
-```
-Первый выпуск.
-· Снимите настоящий кубик камерой и увидите следующий ход.
-· Курс из 7 этапов учит собирать 3x3 с самого начала.
-· Тренировка 2x2, 3x3 и 4x4 с таймером, лучшим временем, ao5 и ao12.
-· 14 языков. Интернет не нужен.
-```
-
 ---
 
 ## Tiếng Việt (vi)
@@ -736,17 +633,7 @@ Hình có thể trải kín một mặt hoặc lặp lại trên từng ô.
 · Dùng được cả thao tác vuốt lẫn nút ký hiệu.
 · Có giao diện tối và sáng.
 · Hỗ trợ 14 ngôn ngữ.
-· Không cần kết nối internet.
 ```
-**출시 노트**
-```
-Phiên bản đầu tiên.
-· Quét khối thật bằng camera và xem nước xoay tiếp theo.
-· Khóa học 7 bước dạy giải 3x3 từ đầu.
-· Luyện 2x2, 3x3 và 4x4 với đồng hồ, kỷ lục, ao5 và ao12.
-· 14 ngôn ngữ. Không cần kết nối internet.
-```
-
 ---
 
 ## Bahasa Indonesia (id)
@@ -796,17 +683,7 @@ Gambar bisa memenuhi satu sisi penuh atau diulang di tiap kotak.
 · Kontrol geser dan tombol notasi sama-sama bisa dipakai.
 · Tema gelap dan terang.
 · Tersedia dalam 14 bahasa.
-· Tidak perlu koneksi internet.
 ```
-**출시 노트**
-```
-Versi pertama.
-· Pindai kubus asli dengan kamera dan lihat langkah berikutnya.
-· Kursus 7 tahap mengajarkan 3x3 dari awal.
-· Latihan 2x2, 3x3, dan 4x4 dengan timer, rekor terbaik, ao5 dan ao12.
-· 14 bahasa. Tidak perlu koneksi internet.
-```
-
 ---
 
 ## ไทย (th)
@@ -856,53 +733,64 @@ Versi pertama.
 · ใช้ได้ทั้งการปัดนิ้วและปุ่มสัญลักษณ์
 · มีธีมมืดและสว่าง
 · รองรับ 14 ภาษา
-· ไม่ต้องเชื่อมต่ออินเทอร์เน็ต
 ```
-**출시 노트**
-```
-เวอร์ชันแรก
-· สแกนลูกบาศก์จริงด้วยกล้องแล้วดูว่าต้องหมุนอะไรต่อ
-· คอร์ส 7 ขั้นสอนแก้ 3x3 ตั้งแต่เริ่มต้น
-· ฝึก 2x2, 3x3 และ 4x4 พร้อมจับเวลา สถิติดีที่สุด ao5 และ ao12
-· รองรับ 14 ภาษา ไม่ต้องต่ออินเทอร์เน็ต
-```
-
 ---
 
 ## 카테고리
 
 - 앱 카테고리: 게임 > 퍼즐
-- 콘텐츠 등급: 전체 이용가 (폭력·선정성·도박 요소 없음)
+- 콘텐츠 등급: **1.1.0에서 설문을 다시 해야 한다.**
+  - 광고가 들어갔으므로 "앱에 광고가 포함됨"에 체크한다.
+  - 감춰 두었던 수영복 캐릭터 스킨 2종(문라이트 리조트·여름 바캉스)이 공개된다.
+    선정성 문항을 다시 읽고 사실대로 답한다. 대상 연령은 만 13세 이상으로 둔다.
+  - 폭력·도박 요소는 여전히 없다.
 
 ## 데이터 보안 (Data safety) 신고
 
-**수집하는 데이터: 없음. 공유하는 데이터: 없음.**
+**1.1.0에서 바뀐다. 광고가 들어가면서 "수집 없음"이 더 이상 사실이 아니다.**
+콘솔에서 신고를 반드시 고쳐야 한다. 그대로 두면 허위 신고가 된다.
 
-기록과 설정은 기기 안에만 저장되고 밖으로 나가지 않는다. 인터넷 권한도 쓰지 않는다.
-신고 양식에서는 이렇게 답한다.
+앱이 직접 모으는 것은 여전히 없다. 다만 구글 AdMob SDK가 광고를 띄우려고
+광고 ID와 IP로 추정한 국가 수준의 위치를 수집하고 구글로 보낸다.
+아래는 구글이 안내하는 AdMob 기본 연동 기준이다.
 
 | 질문 | 답 |
 |---|---|
-| 사용자 데이터를 수집하거나 공유합니까? | 아니요 |
-| 전송 중 데이터가 암호화됩니까? | 해당 없음 (전송하지 않음) |
-| 사용자가 데이터 삭제를 요청할 수 있습니까? | 해당 없음 (앱 데이터 삭제로 전부 지워짐) |
+| 사용자 데이터를 수집하거나 공유합니까? | **예** |
+| 위치 → 대략적인 위치 | 수집함 · 공유함 · 목적: 광고 또는 마케팅 |
+| 기기 또는 기타 ID → 기기 또는 기타 ID | 수집함 · 공유함 · 목적: 광고 또는 마케팅 |
+| 전송 중 데이터가 암호화됩니까? | 예 |
+| 사용자가 데이터 삭제를 요청할 수 있습니까? | 예 (기기 설정에서 광고 ID 초기화·삭제) |
 | 사진/동영상을 수집합니까? | **아니요.** 카메라를 켜서 색만 읽고, 이미지는 저장도 전송도 하지 않음 |
 
 > 카메라 권한을 쓰지만 "사진 또는 동영상" 데이터 유형에는 체크하지 않는다.
 > 구글 기준으로 **기기 밖으로 나가지 않고 저장도 하지 않으면 수집이 아니다.**
 > 다만 심사에서 물어볼 수 있으니 위 문장을 그대로 답할 수 있게 준비해 둔다.
 
+> 연습 기록·학습 진도·설정·광고로 연 스킨 목록은 기기 안에만 남는다.
 > 앱을 지웠다 다시 깔아도 기록이 되살아나는 것은 안드로이드 자동 백업 때문이며,
 > 이는 구글 계정의 기기 백업 기능이지 이 앱이 데이터를 보내는 것이 아니다.
 
 ## 권한
 
-**카메라** 하나만 요청한다. 그것도 「실물 큐브 촬영」을 열 때만 묻는다.
-거부해도 나머지 기능은 전부 쓸 수 있다. 인터넷 권한은 넣지 않는다.
+사용자에게 직접 묻는 권한은 **카메라** 하나다. 그것도 「실물 큐브 촬영」을 열 때만 묻는다.
+거부해도 나머지 기능은 전부 쓸 수 있다.
 
 찍은 화면은 칸 색을 읽는 데에만 쓰고 **저장하지도 전송하지도 않는다** —
 코드상 이미지를 파일로 쓰거나 네트워크로 보내는 경로 자체가 없다.
 데이터 보안 신고에서 이 점을 그대로 답하면 된다.
+
+1.1.0부터는 광고 SDK가 매니페스트에 아래 권한을 자동으로 넣는다. 모두 normal
+보호수준이라 설치·실행 중에 따로 묻지 않지만 스토어 권한 목록에는 뜬다.
+
+| 권한 | 왜 |
+|---|---|
+| `INTERNET`, `ACCESS_NETWORK_STATE` | 광고를 불러오려고 |
+| `com.google.android.gms.permission.AD_ID` | 안드로이드 13 이상에서 광고 ID를 읽으려고 |
+| `WAKE_LOCK`, `FOREGROUND_SERVICE` | 광고 로딩·측정 중 구글 플레이 서비스가 씀 |
+| `ACCESS_ADSERVICES_AD_ID` / `_ATTRIBUTION` / `_TOPICS` | 프라이버시 샌드박스 API |
+
+연습·학습·촬영은 인터넷 없이도 그대로 된다. 통신이 없으면 광고 자리만 빈다.
 
 ## 시각적 에셋
 
