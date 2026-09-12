@@ -85,6 +85,7 @@ Português (Brasil) / Русский / Tiếng Việt / Bahasa Indonesia / ไ�
 · 손가락 조작과 노테이션 버튼 둘 다 씁니다.
 · 어두운 화면과 밝은 화면 중에 고를 수 있습니다.
 · 14개 언어를 지원합니다.
+· 인터넷 없이도 배우고 연습할 수 있습니다.
 ```
 ---
 
@@ -135,6 +136,7 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 · Swipe controls and notation buttons both work.
 · Dark and light themes.
 · Available in 14 languages.
+· Learn and practise without an internet connection.
 ```
 ---
 
@@ -184,6 +186,7 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 ・指の操作と手順ボタンの両方が使えます。
 ・ダークとライトを選べます。
 ・14言語に対応しています。
+・インターネットがなくても学習と練習ができます。
 ```
 ---
 
@@ -233,6 +236,7 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 · 手势操作和转动按钮都支持。
 · 可选深色与浅色。
 · 支持 14 种语言。
+· 没有网络也能学习和练习。
 ```
 ---
 
@@ -282,6 +286,7 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 · 手勢操作和轉動按鈕都支援。
 · 可選深色與淺色。
 · 支援 14 種語言。
+· 沒有網路也能學習和練習。
 ```
 ---
 
@@ -331,6 +336,7 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 · 手勢操作和轉動按鈕都支援。
 · 可選深色與淺色。
 · 支援 14 種語言。
+· 沒有網路也能學習和練習。
 ```
 ---
 
@@ -381,6 +387,7 @@ Las imágenes pueden ocupar una cara entera o repetirse en cada casilla.
 · Funcionan tanto los gestos como los botones de notación.
 · Temas oscuro y claro.
 · Disponible en 14 idiomas.
+· Aprende y practica sin conexión a internet.
 ```
 ---
 
@@ -432,6 +439,7 @@ Une image peut couvrir une face entière ou se répéter sur chaque case.
 · Les gestes et les boutons de notation fonctionnent tous les deux.
 · Thèmes sombre et clair.
 · Disponible en 14 langues.
+· Apprenez et entraînez-vous sans connexion internet.
 ```
 ---
 
@@ -483,6 +491,7 @@ Bilder können eine ganze Seite füllen oder sich pro Feld wiederholen.
 · Wischgesten und Zugschaltflächen funktionieren beide.
 · Dunkles und helles Design.
 · In 14 Sprachen verfügbar.
+· Lernen und üben ohne Internetverbindung.
 ```
 ---
 
@@ -533,6 +542,7 @@ As imagens podem cobrir uma face inteira ou se repetir em cada adesivo.
 · Gestos e botões de movimento funcionam juntos.
 · Temas escuro e claro.
 · Disponível em 14 idiomas.
+· Aprenda e treine sem internet.
 ```
 ---
 
@@ -583,6 +593,7 @@ As imagens podem cobrir uma face inteira ou se repetir em cada adesivo.
 · Работают и жесты, и кнопки ходов.
 · Тёмная и светлая темы.
 · Доступно на 14 языках.
+· Учитесь и тренируйтесь без интернета.
 ```
 ---
 
@@ -633,6 +644,7 @@ Hình có thể trải kín một mặt hoặc lặp lại trên từng ô.
 · Dùng được cả thao tác vuốt lẫn nút ký hiệu.
 · Có giao diện tối và sáng.
 · Hỗ trợ 14 ngôn ngữ.
+· Học và luyện tập không cần internet.
 ```
 ---
 
@@ -683,6 +695,7 @@ Gambar bisa memenuhi satu sisi penuh atau diulang di tiap kotak.
 · Kontrol geser dan tombol notasi sama-sama bisa dipakai.
 · Tema gelap dan terang.
 · Tersedia dalam 14 bahasa.
+· Belajar dan berlatih tanpa koneksi internet.
 ```
 ---
 
@@ -733,6 +746,7 @@ Gambar bisa memenuhi satu sisi penuh atau diulang di tiap kotak.
 · ใช้ได้ทั้งการปัดนิ้วและปุ่มสัญลักษณ์
 · มีธีมมืดและสว่าง
 · รองรับ 14 ภาษา
+· เรียนและฝึกได้โดยไม่ต้องต่ออินเทอร์เน็ต
 ```
 ---
 
