@@ -34,12 +34,12 @@
   </tr>
   <tr>
     <td>온라인 대전</td>
-    <td>익명 ID, 고른 아바타, 낸 단어, 입력 중인 글자, 아이템 사용, 연결 끊김 시각, 승패</td>
+    <td>익명 ID, 고른 아바타, 낸 단어, 입력 중인 글자, 아이템 사용, 연결 끊김 시각, 승패, 랜덤 매칭 승·패 수</td>
     <td>구글 Firebase (저희 앱을 대신해 처리)</td>
   </tr>
   <tr>
     <td>랭킹에 <strong>올리기를 고른 경우</strong></td>
-    <td>익명 ID, 고른 아바타, 스테이지 도전 최고 기록, 올린 시각</td>
+    <td>익명 ID, 고른 아바타, 스테이지 도전 최고 기록, 올린 시각 (랜덤 매칭 승·패 수가 순위표에 보이게 됨)</td>
     <td>구글 Firebase</td>
   </tr>
   <tr>
@@ -106,6 +106,9 @@
 </ul>
 <p><strong>상대에게 보이는 것</strong>은 아바타와 단어(쓰는 중인 글자 포함)뿐입니다. 이름이나 연락처는 보이지 않고,
 자유롭게 글을 쓰는 채팅은 없습니다.</p>
+<p><strong>온라인 대전 순위:</strong> 랜덤 매칭으로 한 판이 끝나면 <strong>익명 ID 별 승·패 수</strong>와
+마지막으로 센 방 코드·이긴 시각을 서버에 적습니다(친구 코드 방과 너무 빨리 끝난 판은 세지 않습니다).
+이 기록은 순위표에 올리기를 고른 경우에만 다른 사용자에게 보입니다.</p>
 <p><strong>보관 기간:</strong> 대전 방은 판이 끝나고 몇 초 뒤에 지웁니다. 매칭 대기 기록은 짝이 지어지거나
 그만 찾거나 연결이 끊기면 지웁니다. 드물게 두 사람 모두 결과 없이 연결이 끊긴 방이 남을 수 있지만,
 그 안에는 익명 ID·아바타·단어 외에 누구인지 알 수 있는 정보가 없습니다.
@@ -115,8 +118,9 @@
 <p>랭킹 화면을 처음 열면 <strong>순위표에 내 기록을 올릴지 묻습니다.</strong> "보기만" 을 고르시면
 아무것도 올라가지 않고 순위표만 볼 수 있습니다. "올리기" 를 고르시면
 <strong>익명 ID, 아바타, 스테이지 도전 최고 기록, 올린 시각</strong>이 올라가 다른 사용자에게
-아바타와 기록이 보이고, 이후 스테이지를 깰 때마다 기록을 새로 올립니다.</p>
-<p>랭킹 화면 아래 <strong>「순위표에서 내 기록 내리기」</strong>를 누르면 즉시 지워지고, 그 뒤로는 올리지 않습니다.
+아바타와 스테이지 기록, 랜덤 매칭 승·패 수가 보이고, 이후 스테이지를 깰 때마다 기록을 새로 올립니다.</p>
+<p>랭킹 화면 아래 <strong>「순위표에서 내 기록 내리기」</strong>를 누르면 스테이지 기록은 즉시 지워지고
+온라인 승·패 수는 순위표에서 감춰지며, 그 뒤로는 올리지 않습니다. 승·패 수까지 지우길 원하시면 메일로 알려 주세요.
 앱을 지우면 기기와 익명 ID 의 연결이 끊겨 기록을 다시 찾을 수 없으니, 앱을 지우기 전에 내려 주세요.
 미처 못 내리셨다면 아바타와 기록을 적어 메일로 알려 주시면 찾아서 지워 드립니다.</p>
 
@@ -181,7 +185,7 @@ Firebase 는 저희를 대신해 정보를 처리하며, 이 정보를 광고에
 
 <h2>9. 삭제 요청</h2>
 <ul>
-  <li>순위표 기록: 랭킹 화면에서 직접 내리실 수 있습니다.</li>
+  <li>순위표 기록: 랭킹 화면에서 직접 내리실 수 있습니다. 온라인 승·패 수 삭제는 메일로 요청해 주세요.</li>
   <li>기기에 저장된 기록: 앱을 삭제하면 지워집니다.</li>
   <li>그 밖의 요청: 아래 이메일로 알려 주세요.</li>
 </ul>
@@ -214,7 +218,7 @@ Last updated: 17 September 2026 (online matches and ranking from 1.5.0)</p>
 <table>
   <tr><th>When</th><th>What</th><th>Processed by</th></tr>
   <tr><td>AI games and stage challenge</td><td>Nothing (stored on device only, section 5)</td><td>—</td></tr>
-  <tr><td>Online matches</td><td>Anonymous ID, chosen avatar, words played, text being typed, items used, disconnect time, result</td><td>Google Firebase (on our behalf)</td></tr>
+  <tr><td>Online matches</td><td>Anonymous ID, chosen avatar, words played, text being typed, items used, disconnect time, result, random-match win/loss counts</td><td>Google Firebase (on our behalf)</td></tr>
   <tr><td>Ranking, <strong>if you choose to upload</strong></td><td>Anonymous ID, chosen avatar, best stage, upload time</td><td>Google Firebase</td></tr>
   <tr><td>When ads are shown</td><td>Advertising ID, device info, approximate location, ad interactions</td><td>Google AdMob (section 4)</td></tr>
 </table>
@@ -261,6 +265,9 @@ number and we cannot tell who you are from it. Google may process connection dat
   <li>While waiting for a random match: anonymous ID, avatar and the time you started waiting</li>
 </ul>
 <p>Your opponent sees only your avatar and words. There is no free-text chat.</p>
+<p><strong>Online ranking:</strong> when a random match ends, <strong>win and loss counts per anonymous ID</strong>
+and the last counted room code and win time are recorded on the server (friend-code rooms and very short matches are not counted).
+They are visible to other users only if you chose to upload to the ranking.</p>
 <p><strong>Retention:</strong> a match room is deleted a few seconds after the match ends; a waiting
 entry is deleted when you are matched, stop searching or disconnect. Rarely, a room can remain if
 both players disconnect without a result; it contains nothing beyond anonymous IDs, avatars and words.
@@ -268,9 +275,10 @@ Your online win/loss record is stored on your device only.</p>
 <h3>Ranking</h3>
 <p>The first time you open the ranking screen you are asked whether to upload your record.
 Choosing "view only" uploads nothing. Choosing "upload" sends your <strong>anonymous ID, avatar,
-best stage and upload time</strong>; other users see your avatar and record, and it is updated each
-time you clear a stage. Tap <strong>"Remove my record"</strong> at the bottom of the ranking screen to
-delete it at once and stop uploading. Please remove it before uninstalling; otherwise e-mail us your
+best stage and upload time</strong>; other users see your avatar, stage record and random-match win/loss
+counts, and it is updated each time you clear a stage. Tap <strong>"Remove my record"</strong> at the bottom
+of the ranking screen to delete your stage record, hide your win/loss counts and stop uploading
+(e-mail us to delete the counts as well). Please remove it before uninstalling; otherwise e-mail us your
 avatar and record and we will delete it.</p>
 <p>See <a href="https://firebase.google.com/support/privacy">Firebase privacy</a> and
 <a href="https://policies.google.com/privacy">Google's Privacy Policy</a>. Firebase processes this data
