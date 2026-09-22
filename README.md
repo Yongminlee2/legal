@@ -27,6 +27,10 @@ GitHub Pages로 서비스한다 (`main` 브랜치 루트).
 | 삐약과학 / Peep Science | https://yongminlee2.github.io/legal/peepscience/ |
 | — 개인정보처리방침 | https://yongminlee2.github.io/legal/peepscience/privacy.html |
 | — 지원 안내 | https://yongminlee2.github.io/legal/peepscience/support.html |
+| 끝말잇기 / WordChain | https://yongminlee2.github.io/legal/wordchain/ |
+| — 개인정보처리방침 | https://yongminlee2.github.io/legal/wordchain/privacy.html |
+| — 지원 안내 | https://yongminlee2.github.io/legal/wordchain/support.html |
+| — 데이터 삭제 요청 | https://yongminlee2.github.io/legal/wordchain/delete.html |
 | 3D 큐브 / 3D Cube | https://yongminlee2.github.io/legal/cube3d/ |
 | — 개인정보처리방침 | https://yongminlee2.github.io/legal/cube3d/privacy.html |
 | — 지원 안내 | https://yongminlee2.github.io/legal/cube3d/support.html |
