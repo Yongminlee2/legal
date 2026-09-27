@@ -1,0 +1,105 @@
+<ko-KR>
+1.1.0 업데이트
+· 새 시작 화면 — 모은 별을 한눈에 보고, [이어하기]로 하던 판을 바로 열어요.
+· 막히면 힌트! 부품 하나를 놓을 자리를 보여 줘요.
+· 스테이지 고르는 화면의 칸이 커져서 누르기 쉬워졌어요.
+· 너무 쉽게 풀리던 판 몇 개를 다듬었어요.
+</ko-KR>
+<en-US>
+Version 1.1.0
+· New start screen: see all your stars at a glance, and jump back in with Continue.
+· Stuck? Use a hint to see where one part goes.
+· Bigger stage buttons on the stage select screen.
+· Tuned a few stages that were too easy to solve.
+</en-US>
+<ja-JP>
+バージョン1.1.0
+· 新しいスタート画面 — 集めた星がひと目でわかり、「つづきから」ですぐ再開できます。
+· 困ったらヒント！パーツを1つ置く場所を教えてくれます。
+· ステージ選択画面のボタンが大きくなり、押しやすくなりました。
+· かんたんに解けすぎたステージをいくつか調整しました。
+</ja-JP>
+<zh-CN>
+1.1.0 版本更新
+· 全新开始画面：收集的星星一目了然，点“继续”马上接着玩。
+· 卡关了？用提示看看一个零件该放在哪里。
+· 选关画面的按钮变大了，更好按。
+· 调整了几个太容易过关的关卡。
+</zh-CN>
+<zh-TW>
+1.1.0 版本更新
+· 全新開始畫面：收集的星星一目了然，點「繼續」馬上接著玩。
+· 卡關了？用提示看看一個零件該放在哪裡。
+· 選關畫面的按鈕變大了，更好按。
+· 調整了幾個太容易過關的關卡。
+</zh-TW>
+<zh-HK>
+1.1.0 版本更新
+· 全新開始畫面：儲到幾多粒星一眼睇晒，撳「繼續」即刻接住玩。
+· 卡關？用提示睇吓一件零件應該擺喺邊。
+· 揀關畫面嘅掣變大咗，更易撳。
+· 調整咗幾個太易過關嘅關卡。
+</zh-HK>
+<es-ES>
+Versión 1.1.0
+· Nueva pantalla de inicio: ve todas tus estrellas de un vistazo y vuelve a jugar con Continuar.
+· ¿Te has atascado? Usa una pista para ver dónde va una pieza.
+· Botones más grandes en la pantalla de selección de niveles.
+· Hemos ajustado algunos niveles que se resolvían demasiado fácil.
+</es-ES>
+<pt-BR>
+Versão 1.1.0
+· Nova tela inicial: veja todas as suas estrelas de uma vez e volte a jogar com Continuar.
+· Travou? Use uma dica para ver onde vai uma peça.
+· Botões maiores na tela de escolha de fases.
+· Ajustamos algumas fases que eram fáceis demais.
+</pt-BR>
+<de-DE>
+Version 1.1.0
+· Neuer Startbildschirm: Alle Sterne auf einen Blick, und mit „Weiterspielen“ geht es direkt weiter.
+· Nicht weitergekommen? Ein Tipp zeigt dir, wohin ein Teil gehört.
+· Größere Tasten bei der Stufenauswahl.
+· Einige Stufen, die zu leicht zu lösen waren, wurden überarbeitet.
+</de-DE>
+<fr-FR>
+Version 1.1.0
+· Nouvel écran d'accueil : vois toutes tes étoiles d'un coup d'œil et reprends avec Continuer.
+· Bloqué ? Un indice te montre où placer une pièce.
+· Boutons plus grands sur l'écran de choix des niveaux.
+· Quelques niveaux trop faciles à résoudre ont été retravaillés.
+</fr-FR>
+<it-IT>
+Versione 1.1.0
+· Nuova schermata iniziale: vedi tutte le tue stelle a colpo d'occhio e riprendi con Continua.
+· Bloccato? Un suggerimento ti mostra dove va un pezzo.
+· Pulsanti più grandi nella schermata di scelta dei livelli.
+· Abbiamo sistemato alcuni livelli che si risolvevano troppo facilmente.
+</it-IT>
+<ru-RU>
+Версия 1.1.0
+· Новый стартовый экран: все звёзды видны сразу, а «Продолжить» возвращает прямо в игру.
+· Застрял? Подсказка покажет, куда поставить одну деталь.
+· Кнопки на экране выбора уровней стали крупнее.
+· Доработали несколько уровней, которые проходились слишком легко.
+</ru-RU>
+<id>
+Versi 1.1.0
+· Layar awal baru: lihat semua bintangmu sekilas dan lanjutkan main lewat Lanjutkan.
+· Buntu? Pakai petunjuk untuk melihat tempat satu bagian.
+· Tombol di layar pilih level jadi lebih besar.
+· Beberapa level yang terlalu mudah sudah diperbaiki.
+</id>
+<vi>
+Phiên bản 1.1.0
+· Màn hình bắt đầu mới: xem hết số sao đã gom và bấm Chơi tiếp để vào ngay.
+· Bí rồi? Dùng gợi ý để biết chỗ đặt một bộ phận.
+· Nút chọn màn chơi to hơn, dễ bấm hơn.
+· Chỉnh lại vài màn chơi quá dễ vượt qua.
+</vi>
+<th>
+เวอร์ชัน 1.1.0
+· หน้าเริ่มต้นใหม่ — เห็นดาวที่สะสมได้ในแวบเดียว และกด "เล่นต่อ" เพื่อกลับไปเล่นทันที
+· ติดอยู่ใช่ไหม? ใช้คำใบ้ดูว่าชิ้นส่วนหนึ่งต้องวางตรงไหน
+· ปุ่มในหน้าเลือกด่านใหญ่ขึ้น กดง่ายขึ้น
+· ปรับด่านที่ผ่านง่ายเกินไปบางด่าน
+</th>
