@@ -4,19 +4,19 @@
 </en-US>
 <de-DE>
 · Hinweise jetzt auch für den 4×4: Mitten, Kantenpaare, Parität, dann wie einen 3×3 lösen.
-· Lernen mit Bild-Spickzetteln: Form ansehen, antippen, der Würfel zeigt die Formel. Neuer 4×4-Kurs in 5 Stufen.
+· Lernen mit Bild-Spickzetteln: Form ansehen, antippen, der Würfel zeigt den Algorithmus. Neuer 4×4-Kurs in 5 Stufen.
 </de-DE>
 <es-ES>
 · Ahora también hay pistas para el 4×4: centros, parejas de aristas, paridad y luego como un 3×3.
-· Aprender ahora usa chuletas con dibujos: mira la forma, tócala y el cubo muestra la fórmula. Nuevo curso 4×4 de 5 etapas.
+· Aprender ahora usa chuletas con dibujos: mira la forma, tócala y el cubo muestra el algoritmo. Nuevo curso 4×4 de 5 etapas.
 </es-ES>
 <fr-FR>
 · Indices désormais aussi pour le 4×4 : centres, paires d’arêtes, parité, puis comme un 3×3.
-· Apprendre utilise des aide-mémoire illustrés : touchez la forme et le cube montre la formule. Nouveau parcours 4×4 en 5 étapes.
+· Apprendre utilise des aide-mémoire illustrés : touchez la forme et le cube montre l’algorithme. Nouveau parcours 4×4 en 5 étapes.
 </fr-FR>
 <id>
 · Petunjuk kini juga untuk 4×4: pusat, pasangan rusuk, paritas, lalu selesaikan seperti 3×3.
-· Belajar kini memakai kartu contekan bergambar: ketuk bentuknya dan kubus memperagakan rumusnya. Kursus 4×4 baru 5 tahap.
+· Belajar kini memakai kartu contekan bergambar: ketuk bentuknya dan kubus memperagakan algoritmanya. Kursus 4×4 baru 5 tahap.
 </id>
 <ja-JP>
 ・4×4でもヒントが使えます。センター、エッジのペア、パリティ、そして3×3と同じ手順で揃えます。
@@ -28,19 +28,19 @@
 </ko-KR>
 <pt-BR>
 · Agora há dicas também para o 4×4: centros, pares de arestas, paridade e depois como um 3×3.
-· Aprender agora usa colas com desenhos: toque na forma e o cubo mostra a fórmula. Novo curso 4×4 de 5 etapas.
+· Aprender agora usa colas com desenhos: toque na forma e o cubo mostra o algoritmo. Novo curso 4×4 de 5 etapas.
 </pt-BR>
 <ru-RU>
 · Подсказки теперь есть и для 4×4: центры, пары рёбер, паритет, а затем как 3×3.
-· Обучение теперь на карточках-шпаргалках: нажмите фигуру, и кубик покажет формулу. Новый курс 4×4 из 5 этапов.
+· Обучение теперь на карточках-шпаргалках: нажмите фигуру, и кубик покажет алгоритм. Новый курс 4×4 из 5 этапов.
 </ru-RU>
 <th>
 · 4×4 มีคำใบ้แล้ว: เซ็นเตอร์ จับคู่เอดจ์ พาริตี้ แล้วแก้แบบ 3×3
-· บทเรียนเป็นการ์ดสูตรลัดแบบรูป แตะรูปแล้วลูกบาศก์จะทำสูตรให้ดู เพิ่มคอร์ส 4×4 (5 ขั้น)
+· บทเรียนเป็นการ์ดโพยสูตรแบบรูป แตะรูปแล้วลูกบาศก์จะทำสูตรให้ดู เพิ่มคอร์ส 4×4 (5 ขั้น)
 </th>
 <vi>
 · Khối 4×4 nay cũng có gợi ý: tâm, ghép cạnh, parity, rồi giải như 3×3.
-· Học giờ dùng thẻ mẹo có hình: chạm vào hình, khối rubik sẽ làm mẫu công thức. Thêm khóa 4×4 gồm 5 bước.
+· Học giờ dùng thẻ tra nhanh có hình: chạm vào hình, khối sẽ làm mẫu công thức. Thêm khóa 4×4 gồm 5 bước.
 </vi>
 <zh-CN>
 · 4×4 现在也有提示：中心块、棱块配对、奇偶，然后按 3×3 的方法还原。
@@ -48,9 +48,9 @@
 </zh-CN>
 <zh-HK>
 · 4×4 而家都有提示：中心塊、邊塊配對、奇偶，然後用 3×3 嘅方法還原。
-· 學習改為圖示速查卡：撳一下形狀，扭計骰就示範公式。新增 4×4 課程（5 個階段）。
+· 學習改為圖示速查卡：撳一下形狀，魔方就示範公式。新增 4×4 課程（5 個階段）。
 </zh-HK>
 <zh-TW>
 · 4×4 現在也有提示：中心塊、邊塊配對、奇偶，然後用 3×3 的方法還原。
-· 學習改為圖示速查卡：點一下形狀，魔術方塊就示範公式。新增 4×4 課程（5 個階段）。
+· 學習改為圖示速查卡：點一下形狀，魔方就示範公式。新增 4×4 課程（5 個階段）。
 </zh-TW>
