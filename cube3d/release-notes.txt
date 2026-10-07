@@ -5,6 +5,7 @@ First release.
 · Practice 2x2, 3x3 and 4x4 with a timer, best time, ao5 and ao12.
 · Four character cube skins. Watch one ad to unlock a skin; once unlocked it stays yours.
 · 14 languages. No internet connection needed.
+· Hints now work on the 4×4 too: centers, edge pairs, parity, then solve it like a 3×3.
 </en-US>
 <de-DE>
 Erste Version.
@@ -13,6 +14,7 @@ Erste Version.
 · Übe 2x2, 3x3 und 4x4 mit Timer, Bestzeit, ao5 und ao12.
 · Vier Charakter-Skins. Sieh eine Werbung an, um einen freizuschalten – einmal frei, bleibt er dir.
 · 14 Sprachen. Keine Internetverbindung nötig.
+· Hinweise jetzt auch für den 4×4: Mitten, Kantenpaare, Parität, dann wie einen 3×3 lösen.
 </de-DE>
 <es-ES>
 Primera versión.
@@ -21,6 +23,7 @@ Primera versión.
 · Practica 2x2, 3x3 y 4x4 con cronómetro, mejor tiempo, ao5 y ao12.
 · Cuatro diseños de personajes. Mira un anuncio para desbloquear uno; una vez desbloqueado, se queda contigo.
 · 14 idiomas. No necesita conexión a internet.
+· Ahora también hay pistas para el 4×4: centros, parejas de aristas, paridad y luego como un 3×3.
 </es-ES>
 <fr-FR>
 Première version.
@@ -29,6 +32,7 @@ Première version.
 · Entraînement 2x2, 3x3 et 4x4 avec chrono, meilleur temps, ao5 et ao12.
 · Quatre skins de personnages. Regardez une publicité pour en débloquer un ; une fois débloqué, il reste à vous.
 · 14 langues. Aucune connexion internet nécessaire.
+· Indices désormais aussi pour le 4×4 : centres, paires d’arêtes, parité, puis comme un 3×3.
 </fr-FR>
 <id>
 Versi pertama.
@@ -37,6 +41,7 @@ Versi pertama.
 · Latihan 2x2, 3x3, dan 4x4 dengan timer, rekor terbaik, ao5 dan ao12.
 · Empat skin karakter. Tonton satu iklan untuk membukanya; setelah terbuka, bisa dipakai selamanya.
 · 14 bahasa. Tidak perlu koneksi internet.
+· Petunjuk kini juga untuk 4×4: pusat, pasangan rusuk, paritas, lalu selesaikan seperti 3×3.
 </id>
 <ja-JP>
 初回リリースです。
@@ -45,6 +50,7 @@ Versi pertama.
 ・2×2・3×3・4×4の練習とタイマー、自己ベストとao5・ao12。
 ・キャラクタースキン4種。広告を1回見ると解放され、一度解放すればずっと使えます。
 ・14言語に対応し、インターネット接続は不要です。
+・4×4でもヒントが使えます。センター、エッジのペア、パリティ、そして3×3と同じ手順で揃えます。
 </ja-JP>
 <ko-KR>
 첫 출시입니다.
@@ -53,6 +59,7 @@ Versi pertama.
 · 2×2 · 3×3 · 4×4 연습과 타이머, 최고 기록과 ao5 · ao12.
 · 캐릭터 큐브 스킨 4종. 광고를 한 번 보면 열리고, 한 번 열면 계속 쓸 수 있습니다.
 · 14개 언어를 지원하고, 인터넷 연결이 필요 없습니다.
+· 4×4도 힌트를 줍니다. 센터 → 엣지 짝 → 패리티 → 3×3처럼 순서로 안내합니다.
 </ko-KR>
 <pt-BR>
 Primeira versão.
@@ -61,6 +68,7 @@ Primeira versão.
 · Treine 2x2, 3x3 e 4x4 com cronômetro, melhor tempo, ao5 e ao12.
 · Quatro skins de personagem. Assista a um anúncio para desbloquear um; depois de desbloqueado, ele fica com você.
 · 14 idiomas. Não precisa de internet.
+· Agora há dicas também para o 4×4: centros, pares de arestas, paridade e depois como um 3×3.
 </pt-BR>
 <ru-RU>
 Первый выпуск.
@@ -69,6 +77,7 @@ Primeira versão.
 · Тренировка 2x2, 3x3 и 4x4 с таймером, лучшим временем, ao5 и ao12.
 · Четыре скина с персонажами. Посмотрите одну рекламу, чтобы открыть скин — открытый останется у вас.
 · 14 языков. Интернет не нужен.
+· Подсказки теперь есть и для 4×4: центры, пары рёбер, паритет, а затем как 3×3.
 </ru-RU>
 <th>
 เวอร์ชันแรก
@@ -77,6 +86,7 @@ Primeira versão.
 · ฝึก 2x2, 3x3 และ 4x4 พร้อมจับเวลา สถิติดีที่สุด ao5 และ ao12
 · สกินตัวละคร 4 แบบ ดูโฆษณา 1 ครั้งเพื่อปลดล็อก ปลดล็อกแล้วใช้ได้ตลอด
 · รองรับ 14 ภาษา ไม่ต้องต่ออินเทอร์เน็ต
+· 4×4 มีคำใบ้แล้ว: เซ็นเตอร์ จับคู่เอดจ์ พาริตี้ แล้วแก้แบบ 3×3
 </th>
 <vi>
 Phiên bản đầu tiên.
@@ -85,6 +95,7 @@ Phiên bản đầu tiên.
 · Luyện 2x2, 3x3 và 4x4 với đồng hồ, kỷ lục, ao5 và ao12.
 · Bốn giao diện nhân vật. Xem một quảng cáo để mở; mở rồi thì dùng được mãi.
 · 14 ngôn ngữ. Không cần kết nối internet.
+· Khối 4×4 nay cũng có gợi ý: tâm, ghép cạnh, parity, rồi giải như 3×3.
 </vi>
 <zh-CN>
 首次发布。
@@ -93,6 +104,7 @@ Phiên bản đầu tiên.
 · 2×2、3×3、4×4 练习与计时，最佳成绩和 ao5、ao12。
 · 四款角色皮肤。看一次广告即可解锁，解锁后可一直使用。
 · 支持 14 种语言，无需联网。
+· 4×4 现在也有提示：中心块、棱块配对、奇偶，然后按 3×3 的方法还原。
 </zh-CN>
 <zh-HK>
 首次發布。
@@ -101,6 +113,7 @@ Phiên bản đầu tiên.
 · 2×2、3×3、4×4 練習與計時，最佳成績和 ao5、ao12。
 · 四款角色外觀。睇一次廣告就可以解鎖，解鎖後可一直使用。
 · 支援 14 種語言，無需連網。
+· 4×4 而家都有提示：中心塊、邊塊配對、奇偶，然後用 3×3 嘅方法還原。
 </zh-HK>
 <zh-TW>
 首次發布。
@@ -109,4 +122,5 @@ Phiên bản đầu tiên.
 · 2×2、3×3、4×4 練習與計時，最佳成績和 ao5、ao12。
 · 四款角色外觀。看一次廣告即可解鎖，解鎖後可一直使用。
 · 支援 14 種語言，無需連網。
+· 4×4 現在也有提示：中心塊、邊塊配對、奇偶，然後用 3×3 的方法還原。
 </zh-TW>
