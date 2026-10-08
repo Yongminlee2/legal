@@ -1,0 +1,46 @@
+{
+ "apps": [
+  {
+   "id": "com.peep.science",
+   "name": "삐약과학 - 물리 퍼즐 게임",
+   "desc": "부품 12종을 조립하고 ▶로 굴리면 진짜 물리로 풀리는 퍼즐. 100스테이지 5개 월드, 온 가족이 함께.",
+   "icon": "apps/icons/com.peep.science.jpg"
+  },
+  {
+   "id": "com.peep.puzzle",
+   "name": "삐약푸쉬 - 소코반퍼즐",
+   "desc": "알을 밀어 둥지에 넣는 병아리 소코반 퍼즐. 300스테이지에 매일 새 퍼즐까지.",
+   "icon": "apps/icons/com.peep.puzzle.jpg"
+  },
+  {
+   "id": "com.geomgang.game",
+   "name": "검 강화 — 검 키우기",
+   "desc": "검을 강화해서 올립니다. 부서지면 되살릴지 조각을 챙길지 그 자리에서 고릅니다.",
+   "icon": "apps/icons/com.geomgang.game.jpg"
+  },
+  {
+   "id": "com.waxball.asmr",
+   "name": "왁뿌볼 - 증강현실 AR·ASMR",
+   "desc": "손바닥에 올려놓고 쥐어서 부수는 왁스볼 촉감 AR·ASMR",
+   "icon": "apps/icons/com.waxball.asmr.jpg"
+  },
+  {
+   "id": "com.ymlee.cube",
+   "name": "3D 큐브 — 배우기와 타이머",
+   "desc": "실물 큐브를 카메라로 찍으면 다음 수를 알려줍니다. 처음부터 배울 수도 있어요.",
+   "icon": "apps/icons/com.ymlee.cube.jpg"
+  },
+  {
+   "id": "com.testmin.app",
+   "name": "테스트의 민족",
+   "desc": "IQ·MBTI·심리 테스트를 풀고, 유형별 코믹 일러스트와 궁합 결과를 확인해보세요.",
+   "icon": "apps/icons/com.testmin.app.jpg"
+  },
+  {
+   "id": "com.kkeutmal.game",
+   "name": "끝말잇기 - AI 단어 대결",
+   "desc": "43만 단어 사전을 담은 끝말잇기. AI와, 사람과 온라인으로 겨뤄 보세요. 단어마다 뜻풀이가 뜹니다.",
+   "icon": "apps/icons/com.kkeutmal.game.jpg"
+  }
+ ]
+}

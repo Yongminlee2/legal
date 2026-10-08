@@ -13,6 +13,7 @@ GitHub Pages로 서비스한다 (`main` 브랜치 루트).
 | 문서 | 주소 |
 |---|---|
 | 앱 목록 | https://yongminlee2.github.io/legal/ |
+| 「개발자의 다른 게임」 목록 (앱이 읽음) | https://yongminlee2.github.io/legal/apps.json — 새 앱을 내면 여기에 한 줄 더하고 `apps/icons/` 에 아이콘. 앱 업데이트 없이 모든 앱에 나온다 |
 | 테스트의 민족 | https://yongminlee2.github.io/legal/testmin/ |
 | — 개인정보처리방침 | https://yongminlee2.github.io/legal/testmin/privacy.html |
 | — 이용 안내 | https://yongminlee2.github.io/legal/testmin/terms.html |
