@@ -1094,3 +1094,94 @@ Chơi được bằng 13 ngôn ngữ.
 支援 13 種語言。
 </zh-TW>
 ```
+
+## 출시 노트 1.2.4 업데이트 — 콘솔에 한 번에 붙여 넣기
+
+첫 출시 뒤 업데이트부터는 아래 묶음을 쓴다. 통째로 복사해 출시 노트 칸에 붙인다.
+
+```
+<en-US>
+- Sword broke? Watch an ad to bring it back.
+- Fell in the Infinite Corridor? Watch an ad to keep going once.
+- Shop: get gold, protection tickets, enhancement stones and legend protection tickets by watching ads.
+- New "More games from the developer" menu, layout fixes.
+</en-US>
+<de-DE>
+- Schwert zerbrochen? Sieh dir eine Werbung an und hol es zurück.
+- Im unendlichen Korridor gefallen? Mit einer Werbung einmal weitermachen.
+- Shop: Gold, Schutzscheine, Verstärkungssteine und legendäre Schutzscheine per Werbung.
+- Neues Menü „Weitere Spiele des Entwicklers", Layout-Korrekturen.
+</de-DE>
+<es-ES>
+- ¿Se rompió la espada? Mira un anuncio para recuperarla.
+- ¿Caíste en el corredor infinito? Mira un anuncio para continuar una vez.
+- Tienda: consigue oro, vales de protección, piedras de mejora y vales de protección legendaria viendo anuncios.
+- Nuevo menú «Más juegos del desarrollador» y ajustes de diseño.
+</es-ES>
+<fr-FR>
+- Épée brisée ? Regarde une pub pour la récupérer.
+- Tombé dans le couloir infini ? Regarde une pub pour continuer une fois.
+- Boutique : or, tickets de protection, pierres d'amélioration et tickets de protection légendaire contre une pub.
+- Nouveau menu « Autres jeux du développeur », corrections d'affichage.
+</fr-FR>
+<id>
+- Pedang hancur? Tonton iklan untuk memulihkannya.
+- Kalah di koridor tanpa batas? Tonton iklan untuk lanjut sekali.
+- Toko: dapatkan emas, tiket pelindung, batu penguat, dan tiket pelindung legenda dengan menonton iklan.
+- Menu baru "Game lain dari pengembang", perbaikan tampilan.
+</id>
+<ja-JP>
+- 剣が壊れたら、広告を見て元に戻せます。
+- 無限回廊で倒れても、広告を見れば一度だけ続けられます。
+- ショップで広告を見ると、ゴールド・防止券・強化石・伝説防止券がもらえます。
+- メニューに「開発者の他のゲーム」を追加、画面の修正。
+</ja-JP>
+<ko-KR>
+- 검이 부서졌을 때 광고를 보면 되살릴 수 있습니다.
+- 무한 회랑에서 쓰러져도 광고를 보면 한 번 이어 할 수 있습니다.
+- 상점에서 광고를 보고 골드·방지권·강화석·전설 파괴 방지권을 받을 수 있습니다.
+- 메뉴에 「개발자의 다른 게임」 추가, 화면 다듬기.
+</ko-KR>
+<pt-BR>
+- A espada quebrou? Assista a um anúncio para recuperá-la.
+- Caiu no corredor infinito? Assista a um anúncio para continuar uma vez.
+- Loja: ganhe ouro, tíquetes de proteção, pedras de aprimoramento e tíquetes de proteção lendária assistindo anúncios.
+- Novo menu "Mais jogos do desenvolvedor" e ajustes de layout.
+</pt-BR>
+<ru-RU>
+- Меч сломался? Посмотрите рекламу, чтобы вернуть его.
+- Пали в бесконечном коридоре? Посмотрите рекламу и продолжите один раз.
+- Магазин: золото, талоны защиты, камни усиления и легендарные талоны защиты за просмотр рекламы.
+- Новое меню «Другие игры разработчика», исправления интерфейса.
+</ru-RU>
+<th>
+- ดาบแตก? ดูโฆษณาเพื่อกู้คืนได้
+- ล้มในทางเดินไร้สิ้นสุด? ดูโฆษณาเพื่อเล่นต่อได้หนึ่งครั้ง
+- ร้านค้า: ดูโฆษณารับทอง ตั๋วป้องกัน หินตีบวก และตั๋วป้องกันระดับตำนาน
+- เพิ่มเมนู "เกมอื่นจากผู้พัฒนา" และปรับหน้าจอ
+</th>
+<vi>
+- Kiếm bị vỡ? Xem quảng cáo để khôi phục.
+- Gục ở hành lang vô tận? Xem quảng cáo để chơi tiếp một lần.
+- Cửa hàng: nhận vàng, vé bảo vệ, đá cường hóa và vé bảo vệ huyền thoại khi xem quảng cáo.
+- Thêm mục "Trò chơi khác của nhà phát triển", chỉnh sửa giao diện.
+</vi>
+<zh-CN>
+- 剑碎了？看广告即可复原。
+- 在无限回廊倒下？看广告可继续一次。
+- 商店：看广告领取金币、保护券、强化石和传说保护券。
+- 新增「开发者的其他游戏」菜单，界面优化。
+</zh-CN>
+<zh-HK>
+- 劍碎了？看廣告即可復原。
+- 在無限迴廊倒下？看廣告可繼續一次。
+- 商店：看廣告領取金幣、保護券、強化石和傳說保護券。
+- 新增「開發者的其他遊戲」選單，介面優化。
+</zh-HK>
+<zh-TW>
+- 劍碎了？看廣告即可復原。
+- 在無限迴廊倒下？看廣告可繼續一次。
+- 商店：看廣告領取金幣、保護券、強化石和傳說保護券。
+- 新增「開發者的其他遊戲」選單，介面優化。
+</zh-TW>
+```
