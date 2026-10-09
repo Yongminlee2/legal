@@ -66,15 +66,21 @@ Português (Brasil) / Русский / Tiếng Việt / Bahasa Indonesia / ไ�
 7단계 코스를 따라가면 3×3을 끝까지 맞출 수 있습니다.
 각 단계마다 설명을 읽고, 공식을 누르면 큐브가 직접 돌려서 보여줍니다.
 그 단계만 연습할 수 있고, 맞추면 다음 단계가 열립니다.
+4×4는 5단계 코스가 따로 있고, 단계마다 「이 모양이면 이 공식」 족보 카드를 그림으로 보여줍니다.
 
 ■ 힌트 — 도중에 막혔다면
 지금 상태에서 다음에 둘 수와 그 이유를 알려줍니다.
 가장 짧은 답이 아니라 배운 방법 그대로 알려주기 때문에, 힌트가 곧 복습이 됩니다.
 전개도에 지금 봐야 할 조각이 표시됩니다.
+3×3·4×4와 특이한 큐브 넷 모두 힌트를 줍니다.
 
 ■ 연습 — 이미 맞출 줄 안다면
 2×2, 3×3, 4×4를 섞고 시간을 잽니다.
 15초 인스펙션, 최고 기록, ao5와 ao12를 볼 수 있습니다.
+
+■ 특이한 큐브
+미러 큐브·피라밍크스·스큐브·메가밍크스도 돌려 볼 수 있습니다.
+넷 다 섞기·타이머·기록에 힌트와 배우기 코스까지 갖췄습니다.
 
 ■ 큐브 꾸미기
 색감 스킨과 그림 스킨 중에서 고릅니다.
@@ -85,6 +91,7 @@ Português (Brasil) / Русский / Tiếng Việt / Bahasa Indonesia / ไ�
 · 손가락 조작과 노테이션 버튼 둘 다 씁니다.
 · 어두운 화면과 밝은 화면 중에 고를 수 있습니다.
 · 14개 언어를 지원합니다.
+· 큐브 돌리는 소리를 여섯 가지 중에서 고를 수 있습니다.
 · 인터넷 연결이 필요 없습니다.
 ```
 ---
@@ -116,16 +123,22 @@ and a cube that cannot be solved is refused with the reason why.
 A 7-stage course takes you all the way through a 3×3.
 Read the explanation for each stage, then tap an algorithm and the cube
 performs it for you. Practise that stage alone, and clearing it unlocks the next.
+There is also a 5-stage 4×4 course, and each stage shows picture cards — "this shape, this algorithm".
 
 ■ Hints — if you get stuck
 See the next move and the reason behind it.
 Hints follow the method you were taught rather than the shortest solution,
 so every hint doubles as revision.
 The net view highlights the piece you should be looking at.
+Hints work on 3×3, 4×4 and all four special puzzles.
 
 ■ Practice — if you can already solve it
 Scramble and time 2×2, 3×3 and 4×4.
 15-second inspection, personal best, ao5 and ao12.
+
+■ Special puzzles
+Try the Mirror Cube, Pyraminx, Skewb and Megaminx.
+Each comes with scrambles, a timer and records, plus hints and a learning course.
 
 ■ Make it yours
 Choose a color scheme or a picture skin.
@@ -136,6 +149,7 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 · Swipe controls and notation buttons both work.
 · Dark and light themes.
 · Available in 14 languages.
+· Choose from six cube-turning sounds.
 · No internet connection required.
 ```
 ---
@@ -167,15 +181,21 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 7ステップのコースで3×3を最後まで揃えられます。
 各ステップの説明を読み、手順を押すとキューブが実際に回して見せます。
 そのステップだけ練習でき、クリアすると次が開きます。
+4×4には5ステップのコースもあり、各ステップで「この形ならこの手順」を絵のカードで見られます。
 
 ■ ヒント — 途中で詰まったら
 今の状態から次の一手と、その理由を教えます。
 最短の解答ではなく学んだ方法をそのまま案内するので、ヒントがそのまま復習になります。
 展開図には今見るべきピースが表示されます。
+3×3・4×4と変わったパズル4種すべてでヒントが使えます。
 
 ■ 練習 — すでに揃えられる方へ
 2×2・3×3・4×4をスクランブルしてタイムを計ります。
 15秒インスペクション、ベスト記録、ao5とao12に対応。
+
+■ 変わったパズル
+ミラーキューブ・ピラミンクス・スキューブ・メガミンクスも回せます。
+どれもスクランブル・タイマー・記録に加え、ヒントと学習コース付きです。
 
 ■ 見た目を変える
 色のスキンと絵柄のスキンから選べます。
@@ -186,6 +206,7 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 ・指の操作と手順ボタンの両方が使えます。
 ・ダークとライトを選べます。
 ・14言語に対応しています。
+・キューブを回す音を6種類から選べます。
 ・インターネット接続は不要です。
 ```
 ---
@@ -217,15 +238,21 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 7 步课程带你完整还原 3×3。
 阅读每一步的说明，点击公式，魔方会亲自演示。
 可以只练习这一步，通过后解锁下一步。
+另有4×4的5步课程，每一步都用图卡展示“这个形状，用这个公式”。
 
 ■ 提示 — 如果中途卡住
 告诉你当前状态下的下一步以及原因。
 提示遵循你学过的方法而不是最短解法，所以每次提示都是一次复习。
 展开图会标出此刻该看的块。
+3×3、4×4和全部4种异形魔方都有提示。
 
 ■ 练习 — 如果你已经会还原
 打乱并计时 2×2、3×3、4×4。
 支持 15 秒观察、最佳成绩、ao5 与 ao12。
+
+■ 异形魔方
+还可以玩镜面魔方、金字塔、斜转魔方和五魔方。
+每种都有打乱、计时、记录，以及提示和学习课程。
 
 ■ 自定义外观
 可以选择配色皮肤或图案皮肤。
@@ -236,6 +263,7 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 · 手势操作和转动按钮都支持。
 · 可选深色与浅色。
 · 支持 14 种语言。
+· 转动音效有6种可选。
 · 无需联网。
 ```
 ---
@@ -267,15 +295,21 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 7 步課程帶你完整還原 3×3。
 閱讀每一步的說明，點按公式，魔方會親自示範。
 可以只練習這一步，通過後解鎖下一步。
+另有4×4的5步課程，每一步都用圖卡展示「這個形狀，用這個公式」。
 
 ■ 提示 — 如果中途卡住
 告訴你目前狀態下的下一步以及原因。
 提示遵循你學過的方法而不是最短解法，所以每次提示都是一次複習。
 展開圖會標出此刻該看的塊。
+3×3、4×4和全部4種異形魔方都有提示。
 
 ■ 練習 — 如果你已經會還原
 打亂並計時 2×2、3×3、4×4。
 支援 15 秒觀察、最佳成績、ao5 與 ao12。
+
+■ 異形魔方
+還可以玩鏡面魔方、金字塔、斜轉魔方和五魔方。
+每種都有打亂、計時、記錄，以及提示和學習課程。
 
 ■ 自訂外觀
 可以選擇配色外觀或圖案外觀。
@@ -286,6 +320,7 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 · 手勢操作和轉動按鈕都支援。
 · 可選深色與淺色。
 · 支援 14 種語言。
+· 轉動音效有6種可選。
 · 無需連網。
 ```
 ---
@@ -317,15 +352,21 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 7 步課程帶你完整還原 3×3。
 閱讀每一步的說明，點按公式，魔方會親自示範。
 可以只練習這一步，通過後解鎖下一步。
+另有4×4的5步課程，每一步都用圖卡展示「這個形狀，用這個公式」。
 
 ■ 提示 — 如果中途卡住
 告訴你目前狀態下的下一步以及原因。
 提示遵循你學過的方法而不是最短解法，所以每次提示都是一次複習。
 展開圖會標出此刻該看的塊。
+3×3、4×4同全部4款異形魔方都有提示。
 
 ■ 練習 — 如果你已經會還原
 打亂並計時 2×2、3×3、4×4。
 支援 15 秒觀察、最佳成績、ao5 與 ao12。
+
+■ 異形魔方
+仲可以玩鏡面魔方、金字塔、斜轉魔方同五魔方。
+每款都有打亂、計時、記錄，仲有提示同學習課程。
 
 ■ 自訂外觀
 可以選擇配色外觀或圖案外觀。
@@ -336,6 +377,7 @@ Picture skins can spread one image across a whole face or repeat it per sticker.
 · 手勢操作和轉動按鈕都支援。
 · 可選深色與淺色。
 · 支援 14 種語言。
+· 轉動音效有6款可揀。
 · 無需連網。
 ```
 ---
@@ -367,16 +409,22 @@ y un cubo imposible de resolver se rechaza explicando por qué.
 Un curso de 7 etapas te lleva de principio a fin con el 3×3.
 Lee la explicación de cada etapa y, al tocar un algoritmo, el cubo lo ejecuta.
 Practica solo esa etapa; al superarla se desbloquea la siguiente.
+También hay un curso de 5 etapas para el 4×4, y cada etapa muestra tarjetas con dibujos: «esta forma, este algoritmo».
 
 ■ Pistas — si te quedas atascado
 Te decimos el siguiente movimiento y por qué.
 Las pistas siguen el método que aprendiste, no la solución más corta,
 así que cada pista sirve también de repaso.
 La vista desplegada resalta la pieza en la que debes fijarte.
+Hay pistas para el 3×3, el 4×4 y los cuatro cubos especiales.
 
 ■ Práctica — si ya sabes resolverlo
 Mezcla y cronometra 2×2, 3×3 y 4×4.
 Inspección de 15 segundos, mejor marca, ao5 y ao12.
+
+■ Cubos especiales
+Prueba el cubo espejo, Pyraminx, Skewb y Megaminx.
+Cada uno tiene mezclas, cronómetro y registros, además de pistas y un curso para aprender.
 
 ■ Personalízalo
 Elige entre diseños de color o diseños con imagen.
@@ -387,6 +435,7 @@ Las imágenes pueden ocupar una cara entera o repetirse en cada casilla.
 · Funcionan tanto los gestos como los botones de notación.
 · Temas oscuro y claro.
 · Disponible en 14 idiomas.
+· Elige entre seis sonidos de giro.
 · No necesita conexión a internet.
 ```
 ---
@@ -419,16 +468,22 @@ Un cours en 7 étapes vous mène au bout du 3×3.
 Lisez l'explication de chaque étape puis touchez un algorithme :
 le cube l'exécute devant vous.
 Entraînez-vous sur cette étape seule ; la réussir débloque la suivante.
+Un cours en 5 étapes existe aussi pour le 4×4, et chaque étape montre des cartes illustrées : « cette forme, cet algorithme ».
 
 ■ Indices — si vous bloquez
 Le prochain mouvement vous est indiqué, avec sa raison.
 Les indices suivent la méthode apprise plutôt que la solution la plus courte :
 chaque indice est donc aussi une révision.
 La vue dépliée met en évidence la pièce à observer.
+Les indices fonctionnent sur le 3×3, le 4×4 et les quatre cubes spéciaux.
 
 ■ Entraînement — si vous savez déjà résoudre
 Mélangez et chronométrez le 2×2, le 3×3 et le 4×4.
 Inspection de 15 secondes, record personnel, ao5 et ao12.
+
+■ Cubes spéciaux
+Essayez le cube miroir, le Pyraminx, le Skewb et le Megaminx.
+Chacun a mélanges, chrono et records, ainsi que des indices et un cours.
 
 ■ Personnalisez
 Choisissez un jeu de couleurs ou un skin illustré.
@@ -439,6 +494,7 @@ Une image peut couvrir une face entière ou se répéter sur chaque case.
 · Les gestes et les boutons de notation fonctionnent tous les deux.
 · Thèmes sombre et clair.
 · Disponible en 14 langues.
+· Six sons de rotation au choix.
 · Aucune connexion internet requise.
 ```
 ---
@@ -471,16 +527,22 @@ Ein Kurs in 7 Stufen bringt dich beim 3×3 bis zum Ende.
 Lies die Erklärung zu jeder Stufe und tippe auf einen Algorithmus —
 der Würfel führt ihn dir vor.
 Übe nur diese Stufe; wer sie schafft, schaltet die nächste frei.
+Für den 4×4 gibt es einen eigenen 5-Schritte-Kurs, und jeder Schritt zeigt Bildkarten: „diese Form, dieser Algorithmus“.
 
 ■ Hinweise — wenn du feststeckst
 Du siehst den nächsten Zug und den Grund dafür.
 Die Hinweise folgen der gelernten Methode statt der kürzesten Lösung,
 so ist jeder Hinweis zugleich eine Wiederholung.
 Die Netzansicht hebt das Teil hervor, auf das du achten sollst.
+Hinweise gibt es für 3×3, 4×4 und alle vier besonderen Würfel.
 
 ■ Üben — wenn du schon lösen kannst
 Mische und stoppe die Zeit bei 2×2, 3×3 und 4×4.
 15-Sekunden-Inspektion, Bestzeit, ao5 und ao12.
+
+■ Besondere Würfel
+Probiere Spiegelwürfel, Pyraminx, Skewb und Megaminx aus.
+Jeder hat Mischen, Timer und Rekorde sowie Hinweise und einen Lernkurs.
 
 ■ Nach deinem Geschmack
 Wähle ein Farbschema oder einen Bild-Skin.
@@ -491,6 +553,7 @@ Bilder können eine ganze Seite füllen oder sich pro Feld wiederholen.
 · Wischgesten und Zugschaltflächen funktionieren beide.
 · Dunkles und helles Design.
 · In 14 Sprachen verfügbar.
+· Sechs Drehgeräusche zur Auswahl.
 · Keine Internetverbindung nötig.
 ```
 ---
@@ -522,16 +585,22 @@ e um cubo impossível de resolver é recusado com o motivo.
 Um curso de 7 etapas leva você até o fim do 3×3.
 Leia a explicação de cada etapa e toque em um algoritmo: o cubo executa para você.
 Pratique só aquela etapa; ao concluí-la, a próxima é liberada.
+Há também um curso de 5 etapas para o 4×4, e cada etapa mostra cartões ilustrados: “esta forma, este algoritmo”.
 
 ■ Dicas — se você travar
 Mostramos o próximo movimento e o motivo dele.
 As dicas seguem o método que você aprendeu, e não a solução mais curta,
 então cada dica também serve de revisão.
 A vista planificada destaca a peça que você deve observar.
+Há dicas para o 3×3, o 4×4 e os quatro cubos especiais.
 
 ■ Prática — se você já sabe resolver
 Embaralhe e cronometre 2×2, 3×3 e 4×4.
 Inspeção de 15 segundos, melhor marca, ao5 e ao12.
+
+■ Cubos especiais
+Experimente o cubo espelho, Pyraminx, Skewb e Megaminx.
+Cada um tem embaralhamento, cronômetro e recordes, além de dicas e um curso para aprender.
 
 ■ Deixe do seu jeito
 Escolha um esquema de cores ou um skin com imagem.
@@ -542,6 +611,7 @@ As imagens podem cobrir uma face inteira ou se repetir em cada adesivo.
 · Gestos e botões de movimento funcionam juntos.
 · Temas escuro e claro.
 · Disponível em 14 idiomas.
+· Escolha entre seis sons de giro.
 · Não precisa de internet.
 ```
 ---
@@ -573,16 +643,22 @@ As imagens podem cobrir uma face inteira ou se repetir em cada adesivo.
 Курс из 7 этапов проведёт вас через 3×3 от начала до конца.
 Прочитайте объяснение к этапу и нажмите на алгоритм — кубик выполнит его сам.
 Отрабатывайте только этот этап; пройдёте — откроется следующий.
+Для 4×4 есть отдельный курс из 5 этапов, и на каждом этапе карточки с картинками: «такая форма — такой алгоритм».
 
 ■ Подсказки — если застряли
 Показываем следующий ход и объясняем, почему именно он.
 Подсказки идут по изученному методу, а не по кратчайшему решению,
 поэтому каждая подсказка заодно и повторение.
 На развёртке подсвечивается элемент, на который надо смотреть.
+Подсказки есть для 3×3, 4×4 и всех четырёх необычных кубиков.
 
 ■ Практика — если вы уже умеете собирать
 Перемешивайте и засекайте время на 2×2, 3×3 и 4×4.
 15 секунд на осмотр, личный рекорд, ao5 и ao12.
+
+■ Необычные кубики
+Попробуйте зеркальный куб, Пираминкс, Скьюб и Мегаминкс.
+У каждого есть скрамбл, таймер и рекорды, а также подсказки и обучающий курс.
 
 ■ Оформление
 Выберите цветовую схему или скин с рисунком.
@@ -593,6 +669,7 @@ As imagens podem cobrir uma face inteira ou se repetir em cada adesivo.
 · Работают и жесты, и кнопки ходов.
 · Тёмная и светлая темы.
 · Доступно на 14 языках.
+· Шесть звуков поворота на выбор.
 · Интернет не требуется.
 ```
 ---
@@ -624,16 +701,22 @@ còn cách sắp xếp vốn không thể giải được sẽ bị chặn kèm 
 Khóa 7 bước đưa bạn đi hết khối 3×3.
 Đọc phần giải thích của từng bước, chạm vào công thức và khối sẽ tự xoay cho xem.
 Bạn có thể luyện riêng bước đó; qua được thì bước kế mở ra.
+Còn có khóa 5 bước cho 4×4, mỗi bước có thẻ hình “hình này thì công thức này”.
 
 ■ Gợi ý — khi bị bí
 Cho bạn biết nước đi tiếp theo và lý do của nó.
 Gợi ý bám theo cách bạn đã học chứ không phải lời giải ngắn nhất,
 nên mỗi gợi ý cũng là một lần ôn lại.
 Hình khai triển sẽ làm nổi bật mảnh bạn cần nhìn.
+Có gợi ý cho 3×3, 4×4 và cả bốn khối đặc biệt.
 
 ■ Luyện tập — nếu bạn đã biết giải
 Trộn và bấm giờ cho 2×2, 3×3 và 4×4.
 Quan sát 15 giây, thành tích tốt nhất, ao5 và ao12.
+
+■ Khối đặc biệt
+Thử khối gương, Pyraminx, Skewb và Megaminx.
+Mỗi loại đều có trộn, bấm giờ, thành tích, cùng gợi ý và khóa học.
 
 ■ Trang trí theo ý bạn
 Chọn bộ màu hoặc giao diện có hình.
@@ -644,6 +727,7 @@ Hình có thể trải kín một mặt hoặc lặp lại trên từng ô.
 · Dùng được cả thao tác vuốt lẫn nút ký hiệu.
 · Có giao diện tối và sáng.
 · Hỗ trợ 14 ngôn ngữ.
+· Chọn một trong sáu âm thanh khi xoay.
 · Không cần kết nối internet.
 ```
 ---
@@ -675,16 +759,22 @@ dan susunan yang memang mustahil diselesaikan akan ditolak beserta alasannya.
 Kursus 7 tahap membawamu menuntaskan kubus 3×3.
 Baca penjelasan tiap tahap, lalu ketuk algoritma dan kubus akan memperagakannya.
 Latih tahap itu saja; begitu lulus, tahap berikutnya terbuka.
+Ada juga kursus 5 tahap untuk 4×4, dan setiap tahap menampilkan kartu bergambar: “bentuk ini, algoritma ini”.
 
 ■ Petunjuk — kalau kamu buntu
 Kami tunjukkan gerakan berikutnya beserta alasannya.
 Petunjuk mengikuti metode yang kamu pelajari, bukan solusi terpendek,
 jadi setiap petunjuk sekaligus jadi pengulangan.
 Tampilan jaring menyorot bagian yang perlu kamu perhatikan.
+Petunjuk tersedia untuk 3×3, 4×4, dan keempat kubus unik.
 
 ■ Latihan — kalau kamu sudah bisa menyelesaikannya
 Acak dan hitung waktu untuk 2×2, 3×3, dan 4×4.
 Inspeksi 15 detik, rekor terbaik, ao5 dan ao12.
+
+■ Kubus unik
+Coba kubus cermin, Pyraminx, Skewb, dan Megaminx.
+Masing-masing punya acakan, timer, dan catatan, plus petunjuk dan kursus belajar.
 
 ■ Sesuaikan tampilannya
 Pilih skema warna atau skin bergambar.
@@ -695,6 +785,7 @@ Gambar bisa memenuhi satu sisi penuh atau diulang di tiap kotak.
 · Kontrol geser dan tombol notasi sama-sama bisa dipakai.
 · Tema gelap dan terang.
 · Tersedia dalam 14 bahasa.
+· Pilih dari enam suara putaran.
 · Tidak perlu koneksi internet.
 ```
 ---
@@ -726,16 +817,22 @@ Gambar bisa memenuhi satu sisi penuh atau diulang di tiap kotak.
 คอร์ส 7 ขั้นพาคุณแก้ลูกบาศก์ 3×3 จนจบ
 อ่านคำอธิบายของแต่ละขั้น แล้วแตะสูตร ลูกบาศก์จะหมุนให้ดูเอง
 ฝึกเฉพาะขั้นนั้นได้ และเมื่อผ่านแล้วขั้นถัดไปจะปลดล็อก
+มีคอร์ส 4×4 แบบ 5 ขั้นด้วย และทุกขั้นมีการ์ดภาพ “รูปแบบนี้ ใช้สูตรนี้”
 
 ■ คำใบ้ — เมื่อคุณติด
 บอกท่าถัดไปพร้อมเหตุผล
 คำใบ้เดินตามวิธีที่คุณเรียนมา ไม่ใช่คำตอบที่สั้นที่สุด
 คำใบ้แต่ละครั้งจึงเป็นการทบทวนไปในตัว
 แผนภาพคลี่จะเน้นชิ้นที่คุณควรดูตอนนี้
+มีคำใบ้สำหรับ 3×3, 4×4 และลูกบาศก์แบบพิเศษทั้งสี่แบบ
 
 ■ ฝึกซ้อม — ถ้าคุณแก้เป็นอยู่แล้ว
 สับและจับเวลา 2×2, 3×3 และ 4×4
 มีเวลาตรวจสอบ 15 วินาที สถิติที่ดีที่สุด ao5 และ ao12
+
+■ ลูกบาศก์แบบพิเศษ
+ลองเล่นลูกบาศก์กระจก พีระมินซ์ สกิวบ์ และเมกะมินซ์
+ทุกแบบมีการสับ จับเวลา สถิติ พร้อมคำใบ้และคอร์สเรียน
 
 ■ แต่งให้เป็นแบบคุณ
 เลือกชุดสีหรือสกินแบบภาพ
@@ -746,6 +843,7 @@ Gambar bisa memenuhi satu sisi penuh atau diulang di tiap kotak.
 · ใช้ได้ทั้งการปัดนิ้วและปุ่มสัญลักษณ์
 · มีธีมมืดและสว่าง
 · รองรับ 14 ภาษา
+· เลือกเสียงตอนหมุนได้ 6 แบบ
 · ไม่ต้องเชื่อมต่ออินเทอร์เน็ต
 ```
 ---
