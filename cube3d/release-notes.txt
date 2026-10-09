@@ -3,82 +3,96 @@
 · Learn mode now uses picture cheat cards: see the shape, tap it, and the cube shows the algorithm. New 5-stage 4×4 course.
 · New special puzzles: Mirror Cube (with hints), Pyraminx, Skewb and Megaminx.
 · Hints and lessons for all special puzzles: Mirror Cube, Pyraminx, Skewb and Megaminx.
+· More games from the developer, now on the home screen.
 </en-US>
 <de-DE>
 · Hinweise jetzt auch für den 4×4: Mitten, Kantenpaare, Parität, dann wie einen 3×3 lösen.
 · Lernen mit Bild-Spickzetteln: Form ansehen, antippen, der Würfel zeigt den Algorithmus. Neuer 4×4-Kurs in 5 Stufen.
 · Neue besondere Würfel: Spiegelwürfel (mit Hinweisen), Pyraminx, Skewb und Megaminx.
 · Hinweise und Lektionen für alle besonderen Würfel: Spiegelwürfel, Pyraminx, Skewb und Megaminx.
+· Neu auf dem Startbildschirm: Weitere Spiele des Entwicklers.
 </de-DE>
 <es-ES>
 · Ahora también hay pistas para el 4×4: centros, parejas de aristas, paridad y luego como un 3×3.
 · Aprender ahora usa chuletas con dibujos: mira la forma, tócala y el cubo muestra el algoritmo. Nuevo curso 4×4 de 5 etapas.
 · Nuevos cubos especiales: cubo espejo (con pistas), Pyraminx, Skewb y Megaminx.
 · Pistas y lecciones para todos los cubos especiales: cubo espejo, Pyraminx, Skewb y Megaminx.
+· Nuevo en la pantalla de inicio: Más juegos del desarrollador.
 </es-ES>
 <fr-FR>
 · Indices désormais aussi pour le 4×4 : centres, paires d’arêtes, parité, puis comme un 3×3.
 · Apprendre utilise des aide-mémoire illustrés : touchez la forme et le cube montre l’algorithme. Nouveau parcours 4×4 en 5 étapes.
 · Nouveaux cubes spéciaux : cube miroir (avec indices), Pyraminx, Skewb et Megaminx.
 · Indices et leçons pour tous les cubes spéciaux : cube miroir, Pyraminx, Skewb et Megaminx.
+· Nouveau sur l'écran d'accueil : Autres jeux du développeur.
 </fr-FR>
 <id>
 · Petunjuk kini juga untuk 4×4: pusat, pasangan rusuk, paritas, lalu selesaikan seperti 3×3.
 · Belajar kini memakai kartu contekan bergambar: ketuk bentuknya dan kubus memperagakan algoritmanya. Kursus 4×4 baru 5 tahap.
 · Kubus unik baru: kubus cermin (dengan petunjuk), Pyraminx, Skewb, dan Megaminx.
 · Petunjuk dan pelajaran untuk semua kubus unik: kubus cermin, Pyraminx, Skewb, dan Megaminx.
+· Baru di layar utama: Game lain dari pengembang.
 </id>
 <ja-JP>
 ・4×4でもヒントが使えます。センター、エッジのペア、パリティ、そして3×3と同じ手順で揃えます。
 ・学ぶが絵の早見表に。形をタップするとキューブが手順を実演します。4×4コース（5段階）を追加。
 ・変わったパズルを追加：ミラーキューブ（ヒントあり）、ピラミンクス、スキューブ、メガミンクス。
 ・変わったパズル全部にヒントと学習を追加：ミラーキューブ、ピラミンクス、スキューブ、メガミンクス。
+・ホーム画面に「開発者のほかのゲーム」を追加。
 </ja-JP>
 <ko-KR>
 · 4×4도 힌트를 줍니다. 센터 → 엣지 짝 → 패리티 → 3×3처럼 순서로 안내합니다.
 · 배우기를 족보 카드로 바꿨습니다. 모양 그림을 누르면 큐브가 공식을 보여 줍니다. 4×4 코스(5단계)도 생겼습니다.
 · 특이한 큐브 추가: 미러 큐브(힌트 포함), 피라밍크스, 스큐브, 메가밍크스.
 · 특이한 큐브 넷(미러·피라밍크스·스큐브·메가밍크스) 모두 힌트와 배우기를 추가했습니다.
+· 홈 화면에 「개발자의 다른 게임」을 넣었습니다.
 </ko-KR>
 <pt-BR>
 · Agora há dicas também para o 4×4: centros, pares de arestas, paridade e depois como um 3×3.
 · Aprender agora usa colas com desenhos: toque na forma e o cubo mostra o algoritmo. Novo curso 4×4 de 5 etapas.
 · Novos cubos especiais: cubo espelho (com dicas), Pyraminx, Skewb e Megaminx.
 · Dicas e lições para todos os cubos especiais: cubo espelho, Pyraminx, Skewb e Megaminx.
+· Novo na tela inicial: Mais jogos do desenvolvedor.
 </pt-BR>
 <ru-RU>
 · Подсказки теперь есть и для 4×4: центры, пары рёбер, паритет, а затем как 3×3.
 · Обучение теперь на карточках-шпаргалках: нажмите фигуру, и кубик покажет алгоритм. Новый курс 4×4 из 5 этапов.
 · Новые необычные кубики: зеркальный куб (с подсказками), Пираминкс, Скьюб и Мегаминкс.
 · Подсказки и уроки для всех необычных кубиков: зеркальный куб, Пираминкс, Скьюб и Мегаминкс.
+· На главном экране: Другие игры разработчика.
 </ru-RU>
 <th>
 · 4×4 มีคำใบ้แล้ว: เซ็นเตอร์ จับคู่เอดจ์ พาริตี้ แล้วแก้แบบ 3×3
 · บทเรียนเป็นการ์ดโพยสูตรแบบรูป แตะรูปแล้วลูกบาศก์จะทำสูตรให้ดู เพิ่มคอร์ส 4×4 (5 ขั้น)
 · เพิ่มลูกบาศก์แบบพิเศษ: ลูกบาศก์กระจก (มีคำใบ้) พีระมินซ์ สกิวบ์ และเมกะมินซ์
 · เพิ่มคำใบ้และบทเรียนให้ลูกบาศก์แบบพิเศษทั้งหมด: ลูกบาศก์กระจก พีระมินซ์ สกิวบ์ และเมกะมินซ์
+· เพิ่ม "เกมอื่นของผู้พัฒนา" ที่หน้าหลัก
 </th>
 <vi>
 · Khối 4×4 nay cũng có gợi ý: tâm, ghép cạnh, parity, rồi giải như 3×3.
 · Học giờ dùng thẻ tra nhanh có hình: chạm vào hình, khối sẽ làm mẫu công thức. Thêm khóa 4×4 gồm 5 bước.
 · Thêm khối đặc biệt: khối gương (có gợi ý), Pyraminx, Skewb và Megaminx.
 · Thêm gợi ý và bài học cho mọi khối đặc biệt: khối gương, Pyraminx, Skewb và Megaminx.
+· Mới ở màn hình chính: Trò chơi khác của nhà phát triển.
 </vi>
 <zh-CN>
 · 4×4 现在也有提示：中心块、棱块配对、奇偶，然后按 3×3 的方法还原。
 · 学习改为图示速查卡：点一下形状，魔方就演示公式。新增 4×4 课程（5 个阶段）。
 · 新增异形魔方：镜面魔方（带提示）、金字塔、斜转魔方、五魔方。
 · 所有异形魔方都有提示和学习了：镜面魔方、金字塔、斜转魔方、五魔方。
+· 首页新增「开发者的其他游戏」。
 </zh-CN>
 <zh-HK>
 · 4×4 而家都有提示：中心塊、邊塊配對、奇偶，然後用 3×3 嘅方法還原。
 · 學習改為圖示速查卡：撳一下形狀，魔方就示範公式。新增 4×4 課程（5 個階段）。
 · 新增異形魔方：鏡面魔方（有提示）、金字塔、斜轉魔方、五魔方。
 · 所有異形魔方都有提示同學習：鏡面魔方、金字塔、斜轉魔方、五魔方。
+· 首頁新增「開發者的其他遊戲」。
 </zh-HK>
 <zh-TW>
 · 4×4 現在也有提示：中心塊、邊塊配對、奇偶，然後用 3×3 的方法還原。
 · 學習改為圖示速查卡：點一下形狀，魔方就示範公式。新增 4×4 課程（5 個階段）。
 · 新增異形魔方：鏡面魔方（有提示）、金字塔、斜轉魔方、五魔方。
 · 所有異形魔方都有提示和學習了：鏡面魔方、金字塔、斜轉魔方、五魔方。
+· 首頁新增「開發者的其他遊戲」。
 </zh-TW>
