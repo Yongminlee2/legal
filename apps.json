@@ -4,31 +4,281 @@
    "id": "com.peep.science",
    "name": "삐약과학 - 물리 퍼즐 게임",
    "desc": "부품 12종을 조립하고 ▶로 굴리면 진짜 물리로 풀리는 퍼즐. 100스테이지 5개 월드, 온 가족이 함께.",
-   "icon": "apps/icons/com.peep.science.jpg"
+   "icon": "apps/icons/com.peep.science.jpg",
+   "i18n": {
+    "en": {
+     "name": "Peep Science - Physics Puzzle",
+     "desc": "12 parts, real physics, 100 stages in 5 worlds. Build it, run it, watch it work."
+    },
+    "ja": {
+     "name": "Peep Science - 物理組み立てパズル",
+     "desc": "パーツ12種を組んで▶を押すと、本物の物理で動きだす。5つの世界に100ステージ。"
+    },
+    "zh": {
+     "name": "Peep Science - 物理组装解谜",
+     "desc": "12 种零件组装，按下▶就交给真实物理。5 个世界，共 100 关。"
+    },
+    "zh_Hant": {
+     "name": "Peep Science - 物理組裝解謎",
+     "desc": "12 種零件組裝，按下▶就交給真實物理。5 個世界，共 100 關。"
+    },
+    "es": {
+     "name": "Peep Science - Puzle de Física",
+     "desc": "12 piezas, física real y 100 niveles en 5 mundos. Móntalo, pulsa ▶ y observa."
+    },
+    "pt": {
+     "name": "Peep Science - Quebra-cabeça",
+     "desc": "12 peças, física de verdade, 100 fases em 5 mundos. Monte, aperte ▶ e observe."
+    },
+    "de": {
+     "name": "Peep Science - Physik-Puzzle",
+     "desc": "12 Teile, echte Physik, 100 Stufen in 5 Welten. Bauen, ▶ drücken, staunen."
+    },
+    "fr": {
+     "name": "Peep Science - Jeu de Physique",
+     "desc": "12 pièces, vraie physique, 100 niveaux, 5 mondes. Construis, lance ▶, observe."
+    },
+    "it": {
+     "name": "Peep Science - Fisica e Puzzle",
+     "desc": "12 pezzi, fisica vera e 100 livelli in 5 mondi. Costruisci, premi ▶ e osserva."
+    },
+    "ru": {
+     "name": "Peep Science - Головоломка",
+     "desc": "12 деталей, настоящая физика, 100 уровней в 5 мирах. Собери, нажми ▶, смотри."
+    },
+    "id": {
+     "name": "Peep Science - Puzzle Fisika",
+     "desc": "12 bagian, fisika sungguhan, 100 level di 5 dunia. Susun, tekan ▶, amati."
+    },
+    "vi": {
+     "name": "Peep Science - Giải đố Vật lý",
+     "desc": "12 mảnh ghép, vật lý thật, 100 màn chơi, 5 thế giới. Lắp, nhấn ▶, xem chạy."
+    },
+    "th": {
+     "name": "Peep Science - ปริศนาฟิสิกส์",
+     "desc": "ประกอบชิ้นส่วน 12 แบบ กด ▶ แล้วปล่อยให้ฟิสิกส์จริงทำงาน 100 ด่าน 5 โลก"
+    }
+   }
   },
   {
    "id": "com.peep.puzzle",
    "name": "삐약푸쉬 - 소코반퍼즐",
    "desc": "알을 밀어 둥지에 넣는 병아리 소코반 퍼즐. 300스테이지에 매일 새 퍼즐까지.",
-   "icon": "apps/icons/com.peep.puzzle.jpg"
+   "icon": "apps/icons/com.peep.puzzle.jpg",
+   "i18n": {
+    "en": {
+     "name": "Peep Push - Sokoban Puzzle",
+     "desc": "A chick pushes eggs into nests. 300 hand-verified levels, plus a new one daily."
+    },
+    "ja": {
+     "name": "ピヨプッシュ - 倉庫番パズル",
+     "desc": "ヒヨコがタマゴを押して巣に入れる倉庫番パズル。300ステージ＋毎日の新問題。"
+    },
+    "zh": {
+     "name": "Peep Push - 推箱子谜题",
+     "desc": "小鸡把蛋推进窝里的推箱子谜题。300个关卡，外加每日新题。"
+    },
+    "zh_Hant": {
+     "name": "Peep Push - 推箱子謎題",
+     "desc": "小雞把蛋推進窩裡的推箱子謎題。300個關卡，外加每日新題。"
+    },
+    "es": {
+     "name": "Peep Push - Puzle Sokoban",
+     "desc": "Un pollito empuja huevos hasta los nidos. 300 niveles y un puzle nuevo cada día."
+    },
+    "pt": {
+     "name": "Peep Push - Quebra-cabeça",
+     "desc": "Um pintinho empurra ovos até os ninhos. 300 fases e um desafio novo todo dia."
+    },
+    "de": {
+     "name": "Peep Push - Sokoban Puzzle",
+     "desc": "Ein Küken schiebt Eier in Nester. 300 Level und jeden Tag ein neues Rätsel."
+    },
+    "fr": {
+     "name": "Peep Push - Puzzle Sokoban",
+     "desc": "Un poussin pousse des œufs vers les nids. 300 niveaux et un puzzle chaque jour."
+    },
+    "ru": {
+     "name": "Peep Push - Сокобан",
+     "desc": "Цыплёнок толкает яйца в гнёзда. 300 уровней и новая головоломка каждый день."
+    },
+    "id": {
+     "name": "Peep Push - Teka-teki Sokoban",
+     "desc": "Anak ayam mendorong telur ke sarang. 300 level dan teka-teki baru setiap hari."
+    },
+    "vi": {
+     "name": "Peep Push - Giải đố Sokoban",
+     "desc": "Gà con đẩy trứng vào tổ. 300 màn chơi và một câu đố mới mỗi ngày."
+    },
+    "th": {
+     "name": "Peep Push - ปริศนาโซโคบัน",
+     "desc": "ลูกเจี๊ยบดันไข่เข้ารัง 300 ด่าน พร้อมปริศนาใหม่ทุกวัน"
+    }
+   }
   },
   {
    "id": "com.geomgang.game",
    "name": "검 강화 — 검 키우기",
    "desc": "검을 강화해서 올립니다. 부서지면 되살릴지 조각을 챙길지 그 자리에서 고릅니다.",
-   "icon": "apps/icons/com.geomgang.game.jpg"
+   "icon": "apps/icons/com.geomgang.game.jpg",
+   "i18n": {
+    "en": {
+     "name": "Sword Forge — Enhance & Break",
+     "desc": "Enhance one sword higher. When it shatters: restore it, or salvage shards."
+    },
+    "ja": {
+     "name": "剣強化 — 一本を強くする",
+     "desc": "剣を強化して上げる。砕けた瞬間、直すかシャードを拾うかをその場で選ぶ。"
+    },
+    "zh": {
+     "name": "锻剑 — 一把剑强化到底",
+     "desc": "把一把剑一路强化上去。碎裂的瞬间，是修好还是捡碎片，你当场决定。"
+    },
+    "zh_Hant": {
+     "name": "鍛劍 — 一把劍強化到底",
+     "desc": "把一把劍一路強化上去。碎裂的瞬間，是修好還是撿碎片，你當場決定。"
+    },
+    "es": {
+     "name": "Forja de Espadas: sube o rompe",
+     "desc": "Mejora una espada para subirla. Si se rompe: repárala o salva fragmentos."
+    },
+    "pt": {
+     "name": "Forja de Espadas: sobe ou cai",
+     "desc": "Aprimore uma espada para subir. Se quebrar: restaure ou salve fragmentos."
+    },
+    "de": {
+     "name": "Schwertschmiede — Verstärken",
+     "desc": "Verstärke ein Schwert höher. Zerbricht es: retten oder Scherben bergen."
+    },
+    "fr": {
+     "name": "Forge d'Épées — Monte ou casse",
+     "desc": "Améliore une épée pour la monter. Si elle se brise : répare ou récupère."
+    },
+    "ru": {
+     "name": "Кузница Мечей: до +50",
+     "desc": "Улучшай один меч всё выше. Разбился — выбирай: вернуть его или забрать осколки."
+    },
+    "id": {
+     "name": "Tempa Pedang — Naik atau pecah",
+     "desc": "Tingkatkan satu pedang makin tinggi. Kalau pecah: pulihkan atau ambil pecahan."
+    },
+    "vi": {
+     "name": "Rèn Kiếm — Lên hoặc vỡ",
+     "desc": "Cường hóa một thanh kiếm lên cao. Kiếm vỡ thì bạn chọn: cứu nó hay nhặt mảnh vỡ."
+    },
+    "th": {
+     "name": "ตีดาบ — ขึ้นหรือแตก",
+     "desc": "เสริมพลังดาบเล่มเดียวให้สูงขึ้น ถ้าแตก คุณเลือกเอง จะซ่อมหรือจะเก็บเศษ"
+    }
+   }
   },
   {
    "id": "com.waxball.asmr",
    "name": "왁뿌볼 - 증강현실 AR·ASMR",
    "desc": "손바닥에 올려놓고 쥐어서 부수는 왁스볼 촉감 AR·ASMR",
-   "icon": "apps/icons/com.waxball.asmr.jpg"
+   "icon": "apps/icons/com.waxball.asmr.jpg",
+   "i18n": {
+    "en": {
+     "name": "WaxBall - AR ASMR Squishy",
+     "desc": "Rest a wax ball on your palm and squeeze. Real recorded crushing sounds."
+    },
+    "ja": {
+     "name": "ワックスボール - AR ASMR",
+     "desc": "手のひらに乗せて握って砕く、ワックスボールの触感ASMR"
+    },
+    "zh": {
+     "name": "捏蜡球 - AR ASMR 解压",
+     "desc": "放在手掌上握紧捏碎，蜡球触感ASMR"
+    },
+    "es": {
+     "name": "WaxBall - ASMR en RA",
+     "desc": "Pon la bola de cera en tu palma y aprieta. Sonidos reales grabados."
+    },
+    "pt": {
+     "name": "WaxBall - ASMR em RA",
+     "desc": "Coloque a bola de cera na palma da mão e aperte. Sons reais gravados."
+    },
+    "de": {
+     "name": "WaxBall - AR ASMR Knete",
+     "desc": "Wachsball auf die Handfläche legen und zerdrücken. Echte Aufnahmen."
+    },
+    "fr": {
+     "name": "WaxBall - ASMR en RA",
+     "desc": "Pose la boule de cire sur ta paume et serre. Sons réels enregistrés."
+    },
+    "ru": {
+     "name": "WaxBall - AR ASMR антистресс",
+     "desc": "Положите восковой шарик на ладонь и сожмите. Настоящие записи звуков."
+    },
+    "id": {
+     "name": "WaxBall - ASMR AR Squishy",
+     "desc": "Letakkan bola lilin di telapak tangan dan genggam. Suara rekaman asli."
+    },
+    "vi": {
+     "name": "WaxBall - ASMR AR bóp dẻo",
+     "desc": "Đặt bóng sáp lên lòng bàn tay và bóp. Âm thanh thu thật."
+    },
+    "th": {
+     "name": "WaxBall - ASMR AR บีบคลาย",
+     "desc": "วางลูกบอลขี้ผึ้งบนฝ่ามือแล้วบีบ เสียงจริงจากการบันทึก"
+    }
+   }
   },
   {
    "id": "com.ymlee.cube",
    "name": "3D 큐브 — 배우기와 타이머",
    "desc": "실물 큐브를 카메라로 찍으면 다음 수를 알려줍니다. 처음부터 배울 수도 있어요.",
-   "icon": "apps/icons/com.ymlee.cube.jpg"
+   "icon": "apps/icons/com.ymlee.cube.jpg",
+   "i18n": {
+    "en": {
+     "name": "3D Cube — Learn & Timer",
+     "desc": "Scan your real cube and get the next move. Or learn to solve it from scratch."
+    },
+    "ja": {
+     "name": "3Dキューブ — 学習とタイマー",
+     "desc": "実物のキューブをカメラで撮ると次の一手がわかります。最初から学ぶこともできます。"
+    },
+    "zh": {
+     "name": "3D魔方 — 学习与计时",
+     "desc": "用相机拍下实体魔方，就告诉你下一步。也能从零学起。"
+    },
+    "zh_Hant": {
+     "name": "3D魔方 — 學習與計時",
+     "desc": "用相機拍下實體魔方，就告訴你下一步。也能從零學起。"
+    },
+    "es": {
+     "name": "Cubo 3D — Aprende y practica",
+     "desc": "Escanea tu cubo real y te decimos el siguiente giro. O aprende desde cero."
+    },
+    "pt": {
+     "name": "Cubo 3D — Aprenda e treine",
+     "desc": "Escaneie seu cubo real e receba o próximo giro. Ou aprenda do zero."
+    },
+    "de": {
+     "name": "3D-Würfel — Lernen & Timer",
+     "desc": "Scanne deinen echten Würfel — wir zeigen den nächsten Zug. Oder lerne es neu."
+    },
+    "fr": {
+     "name": "Cube 3D — Apprendre & Timer",
+     "desc": "Scannez votre vrai cube : on vous donne le coup suivant. Ou apprenez à zéro."
+    },
+    "ru": {
+     "name": "3D-кубик — обучение и таймер",
+     "desc": "Снимите настоящий кубик — подскажем следующий ход. Или научитесь с нуля."
+    },
+    "id": {
+     "name": "Kubus 3D — Belajar & Timer",
+     "desc": "Pindai kubus asli dengan kamera, lalu lihat langkah berikutnya. Atau belajar."
+    },
+    "vi": {
+     "name": "Khối 3D — Học và bấm giờ",
+     "desc": "Quét khối thật bằng camera, ứng dụng chỉ nước tiếp theo. Hoặc học từ đầu."
+    },
+    "th": {
+     "name": "ลูกบาศก์ 3D — เรียนและจับเวลา",
+     "desc": "สแกนลูกบาศก์จริงด้วยกล้อง แล้วดูว่าต้องหมุนอะไรต่อ หรือเรียนตั้งแต่ต้น"
+    }
+   }
   },
   {
    "id": "com.testmin.app",
