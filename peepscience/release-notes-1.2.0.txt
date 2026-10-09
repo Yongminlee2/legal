@@ -1,0 +1,90 @@
+<ko-KR>
+1.2.0 업데이트
+· 개발자의 다른 게임 — 시작 화면에서 다른 게임을 둘러볼 수 있어요.
+· 새 버전이 나오면 앱을 켤 때 바로 업데이트할 수 있어요.
+· 클리어 화면에서 힌트 단추가 눌리던 문제를 고쳤어요.
+</ko-KR>
+<en-US>
+Version 1.2.0
+· More games from the developer: browse my other games from the start screen.
+· When a new version is out, you can update right as you open the app.
+· Fixed the hint button responding on the stage-clear screen.
+</en-US>
+<ja-JP>
+バージョン1.2.0
+· 開発者のほかのゲーム — スタート画面からほかのゲームを見られます。
+· 新しいバージョンが出たら、アプリを開いたときにすぐ更新できます。
+· クリア画面でヒントボタンが反応していた問題を直しました。
+</ja-JP>
+<zh-CN>
+1.2.0 版本更新
+· 开发者的其他游戏：在开始画面就能看看其他游戏。
+· 有新版本时，打开应用就能马上更新。
+· 修正了通关画面上提示按钮仍可点击的问题。
+</zh-CN>
+<zh-TW>
+1.2.0 版本更新
+· 開發者的其他遊戲：在開始畫面就能看看其他遊戲。
+· 有新版本時，打開應用程式就能馬上更新。
+· 修正了過關畫面上提示按鈕仍可點擊的問題。
+</zh-TW>
+<zh-HK>
+1.2.0 版本更新
+· 開發者嘅其他遊戲：喺開始畫面就可以睇吓其他遊戲。
+· 有新版本嘅時候，打開 app 就可以即刻更新。
+· 修正咗過關畫面上提示掣仲可以撳嘅問題。
+</zh-HK>
+<es-ES>
+Versión 1.2.0
+· Más juegos del desarrollador: explora mis otros juegos desde la pantalla de inicio.
+· Cuando haya una versión nueva, podrás actualizar nada más abrir la app.
+· Corregido: el botón de pista respondía en la pantalla de nivel superado.
+</es-ES>
+<pt-BR>
+Versão 1.2.0
+· Mais jogos do desenvolvedor: veja meus outros jogos na tela inicial.
+· Quando sair uma versão nova, dá para atualizar logo ao abrir o app.
+· Corrigido: o botão de dica respondia na tela de fase concluída.
+</pt-BR>
+<de-DE>
+Version 1.2.0
+· Weitere Spiele des Entwicklers: Stöbere auf dem Startbildschirm in meinen anderen Spielen.
+· Gibt es eine neue Version, kannst du sie direkt beim Öffnen der App installieren.
+· Behoben: Der Tipp-Knopf reagierte noch auf dem Geschafft-Bildschirm.
+</de-DE>
+<fr-FR>
+Version 1.2.0
+· Autres jeux du développeur : découvre mes autres jeux depuis l'écran d'accueil.
+· Quand une nouvelle version sort, tu peux la mettre à jour dès l'ouverture de l'appli.
+· Corrigé : le bouton d'indice réagissait sur l'écran de réussite.
+</fr-FR>
+<it-IT>
+Versione 1.2.0
+· Altri giochi dello sviluppatore: scopri i miei altri giochi dalla schermata iniziale.
+· Quando esce una nuova versione, puoi aggiornarla appena apri l'app.
+· Corretto: il pulsante del suggerimento rispondeva nella schermata di livello superato.
+</it-IT>
+<ru-RU>
+Версия 1.2.0
+· Другие игры разработчика: смотри мои другие игры прямо на стартовом экране.
+· Когда выходит новая версия, её можно обновить сразу при запуске.
+· Исправлено: кнопка подсказки срабатывала на экране прохождения уровня.
+</ru-RU>
+<id>
+Versi 1.2.0
+· Game lain dari pengembang: lihat game-game saya yang lain dari layar awal.
+· Saat ada versi baru, kamu bisa langsung memperbarui ketika membuka aplikasi.
+· Diperbaiki: tombol petunjuk masih bisa ditekan di layar level selesai.
+</id>
+<vi>
+Phiên bản 1.2.0
+· Trò chơi khác của nhà phát triển: xem các trò chơi khác ngay từ màn hình bắt đầu.
+· Khi có phiên bản mới, bạn có thể cập nhật ngay lúc mở ứng dụng.
+· Đã sửa lỗi nút gợi ý vẫn bấm được ở màn hình qua màn.
+</vi>
+<th>
+เวอร์ชัน 1.2.0
+· เกมอื่น ๆ ของผู้พัฒนา — ดูเกมอื่นของเราได้จากหน้าเริ่มต้น
+· เมื่อมีเวอร์ชันใหม่ อัปเดตได้ทันทีตอนเปิดแอป
+· แก้ปัญหาปุ่มคำใบ้ยังกดได้ในหน้าผ่านด่าน
+</th>
