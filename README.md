@@ -22,6 +22,9 @@ GitHub Pages로 서비스한다 (`main` 브랜치 루트).
 | 왁뿌볼 ASMR | https://yongminlee2.github.io/legal/waxball/ |
 | — 개인정보처리방침 | https://yongminlee2.github.io/legal/waxball/privacy.html |
 | — 지원 안내 | https://yongminlee2.github.io/legal/waxball/support.html |
+| HackQuest | https://yongminlee2.github.io/legal/hackquest/ |
+| — 개인정보처리방침 | https://yongminlee2.github.io/legal/hackquest/privacy.html |
+| — 지원 안내 | https://yongminlee2.github.io/legal/hackquest/support.html |
 | 삐약푸쉬 / Peep Push | https://yongminlee2.github.io/legal/peeppush/ |
 | — 개인정보처리방침 | https://yongminlee2.github.io/legal/peeppush/privacy.html |
 | — 지원 안내 | https://yongminlee2.github.io/legal/peeppush/support.html |
